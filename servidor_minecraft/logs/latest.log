@@ -276,3 +276,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [20Apr2025 20:04:09.350] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:55615] logged in with entity id 2219 at (-683.5809170935499, 193.0, -251.69999998807907)
 [20Apr2025 20:04:09.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
 [20Apr2025 20:04:09.409] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
+[20Apr2025 20:06:25.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-695, y=192, z=-251} BlockPos{x=-695, y=191, z=-251}
+[20Apr2025 20:07:18.973] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
+[20Apr2025 20:07:18.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
+[20Apr2025 20:10:44.785] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:51437] logged in with entity id 3133 at (-686.3000000119209, 63.0, -249.30000001192093)
+[20Apr2025 20:10:44.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[20Apr2025 20:10:44.842] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
