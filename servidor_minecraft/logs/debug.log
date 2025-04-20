@@ -3479,3 +3479,36 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [20Apr2025 22:57:59.802] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-40, y=63, z=37}
 [20Apr2025 23:00:49.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Apr2025 23:00:49.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 23:05:49.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 23:05:49.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 23:07:44.311] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:cold_ocean took 44 ms
+[20Apr2025 23:07:53.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Teleported caradesalchicha to 370.500000, 55.000000, 37.500000]
+[20Apr2025 23:08:01.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[20Apr2025 23:08:01.184] [Worker-Main-43/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (628 | 44 | 164).
+[20Apr2025 23:08:01.186] [Worker-Main-43/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[20Apr2025 23:08:01.187] [Worker-Main-43/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 3(0) Rooms
+[20Apr2025 23:08:01.188] [Worker-Main-43/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[20Apr2025 23:08:01.188] [Worker-Main-43/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 4(0) Rooms
+[20Apr2025 23:08:01.188] [Worker-Main-43/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[20Apr2025 23:08:01.189] [Worker-Main-43/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 9(0) Nodes and 4(0) Rooms
+[20Apr2025 23:08:01.189] [Worker-Main-43/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[20Apr2025 23:08:01.189] [Worker-Main-43/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 11(1) Nodes and 4(0) Rooms
+[20Apr2025 23:08:01.189] [Worker-Main-43/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[20Apr2025 23:08:01.189] [Worker-Main-43/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 4(0) Rooms
+[20Apr2025 23:08:26.761] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:deep_ocean took 89 ms
+[20Apr2025 23:08:38.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Teleported caradesalchicha to -201.500000, 83.000000, -501.500000]
+[20Apr2025 23:09:01.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: The difficulty has been set to Hard]
+[20Apr2025 23:09:19.485] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:deep_cold_ocean took 113 ms
+[20Apr2025 23:09:36.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Teleported caradesalchicha to -196.500000, 59.000000, -1188.500000]
+[20Apr2025 23:10:49.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 23:10:49.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 23:12:09.718] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:river took 2 ms
+[20Apr2025 23:12:26.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Teleported caradesalchicha to -76.500000, 82.000000, -1056.500000]
+[20Apr2025 23:12:46.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set the time to 13000]
+[20Apr2025 23:15:49.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 23:15:49.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 23:19:13.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Teleported caradesalchicha to -76.500000, 82.000000, -1056.500000]
+[20Apr2025 23:19:41.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Teleported caradesalchicha to -76.500000, 82.000000, -1056.500000]
+[20Apr2025 23:20:49.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 23:20:49.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 23:23:35.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Teleported caradesalchicha to -76.500000, 82.000000, -1056.500000]

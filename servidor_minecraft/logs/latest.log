@@ -284,3 +284,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [20Apr2025 22:51:23.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Spectator Mode]
 [20Apr2025 22:51:47.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
 [20Apr2025 22:56:05.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=204, y=15, z=40} BlockPos{x=203, y=14, z=40}
+[20Apr2025 23:07:44.311] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:cold_ocean took 44 ms
+[20Apr2025 23:07:53.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Teleported caradesalchicha to 370.500000, 55.000000, 37.500000]
+[20Apr2025 23:08:01.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[20Apr2025 23:08:26.761] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:deep_ocean took 89 ms
+[20Apr2025 23:08:38.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Teleported caradesalchicha to -201.500000, 83.000000, -501.500000]
+[20Apr2025 23:09:01.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: The difficulty has been set to Hard]
+[20Apr2025 23:09:19.485] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:deep_cold_ocean took 113 ms
+[20Apr2025 23:09:36.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Teleported caradesalchicha to -196.500000, 59.000000, -1188.500000]
+[20Apr2025 23:12:09.718] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:river took 2 ms
+[20Apr2025 23:12:26.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Teleported caradesalchicha to -76.500000, 82.000000, -1056.500000]
+[20Apr2025 23:12:46.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set the time to 13000]
+[20Apr2025 23:19:13.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Teleported caradesalchicha to -76.500000, 82.000000, -1056.500000]
+[20Apr2025 23:19:41.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Teleported caradesalchicha to -76.500000, 82.000000, -1056.500000]
+[20Apr2025 23:23:35.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Teleported caradesalchicha to -76.500000, 82.000000, -1056.500000]
