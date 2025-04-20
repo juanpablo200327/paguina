@@ -285,3 +285,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [20Apr2025 20:18:36.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> sergiooooooooooooooooooooooooooooooooooooooooo
 [20Apr2025 20:19:44.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
 [20Apr2025 20:19:53.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[20Apr2025 20:28:12.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[20Apr2025 20:28:19.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[20Apr2025 20:31:11.849] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss lost connection: Timed out
+[20Apr2025 20:31:11.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss left the game
+[20Apr2025 20:31:11.903] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Apr2025 20:31:14.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
+[20Apr2025 20:31:14.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
+[20Apr2025 20:31:33.128] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:43923] logged in with entity id 9023 at (11.621119303339299, 75.0, -9.5)
+[20Apr2025 20:31:33.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[20Apr2025 20:31:33.147] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
+[20Apr2025 20:32:12.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Spectator Mode]
+[20Apr2025 20:32:17.459] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a4fc17a[id=<null>,name=sergiosssssss,properties={},legacy=false] (/127.225.131.85:43863) lost connection: Disconnected
+[20Apr2025 20:32:24.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[20Apr2025 20:32:49.741] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f03bc91[id=<null>,name=sergiosssssss,properties={},legacy=false] (/127.225.131.85:40787) lost connection: Disconnected
+[20Apr2025 20:33:11.494] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sergiosssssss[/127.225.131.85:46087] logged in with entity id 9573 at (14.33892558897884, 76.0, -5.443987856313368)
+[20Apr2025 20:33:11.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss joined the game
+[20Apr2025 20:33:11.538] [Server thread/INFO] [Jade/]: Syncing config to sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b)
+[20Apr2025 20:33:33.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Spectator Mode]
+[20Apr2025 20:33:37.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Teleported caradesalchicha to sergiosssssss]
+[20Apr2025 20:33:57.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
