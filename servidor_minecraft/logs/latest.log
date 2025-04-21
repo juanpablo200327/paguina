@@ -322,3 +322,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [21Apr2025 21:48:24.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> no lo va a mostrar?
 [21Apr2025 21:49:01.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
 [21Apr2025 21:49:01.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
+[21Apr2025 21:50:22.923] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:49429] logged in with entity id 22654 at (-684.7624999880791, 192.59002852560437, -249.69999998807907)
+[21Apr2025 21:50:22.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[21Apr2025 21:50:22.979] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
+[21Apr2025 21:50:51.515] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: You logged in from another location
+[21Apr2025 21:50:51.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
+[21Apr2025 21:50:51.525] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:42173] logged in with entity id 22754 at (-683.8117637602912, 193.0, -251.0198499404371)
+[21Apr2025 21:50:51.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[21Apr2025 21:50:51.574] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
+[21Apr2025 21:51:18.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Gave 200 experience points to caradesalchicha]
+[21Apr2025 21:51:20.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Gave 200 experience points to caradesalchicha]
+[21Apr2025 21:52:01.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> sergioooo
+[21Apr2025 21:54:38.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> esta vez le toca arreglar
+[21Apr2025 21:54:39.563] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss lost connection: Disconnected
+[21Apr2025 21:54:39.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss left the game
+[21Apr2025 21:55:09.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[21Apr2025 21:58:49.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[21Apr2025 21:59:55.724] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sergiosssssss[/127.225.131.85:40995] logged in with entity id 24747 at (-686.1914832828529, 193.0, -253.02520976189896)
+[21Apr2025 21:59:55.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss joined the game
+[21Apr2025 21:59:55.771] [Server thread/INFO] [Jade/]: Syncing config to sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b)
