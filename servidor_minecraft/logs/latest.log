@@ -306,3 +306,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [21Apr2025 21:19:00.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
 [21Apr2025 21:19:03.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Spectator Mode]
 [21Apr2025 21:19:15.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[21Apr2025 21:19:51.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Spectator Mode]
+[21Apr2025 21:20:02.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[21Apr2025 21:23:15.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Gave 1 [Diamond Sword] to caradesalchicha]
