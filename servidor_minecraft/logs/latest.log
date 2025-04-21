@@ -341,3 +341,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [21Apr2025 21:59:55.724] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sergiosssssss[/127.225.131.85:40995] logged in with entity id 24747 at (-686.1914832828529, 193.0, -253.02520976189896)
 [21Apr2025 21:59:55.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss joined the game
 [21Apr2025 21:59:55.771] [Server thread/INFO] [Jade/]: Syncing config to sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b)
+[21Apr2025 22:00:53.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> falta una loza
+[21Apr2025 22:03:33.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> que hacemos
+[21Apr2025 22:03:50.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> nada
+[21Apr2025 22:03:57.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> necesito chettarme
+[21Apr2025 22:04:02.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> mas?
+[21Apr2025 22:09:06.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha was kicked for floating too long!
+[21Apr2025 22:09:06.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Flying is not enabled on this server
+[21Apr2025 22:09:06.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
+[21Apr2025 22:09:53.177] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:58203] logged in with entity id 25773 at (-665.1484212257875, 94.12377965974748, -255.74937198634603)
+[21Apr2025 22:09:53.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[21Apr2025 22:09:53.231] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
