@@ -274,3 +274,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [21Apr2025 19:01:03.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2858ms or 57 ticks behind
 [21Apr2025 19:02:15.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Darude - Firestorm]
 [21Apr2025 19:05:58.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Hard
+[21Apr2025 20:45:23.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss moved too quickly! -1.6923524510681318,-11.549749572659067,0.029951912992743246
+[21Apr2025 20:45:25.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss was kicked for floating too long!
+[21Apr2025 20:45:25.967] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss lost connection: Flying is not enabled on this server
+[21Apr2025 20:45:25.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss left the game
+[21Apr2025 20:45:38.681] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sergiosssssss[/127.225.131.85:38815] logged in with entity id 12494 at (-715.8333624053452, 116.16756202052682, -243.73115923465397)
+[21Apr2025 20:45:38.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss joined the game
+[21Apr2025 20:45:38.698] [Server thread/INFO] [Jade/]: Syncing config to sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b)
