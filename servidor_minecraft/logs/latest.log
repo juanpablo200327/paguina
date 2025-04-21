@@ -378,3 +378,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [21Apr2025 22:27:19.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> entre a discord
 [21Apr2025 22:27:22.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> que no
 [21Apr2025 22:27:28.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> hagale
+[21Apr2025 22:30:24.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
+[21Apr2025 22:30:24.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
