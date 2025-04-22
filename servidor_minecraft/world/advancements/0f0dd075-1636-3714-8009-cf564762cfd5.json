@@ -4694,5 +4694,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_the_recipe": "2025-04-22 22:53:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

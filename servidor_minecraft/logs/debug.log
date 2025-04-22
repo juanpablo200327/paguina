@@ -4025,3 +4025,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [22Apr2025 22:50:01.288] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-67, y=64, z=62} BlockPos{x=-67, y=64, z=61}
 [22Apr2025 22:50:01.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-67, y=64, z=62} BlockPos{x=-67, y=64, z=61}
 [22Apr2025 22:50:01.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-67, y=64, z=62} BlockPos{x=-67, y=64, z=61}
+[22Apr2025 22:53:43.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Apr2025 22:53:43.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Apr2025 22:55:10.981] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=62, z=92} BlockPos{x=0, y=61, z=93}
+[22Apr2025 22:55:11.045] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=62, z=92} BlockPos{x=0, y=61, z=93}
+[22Apr2025 22:55:11.093] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=62, z=92} BlockPos{x=0, y=61, z=93}
+[22Apr2025 22:55:20.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=61, z=94} BlockPos{x=-1, y=59, z=89}
+[22Apr2025 22:55:20.746] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=61, z=94} BlockPos{x=-1, y=59, z=89}
+[22Apr2025 22:55:20.786] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=61, z=94} BlockPos{x=-1, y=59, z=89}
+[22Apr2025 22:55:20.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=61, z=94} BlockPos{x=-1, y=59, z=89}
+[22Apr2025 22:55:20.881] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=61, z=94} BlockPos{x=-1, y=59, z=89}
+[22Apr2025 22:55:20.942] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=61, z=94} BlockPos{x=-1, y=59, z=89}
+[22Apr2025 22:55:20.990] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=61, z=94} BlockPos{x=-1, y=59, z=89}
+[22Apr2025 22:55:21.033] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=61, z=94} BlockPos{x=-1, y=59, z=89}
+[22Apr2025 22:55:21.093] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=61, z=94} BlockPos{x=-1, y=59, z=89}
+[22Apr2025 22:55:21.134] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=61, z=94} BlockPos{x=-1, y=59, z=89}
+[22Apr2025 22:55:41.485] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=60, z=99} BlockPos{x=-3, y=58, z=99}
+[22Apr2025 22:55:41.531] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=60, z=99} BlockPos{x=-3, y=58, z=99}
+[22Apr2025 22:55:41.589] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=60, z=99} BlockPos{x=-3, y=58, z=99}
+[22Apr2025 22:58:43.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Apr2025 22:58:43.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
