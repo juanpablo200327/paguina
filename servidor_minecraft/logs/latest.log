@@ -290,3 +290,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [22Apr2025 22:38:02.066] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sergiosssssss[/127.225.131.85:41897] logged in with entity id 2779 at (-681.3000000119209, 193.0, -247.7547026178237)
 [22Apr2025 22:38:02.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss joined the game
 [22Apr2025 22:38:02.125] [Server thread/INFO] [Jade/]: Syncing config to sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b)
+[22Apr2025 22:50:01.038] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-67, y=64, z=62} BlockPos{x=-67, y=64, z=61}
+[22Apr2025 22:50:01.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-67, y=64, z=62} BlockPos{x=-67, y=64, z=61}
+[22Apr2025 22:50:01.130] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-67, y=64, z=62} BlockPos{x=-67, y=64, z=61}
+[22Apr2025 22:50:01.184] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-67, y=64, z=62} BlockPos{x=-67, y=64, z=61}
+[22Apr2025 22:50:01.234] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-67, y=64, z=62} BlockPos{x=-67, y=64, z=61}
+[22Apr2025 22:50:01.288] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-67, y=64, z=62} BlockPos{x=-67, y=64, z=61}
+[22Apr2025 22:50:01.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-67, y=64, z=62} BlockPos{x=-67, y=64, z=61}
+[22Apr2025 22:50:01.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-67, y=64, z=62} BlockPos{x=-67, y=64, z=61}
