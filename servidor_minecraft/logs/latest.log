@@ -274,3 +274,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [22Apr2025 22:27:38.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
 [22Apr2025 22:27:38.132] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
 [22Apr2025 22:27:57.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: The difficulty has been set to Hard]
+[22Apr2025 22:34:22.207] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sergiosssssss[/127.225.131.85:48293] logged in with entity id 1135 at (-682.6855653314439, 193.0, -248.55881064710238)
+[22Apr2025 22:34:22.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss joined the game
+[22Apr2025 22:34:22.293] [Server thread/INFO] [Jade/]: Syncing config to sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b)
+[22Apr2025 22:34:52.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set the weather to rain & thunder]
+[22Apr2025 22:37:34.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha was kicked for floating too long!
+[22Apr2025 22:37:34.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
+[22Apr2025 22:37:34.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
+[22Apr2025 22:37:34.289] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Apr2025 22:37:37.622] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss lost connection: Timed out
+[22Apr2025 22:37:37.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss left the game
+[22Apr2025 22:37:50.887] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:58889] logged in with entity id 2350 at (-659.2644170258479, 104.3601127964466, -257.39965748207425)
+[22Apr2025 22:37:50.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[22Apr2025 22:37:50.914] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
+[22Apr2025 22:38:02.066] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sergiosssssss[/127.225.131.85:41897] logged in with entity id 2779 at (-681.3000000119209, 193.0, -247.7547026178237)
+[22Apr2025 22:38:02.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss joined the game
+[22Apr2025 22:38:02.125] [Server thread/INFO] [Jade/]: Syncing config to sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b)
