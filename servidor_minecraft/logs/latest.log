@@ -315,3 +315,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [22Apr2025 22:55:41.531] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=60, z=99} BlockPos{x=-3, y=58, z=99}
 [22Apr2025 22:55:41.589] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=60, z=99} BlockPos{x=-3, y=58, z=99}
 [22Apr2025 23:05:53.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha fell from a high place
+[22Apr2025 23:17:57.780] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/10155, l='ServerLevel[world]', x=30.60, y=62.42, z=185.88] died, message: 'Farmer was slain by caradesalchicha'
+[22Apr2025 23:18:07.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[22Apr2025 23:18:22.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[22Apr2025 23:18:46.822] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11343, l='ServerLevel[world]', x=-13.70, y=62.42, z=92.72] died, message: 'Unemployed was burnt to a crisp whilst fighting sergiosssssss'
+[22Apr2025 23:19:32.675] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/10173, l='ServerLevel[world]', x=-24.19, y=63.00, z=94.19] died, message: 'Fletcher was slain by caradesalchicha'
+[22Apr2025 23:23:12.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[22Apr2025 23:23:19.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]

@@ -4051,3 +4051,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [22Apr2025 23:05:55.093] [Server thread/DEBUG] [twilightforest/]: Player caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5) respawned and received items held in storage
 [22Apr2025 23:08:43.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Apr2025 23:08:43.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Apr2025 23:13:43.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Apr2025 23:13:43.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Apr2025 23:17:02.591] [Worker-Main-75/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[22Apr2025 23:17:57.780] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/10155, l='ServerLevel[world]', x=30.60, y=62.42, z=185.88] died, message: 'Farmer was slain by caradesalchicha'
+[22Apr2025 23:18:07.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[22Apr2025 23:18:22.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[22Apr2025 23:18:43.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Apr2025 23:18:43.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Apr2025 23:18:46.822] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11343, l='ServerLevel[world]', x=-13.70, y=62.42, z=92.72] died, message: 'Unemployed was burnt to a crisp whilst fighting sergiosssssss'
+[22Apr2025 23:19:32.675] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/10173, l='ServerLevel[world]', x=-24.19, y=63.00, z=94.19] died, message: 'Fletcher was slain by caradesalchicha'
+[22Apr2025 23:23:12.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[22Apr2025 23:23:19.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
