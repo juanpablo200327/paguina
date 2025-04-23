@@ -6,3 +6,4 @@
 [23Apr2025 00:15:55.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-58, y=64, z=54} BlockPos{x=-58, y=63, z=52}
 [23Apr2025 00:26:13.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was chopped to bits by Skirmisher
 [23Apr2025 00:28:54.526] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/27834, l='ServerLevel[world]', x=-73.63, y=64.00, z=29.41] died, message: 'Fisherman was slain by sergiosssssss'
+[23Apr2025 00:44:30.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
