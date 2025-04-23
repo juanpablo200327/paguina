@@ -11,3 +11,6 @@
 [23Apr2025 00:48:42.677] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/30739, l='ServerLevel[world]', x=-56.50, y=55.00, z=8.31] died, message: 'Fisherman was slain by sergiosssssss'
 [23Apr2025 01:11:11.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
 [23Apr2025 01:11:26.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[23Apr2025 01:18:09.480] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/35344, l='ServerLevel[world]', x=-54.59, y=64.00, z=59.55] died, message: 'Cleric was slain by caradesalchicha'
+[23Apr2025 01:24:53.169] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
+[23Apr2025 01:24:53.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
