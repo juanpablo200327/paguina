@@ -14,3 +14,53 @@
 [23Apr2025 01:18:09.480] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/35344, l='ServerLevel[world]', x=-54.59, y=64.00, z=59.55] died, message: 'Cleric was slain by caradesalchicha'
 [23Apr2025 01:24:53.169] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
 [23Apr2025 01:24:53.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
+[23Apr2025 01:25:05.692] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:41371] logged in with entity id 40377 at (-32.739317827587, 64.0, 42.60630660998357)
+[23Apr2025 01:25:05.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[23Apr2025 01:25:05.810] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
+[23Apr2025 01:25:23.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[23Apr2025 01:25:27.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was killed
+[23Apr2025 01:25:27.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Killed caradesalchicha]
+[23Apr2025 01:25:35.781] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Timed out
+[23Apr2025 01:25:35.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
+[23Apr2025 01:26:19.437] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:45839] logged in with entity id 40577 at (-32.739317827587, 64.0, 42.60630660998357)
+[23Apr2025 01:26:19.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[23Apr2025 01:26:19.506] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
+[23Apr2025 01:26:42.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Teleported caradesalchicha to 53.000000, -1210.000000, -103.000000]
+[23Apr2025 01:26:49.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Timed out
+[23Apr2025 01:26:49.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
+[23Apr2025 01:28:14.929] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:51571] logged in with entity id 40852 at (53.0, -1210.0, -103.0)
+[23Apr2025 01:28:14.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[23Apr2025 01:28:14.968] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
+[23Apr2025 01:28:45.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Timed out
+[23Apr2025 01:28:45.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
+[23Apr2025 01:29:05.084] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:57635] logged in with entity id 40935 at (53.0, -3162.1647617555627, -103.0)
+[23Apr2025 01:29:05.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[23Apr2025 01:29:05.129] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
+[23Apr2025 01:29:34.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Teleported caradesalchicha to -1235.500000, 108.000000, 682.500000]
+[23Apr2025 01:29:35.550] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Timed out
+[23Apr2025 01:29:35.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
+[23Apr2025 01:29:56.730] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:35713] logged in with entity id 41017 at (-1235.5, 108.0, 682.5)
+[23Apr2025 01:29:56.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[23Apr2025 01:29:56.742] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
+[23Apr2025 01:30:26.823] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Timed out
+[23Apr2025 01:30:26.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
+[23Apr2025 01:30:49.869] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss lost connection: Timed out
+[23Apr2025 01:30:49.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss left the game
+[23Apr2025 01:31:19.383] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sergiosssssss[/127.225.131.85:32979] logged in with entity id 41146 at (-51.995982689073244, 64.0, 53.85334816261115)
+[23Apr2025 01:31:19.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss joined the game
+[23Apr2025 01:31:19.435] [Server thread/INFO] [Jade/]: Syncing config to sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b)
+[23Apr2025 01:31:44.284] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:35677] logged in with entity id 41210 at (1.5, 72.0, 7.5)
+[23Apr2025 01:31:44.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[23Apr2025 01:31:44.348] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
+[23Apr2025 01:32:14.429] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Timed out
+[23Apr2025 01:32:14.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
+[23Apr2025 01:33:22.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: survivalcaradesalchicha
+[23Apr2025 01:33:22.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...esalchicha<--[HERE]
+[23Apr2025 01:33:40.987] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:60639] logged in with entity id 41429 at (1.5, 72.0, 7.5)
+[23Apr2025 01:33:40.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[23Apr2025 01:33:41.050] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
+[23Apr2025 01:33:44.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: survivalcaradesalchicha
+[23Apr2025 01:33:44.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...esalchicha<--[HERE]
+[23Apr2025 01:33:54.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set caradesalchicha's game mode to Survival Mode
+[23Apr2025 01:34:11.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Timed out
+[23Apr2025 01:34:11.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
