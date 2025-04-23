@@ -292,3 +292,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [23Apr2025 03:57:26.202] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/8300, l='ServerLevel[world]', x=-67.49, y=63.00, z=53.31] died, message: 'Cartographer was slain by caradesalchicha'
 [23Apr2025 03:57:29.504] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/8304, l='ServerLevel[world]', x=-67.50, y=63.00, z=64.70] died, message: 'Weaponsmith was slain by caradesalchicha'
 [23Apr2025 03:59:39.940] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/8624, l='ServerLevel[world]', x=-67.53, y=64.00, z=63.85] died, message: 'Unemployed was slain by a'
+[23Apr2025 04:01:03.098] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5866, l='ServerLevel[world]', x=-37.25, y=64.00, z=62.93] died, message: 'Unemployed was slain by caradesalchicha'
+[23Apr2025 04:01:10.650] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/8109, l='ServerLevel[world]', x=-49.50, y=62.00, z=28.30] died, message: 'Weaponsmith was slain by caradesalchicha'
+[23Apr2025 04:01:56.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
+[23Apr2025 04:01:56.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
+[23Apr2025 04:02:03.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[23Apr2025 04:02:03.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Apr2025 04:02:03.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Apr2025 04:02:03.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Apr2025 04:02:03.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Apr2025 04:02:03.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Apr2025 04:02:03.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[23Apr2025 04:02:03.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Apr2025 04:02:03.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_mirror_realm
+[23Apr2025 04:02:03.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_abyss
+[23Apr2025 04:02:03.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Apr2025 04:02:03.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Apr2025 04:02:03.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[23Apr2025 04:02:03.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Apr2025 04:02:03.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_mirror_realm): All chunks are saved
+[23Apr2025 04:02:03.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[23Apr2025 04:02:03.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23Apr2025 04:02:03.811] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
