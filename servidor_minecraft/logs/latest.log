@@ -278,3 +278,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [23Apr2025 03:18:11.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
 [23Apr2025 03:18:11.997] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
 [23Apr2025 03:18:21.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Teleported caradesalchicha to -60.000000, 64.000000, 10.000000]
+[23Apr2025 03:32:52.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set the time to 1000]
+[23Apr2025 03:34:43.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[23Apr2025 03:35:17.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Gave 1 [Diamond Shovel] to caradesalchicha]
+[23Apr2025 03:36:58.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
