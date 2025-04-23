@@ -291,3 +291,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [23Apr2025 23:20:03.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> se merece que lo mate
 [23Apr2025 23:20:05.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> A mi granja
 [23Apr2025 23:20:11.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> si como no
+[23Apr2025 23:20:23.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> mi armaduraaa
+[23Apr2025 23:20:35.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> que tenia?
+[23Apr2025 23:20:39.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> discord
+[23Apr2025 23:22:40.521] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss lost connection: Disconnected
+[23Apr2025 23:22:40.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss left the game
+[23Apr2025 23:22:40.578] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Apr2025 23:22:41.551] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sergiosssssss[/127.225.131.85:43733] logged in with entity id 3120 at (-687.5169489797141, 193.0, -245.21773994365034)
+[23Apr2025 23:22:41.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss joined the game
+[23Apr2025 23:22:41.639] [Server thread/INFO] [Jade/]: Syncing config to sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b)
+[23Apr2025 23:26:31.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
