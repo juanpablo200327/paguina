@@ -7,3 +7,5 @@
 [23Apr2025 00:26:13.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was chopped to bits by Skirmisher
 [23Apr2025 00:28:54.526] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/27834, l='ServerLevel[world]', x=-73.63, y=64.00, z=29.41] died, message: 'Fisherman was slain by sergiosssssss'
 [23Apr2025 00:44:30.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[23Apr2025 00:44:38.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[23Apr2025 00:48:42.677] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/30739, l='ServerLevel[world]', x=-56.50, y=55.00, z=8.31] died, message: 'Fisherman was slain by sergiosssssss'
