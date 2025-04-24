@@ -4,3 +4,16 @@
 [24Apr2025 00:10:08.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
 [24Apr2025 00:10:13.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha moved too quickly! 7.698381886263633,1.3417766533814124,7.7131244861895425
 [24Apr2025 00:10:16.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[24Apr2025 00:12:03.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Summoned new Creeper]
+[24Apr2025 00:14:16.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss lost connection: Timed out
+[24Apr2025 00:14:16.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss left the game
+[24Apr2025 00:14:36.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set the time to 1000]
+[24Apr2025 00:15:16.275] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@30de7f0f[id=<null>,name=sergiosssssss,properties={},legacy=false] (/127.225.131.85:47255) lost connection: Disconnected
+[24Apr2025 00:15:28.138] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sergiosssssss[/127.225.131.85:58611] logged in with entity id 21018 at (-55.930623688169064, 55.0, -0.06266703767808311)
+[24Apr2025 00:15:28.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss joined the game
+[24Apr2025 00:15:28.201] [Server thread/INFO] [Jade/]: Syncing config to sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b)
+[24Apr2025 00:16:38.481] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-16, y=66, z=-12}
+[24Apr2025 00:16:40.130] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=65, z=-12}
+[24Apr2025 00:16:40.183] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=65, z=-11}
+[24Apr2025 00:20:57.072] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss lost connection: Disconnected
+[24Apr2025 00:20:57.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss left the game
