@@ -4668,5 +4668,11 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-04-24 00:49:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -50,3 +50,16 @@
 [24Apr2025 00:36:32.325] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/23539, l='ServerLevel[world]', x=-64.52, y=65.00, z=47.99] died, message: 'Cartographer was slain by caradesalchicha'
 [24Apr2025 00:36:43.589] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/23594, l='ServerLevel[world]', x=-63.50, y=65.00, z=52.39] died, message: 'Cartographer was slain by caradesalchicha'
 [24Apr2025 00:40:57.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[24Apr2025 00:41:30.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[24Apr2025 00:42:27.031] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/71, l='ServerLevel[world]', x=-49.48, y=63.54, z=30.90] died, message: 'Fisherman was slain by caradesalchicha'
+[24Apr2025 00:42:29.842] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/18858, l='ServerLevel[world]', x=-49.19, y=62.00, z=25.85] died, message: 'Toolsmith was slain by caradesalchicha'
+[24Apr2025 00:42:31.686] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/8010, l='ServerLevel[world]', x=-51.70, y=62.06, z=20.49] died, message: 'Fisherman was slain by caradesalchicha'
+[24Apr2025 00:42:51.175] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/360, l='ServerLevel[world]', x=-91.42, y=63.94, z=24.51] died, message: 'Farmer was slain by caradesalchicha'
+[24Apr2025 00:44:01.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[24Apr2025 00:45:46.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set the time to 1000]
+[24Apr2025 00:47:26.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[24Apr2025 00:47:34.738] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23408, l='ServerLevel[world]', x=-64.29, y=66.00, z=64.42] died, message: 'Unemployed was slain by caradesalchicha'
+[24Apr2025 00:48:12.878] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/25156, l='ServerLevel[world]', x=-63.41, y=66.00, z=64.50] died, message: 'Unemployed was slain by caradesalchicha'
+[24Apr2025 00:50:16.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[24Apr2025 00:51:02.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[24Apr2025 00:51:21.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
