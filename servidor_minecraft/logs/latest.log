@@ -63,3 +63,13 @@
 [24Apr2025 00:50:16.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
 [24Apr2025 00:51:02.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
 [24Apr2025 00:51:21.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[24Apr2025 00:54:11.682] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/22339, l='ServerLevel[world]', x=-50.21, y=62.06, z=21.46] died, message: 'Fisherman was slain by caradesalchicha'
+[24Apr2025 00:54:44.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[24Apr2025 00:54:51.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[24Apr2025 00:55:18.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[24Apr2025 00:55:30.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[24Apr2025 01:00:50.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
+[24Apr2025 01:00:50.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
+[24Apr2025 01:01:04.137] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:53617] logged in with entity id 26938 at (-45.38311502389843, 64.0, 53.16411310719244)
+[24Apr2025 01:01:04.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[24Apr2025 01:01:04.196] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
