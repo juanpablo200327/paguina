@@ -3881,3 +3881,29 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [23Apr2025 23:31:37.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
 [23Apr2025 23:35:53.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Apr2025 23:35:53.315] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 23:40:53.315] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 23:40:53.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 23:41:10.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[23Apr2025 23:41:20.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[23Apr2025 23:41:27.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[23Apr2025 23:41:35.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[23Apr2025 23:41:50.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[23Apr2025 23:45:53.310] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 23:45:53.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 23:46:42.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[23Apr2025 23:46:49.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[23Apr2025 23:50:52.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[23Apr2025 23:50:53.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 23:50:53.310] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 23:50:55.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[23Apr2025 23:51:17.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[23Apr2025 23:51:26.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[23Apr2025 23:53:49.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Spectator Mode]
+[23Apr2025 23:54:02.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[23Apr2025 23:54:19.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[23Apr2025 23:54:31.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[23Apr2025 23:55:53.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 23:55:53.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 23:56:13.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[23Apr2025 23:56:18.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[23Apr2025 23:58:33.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set the time to 1000]
