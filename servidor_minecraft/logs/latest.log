@@ -17,3 +17,14 @@
 [24Apr2025 00:16:40.183] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=65, z=-11}
 [24Apr2025 00:20:57.072] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss lost connection: Disconnected
 [24Apr2025 00:20:57.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss left the game
+[24Apr2025 00:22:52.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha moved too quickly! -8.959137490778268,-0.41999998688697815,-5.033154850951988
+[24Apr2025 00:23:11.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[24Apr2025 00:23:46.595] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sergiosssssss[/127.225.131.85:39345] logged in with entity id 22332 at (-63.63021063920044, 65.0, 60.18999756815531)
+[24Apr2025 00:23:46.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss joined the game
+[24Apr2025 00:23:46.646] [Server thread/INFO] [Jade/]: Syncing config to sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b)
+[24Apr2025 00:23:52.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[24Apr2025 00:27:50.623] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['a'/359, l='ServerLevel[world]', x=-67.49, y=64.00, z=59.53] died: a was slain by caradesalchicha
+[24Apr2025 00:28:17.972] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss lost connection: Disconnected
+[24Apr2025 00:28:17.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss left the game
+[24Apr2025 00:28:49.321] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
+[24Apr2025 00:28:49.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
