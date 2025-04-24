@@ -28,3 +28,25 @@
 [24Apr2025 00:28:17.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss left the game
 [24Apr2025 00:28:49.321] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
 [24Apr2025 00:28:49.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
+[24Apr2025 00:32:46.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:48871] logged in with entity id 23013 at (-64.20069608764962, 65.0, 59.81874869753025)
+[24Apr2025 00:32:46.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[24Apr2025 00:32:46.380] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
+[24Apr2025 00:33:17.831] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/365, l='ServerLevel[world]', x=-62.49, y=65.00, z=55.39] died, message: 'Unemployed was slain by caradesalchicha'
+[24Apr2025 00:33:21.272] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/366, l='ServerLevel[world]', x=-64.87, y=65.00, z=62.68] died, message: 'Unemployed was slain by caradesalchicha'
+[24Apr2025 00:33:23.291] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/363, l='ServerLevel[world]', x=-63.78, y=66.00, z=64.43] died, message: 'Unemployed was slain by caradesalchicha'
+[24Apr2025 00:33:29.183] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/364, l='ServerLevel[world]', x=-66.70, y=64.00, z=59.50] died, message: 'Unemployed was slain by caradesalchicha'
+[24Apr2025 00:33:36.425] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/361, l='ServerLevel[world]', x=-65.67, y=65.00, z=47.69] died, message: 'Unemployed was slain by caradesalchicha'
+[24Apr2025 00:33:37.778] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/362, l='ServerLevel[world]', x=-65.70, y=65.00, z=47.50] died, message: 'Unemployed was slain by caradesalchicha'
+[24Apr2025 00:33:46.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[24Apr2025 00:34:35.291] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23212, l='ServerLevel[world]', x=-65.53, y=65.00, z=60.07] died, message: 'Unemployed was slain by caradesalchicha'
+[24Apr2025 00:34:38.674] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23215, l='ServerLevel[world]', x=-63.89, y=66.00, z=64.50] died, message: 'Unemployed was slain by caradesalchicha'
+[24Apr2025 00:34:38.676] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23210, l='ServerLevel[world]', x=-65.35, y=65.00, z=63.25] died, message: 'Unemployed was slain by caradesalchicha'
+[24Apr2025 00:34:43.742] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23226, l='ServerLevel[world]', x=-65.64, y=65.00, z=49.26] died, message: 'Unemployed was slain by caradesalchicha'
+[24Apr2025 00:34:43.744] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23232, l='ServerLevel[world]', x=-64.98, y=65.00, z=47.68] died, message: 'Unemployed was slain by caradesalchicha'
+[24Apr2025 00:34:43.746] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23242, l='ServerLevel[world]', x=-66.70, y=64.00, z=49.32] died, message: 'Unemployed was slain by caradesalchicha'
+[24Apr2025 00:34:45.189] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23237, l='ServerLevel[world]', x=-65.70, y=65.00, z=47.50] died, message: 'Unemployed was slain by caradesalchicha'
+[24Apr2025 00:34:54.835] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23222, l='ServerLevel[world]', x=-66.29, y=65.00, z=55.55] died, message: 'Unemployed was slain by caradesalchicha'
+[24Apr2025 00:36:10.872] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/23396, l='ServerLevel[world]', x=-64.17, y=65.00, z=46.75] died, message: 'Toolsmith was shot by caradesalchicha'
+[24Apr2025 00:36:32.325] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/23539, l='ServerLevel[world]', x=-64.52, y=65.00, z=47.99] died, message: 'Cartographer was slain by caradesalchicha'
+[24Apr2025 00:36:43.589] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/23594, l='ServerLevel[world]', x=-63.50, y=65.00, z=52.39] died, message: 'Cartographer was slain by caradesalchicha'
+[24Apr2025 00:40:57.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
