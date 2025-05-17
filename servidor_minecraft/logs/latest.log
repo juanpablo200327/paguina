@@ -1313,3 +1313,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [17May2025 00:42:21.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Spider
 [17May2025 00:42:21.702] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
 [17May2025 00:42:31.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Alex's Mobs]
+[17May2025 00:48:26.725] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[17May2025 00:50:19.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Zombie Villager
+[17May2025 00:50:19.685] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[17May2025 00:50:47.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [A Strange Grave Dust]
+[17May2025 00:52:26.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Hard]
+[17May2025 00:52:49.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Zombie Villager
+[17May2025 00:52:49.741] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[17May2025 00:53:49.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Zombie Villager
+[17May2025 00:53:49.690] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[17May2025 00:54:08.736] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Timed out
+[17May2025 00:54:08.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[17May2025 00:54:08.741] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[17May2025 00:54:08.769] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17May2025 00:54:27.025] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:58501] logged in with entity id 8594 at (991.1999999880791, 72.5, -635.8000000119209)
+[17May2025 00:54:27.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[17May2025 00:54:27.139] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[17May2025 00:54:28.575] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[17May2025 00:54:28.581] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[17May2025 00:54:33.015] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[17May2025 00:54:34.027] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[17May2025 00:54:34.028] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[17May2025 00:54:35.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Zombie Villager
+[17May2025 00:54:35.668] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[17May2025 00:55:09.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Ashes 'n Bones]
+[17May2025 00:56:27.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Suit Up]
+[17May2025 00:57:10.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was killed trying to hurt Zombie Villager
+[17May2025 00:57:10.042] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[17May2025 00:58:12.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was blown up by pablito
+[17May2025 00:58:14.308] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[17May2025 00:58:14.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
