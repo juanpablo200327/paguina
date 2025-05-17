@@ -1,442 +1,460 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1747431106015 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431109101 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431112396 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431115604 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431118672 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431122072 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431125858 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431128971 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431132277 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431135483 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431138875 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431141952 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431145111 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431148332 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431151501 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431155299 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431158420 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431161988 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431165721 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431168783 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431172285 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431175797 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431178891 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431182438 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431185851 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431189138 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431192221 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431195808 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431198891 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431202038 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431205329 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431209207 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431212515 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431215802 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431218878 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431222135 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431225227 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431228297 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431231382 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431234526 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431237767 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431240965 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431244045 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431247266 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431250559 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431253830 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431257047 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431260288 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431264111 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431268013 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431271190 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431274615 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431277683 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431280885 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431283961 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431287036 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431290107 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431293791 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431296996 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431300176 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431303288 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431306383 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431309445 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431312556 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431315631 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431318783 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431321926 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431325144 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1747431663928 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431328295 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1747431667846 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431331488 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1747431671053 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431334565 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1747431674193 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431337731 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1747431677386 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431340864 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1747431680626 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1747431343943 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1747431683696 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431686807 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431689910 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431693216 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431696726 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431699892 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431703133 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431706200 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431709271 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431712407 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431715550 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431718863 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431721968 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431725050 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431728300 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431731450 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431734615 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431737844 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431741066 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431744139 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431748373 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431751562 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431754634 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431757756 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431760832 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431764152 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431767438 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431770576 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431774759 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431777827 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431780947 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431784350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431787420 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431790487 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431793555 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431796849 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431799938 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431803171 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431806243 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431809315 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431812472 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431815596 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431819949 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431823134 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431827851 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431830946 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431834014 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431837299 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431841500 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431844734 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431847914 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431851177 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431854366 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431857538 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431860707 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431864096 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431867479 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431870572 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431873644 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431876719 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431879945 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431883293 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431886363 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431889703 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431892874 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431896078 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431899149 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431902240 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431905493 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431908565 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+fl-receive.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+natural-scenarios.gl.at.ply.gg:4490 => 127.0.0.1:4490 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1747431911752 tunnel running, 2 tunnels registered
 
 
 TUNNELS
