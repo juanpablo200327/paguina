@@ -1282,3 +1282,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [17May2025 00:36:07.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
 [17May2025 00:36:31.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
 [17May2025 00:37:59.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Cobweb Entanglement]
+[17May2025 00:38:08.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[17May2025 00:38:13.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Monster Hunter]
+[17May2025 00:38:19.632] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17May2025 00:38:19.635] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17May2025 00:38:19.646] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17May2025 00:38:19.646] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17May2025 00:38:19.700] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17May2025 00:38:19.704] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17May2025 00:38:19.706] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17May2025 00:38:19.712] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17May2025 00:38:19.714] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17May2025 00:38:19.734] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17May2025 00:38:19.748] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17May2025 00:38:19.748] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17May2025 00:38:19.758] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17May2025 00:38:19.763] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17May2025 00:38:32.209] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[17May2025 00:39:11.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Cave Spider
+[17May2025 00:39:11.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Your First Grave]
+[17May2025 00:39:11.137] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[17May2025 00:39:16.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has reached the goal [Here They Come]
+[17May2025 00:39:33.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Cave Spider
+[17May2025 00:39:33.552] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[17May2025 00:40:03.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Knowledge of Death]
+[17May2025 00:40:03.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has reached the goal [Chain Death]
+[17May2025 00:40:03.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Cave Spider
+[17May2025 00:40:03.543] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[17May2025 00:40:46.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=832, y=47, z=-561} BlockPos{x=831, y=50, z=-563}
+[17May2025 00:42:21.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Spider
+[17May2025 00:42:21.702] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[17May2025 00:42:31.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Alex's Mobs]
