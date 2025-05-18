@@ -1411,3 +1411,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [18May2025 22:32:32.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
 [18May2025 22:32:42.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
 [18May2025 22:33:26.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
+[18May2025 22:41:03.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Cover Me with Diamonds]
+[18May2025 22:43:41.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito fell off a ladder
+[18May2025 22:43:41.105] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[18May2025 22:43:55.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
