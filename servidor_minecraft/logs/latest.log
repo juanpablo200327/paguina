@@ -1386,3 +1386,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [18May2025 22:15:16.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Jaacquie to pablito]
 [18May2025 22:17:21.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was killed by magic
 [18May2025 22:17:21.496] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[18May2025 22:19:49.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
+[18May2025 22:20:57.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie has made the advancement [Diamonds!]
+[18May2025 22:22:33.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie has made the advancement [Cover Me with Diamonds]
+[18May2025 22:24:57.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Diamonds!]
+[18May2025 22:26:11.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Zombie
+[18May2025 22:26:11.907] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[18May2025 22:26:32.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie was killed by magic whilst trying to escape Corpse Maggot
+[18May2025 22:26:32.402] [Server thread/INFO] [tombstone/]: The player Jaacquie has successfully been saved
+[18May2025 22:26:41.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Jaacquie to pablito]
+[18May2025 22:26:46.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie has reached the goal [Chain Death]
+[18May2025 22:26:46.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie was killed by magic
+[18May2025 22:26:46.669] [Server thread/INFO] [tombstone/]: The player Jaacquie has successfully been saved
+[18May2025 22:27:03.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Jaacquie to pablito]
+[18May2025 22:27:13.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie was killed by magic whilst trying to escape pablito
+[18May2025 22:27:13.697] [Server thread/INFO] [tombstone/]: The player Jaacquie has successfully been saved
+[18May2025 22:27:19.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Jaacquie to pablito]
+[18May2025 22:27:28.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was killed by magic
+[18May2025 22:27:28.564] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[18May2025 22:28:43.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito fell from a high place
+[18May2025 22:28:43.598] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
