@@ -1406,3 +1406,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [18May2025 22:27:28.564] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
 [18May2025 22:28:43.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito fell from a high place
 [18May2025 22:28:43.598] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[18May2025 22:31:34.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was impaled on a stalagmite
+[18May2025 22:31:34.427] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[18May2025 22:32:32.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[18May2025 22:32:42.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[18May2025 22:33:26.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
