@@ -1477,3 +1477,52 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [18May2025 23:01:44.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Call For Adventure]
 [18May2025 23:01:44.759] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
 [18May2025 23:04:37.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Food Fight]
+[18May2025 23:15:31.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie has made the advancement [A Strange Grave Dust]
+[18May2025 23:24:40.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was killed by magic
+[18May2025 23:24:40.650] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[18May2025 23:24:46.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
+[18May2025 23:24:57.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Under The Tide]
+[18May2025 23:26:11.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie was slain by Vindicator
+[18May2025 23:26:11.898] [Server thread/INFO] [tombstone/]: The player Jaacquie has successfully been saved
+[18May2025 23:26:16.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Jaacquie to pablito]
+[18May2025 23:26:28.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Vindicator
+[18May2025 23:26:28.160] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[18May2025 23:26:31.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie was slain by Vindicator
+[18May2025 23:26:31.172] [Server thread/INFO] [tombstone/]: The player Jaacquie has successfully been saved
+[18May2025 23:26:31.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
+[18May2025 23:26:40.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Jaacquie to pablito]
+[18May2025 23:27:19.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie has made the advancement [Ambush]
+[18May2025 23:27:30.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Vindicator
+[18May2025 23:27:30.749] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[18May2025 23:27:35.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
+[18May2025 23:27:40.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie was slain by Vindicator
+[18May2025 23:27:40.047] [Server thread/INFO] [tombstone/]: The player Jaacquie has successfully been saved
+[18May2025 23:27:48.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Vindicator
+[18May2025 23:27:48.309] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[18May2025 23:27:55.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
+[18May2025 23:28:15.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Jaacquie to pablito]
+[18May2025 23:29:08.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[18May2025 23:34:22.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [You Are A Pirate]
+[18May2025 23:34:23.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie has made the advancement [You Are A Pirate]
+[18May2025 23:35:50.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie was shot by Skeleton
+[18May2025 23:35:50.798] [Server thread/INFO] [tombstone/]: The player Jaacquie has successfully been saved
+[18May2025 23:35:57.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Jaacquie to pablito]
+[18May2025 23:36:32.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie was slain by Zombie
+[18May2025 23:36:32.618] [Server thread/INFO] [tombstone/]: The player Jaacquie has successfully been saved
+[18May2025 23:37:24.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie has made the advancement [The Most Useful Key]
+[18May2025 23:37:29.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie has reached the goal [A Fast Comeback]
+[18May2025 23:37:35.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Jaacquie to pablito]
+[18May2025 23:39:17.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Zombie
+[18May2025 23:39:17.109] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[18May2025 23:39:23.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie was slain by Zombie
+[18May2025 23:39:23.157] [Server thread/INFO] [tombstone/]: The player Jaacquie has successfully been saved
+[18May2025 23:39:31.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Zombie
+[18May2025 23:39:31.974] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[18May2025 23:39:43.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Zombie
+[18May2025 23:39:43.960] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[18May2025 23:40:18.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Vindicator
+[18May2025 23:40:18.044] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[18May2025 23:40:24.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie was slain by Vindicator
+[18May2025 23:40:24.591] [Server thread/INFO] [tombstone/]: The player Jaacquie has successfully been saved
+[18May2025 23:40:33.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Vindicator
+[18May2025 23:40:33.119] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved

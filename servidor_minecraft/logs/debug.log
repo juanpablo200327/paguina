@@ -9138,3 +9138,219 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [18May2025 23:04:37.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Food Fight]
 [18May2025 23:08:05.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18May2025 23:08:05.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 23:13:05.072] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 23:13:05.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 23:15:31.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie has made the advancement [A Strange Grave Dust]
+[18May2025 23:18:05.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 23:18:05.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 23:23:05.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 23:23:05.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 23:24:40.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was killed by magic
+[18May2025 23:24:40.637] [Server thread/DEBUG] [tombstone/]: A new grave of the player pablito was created at position [x:853, y:62, z:-770, dim:minecraft:overworld]
+[18May2025 23:24:40.650] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[18May2025 23:24:42.013] [Server thread/DEBUG] [twilightforest/]: Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) respawned and received items held in storage
+[18May2025 23:24:46.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
+[18May2025 23:24:57.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Under The Tide]
+[18May2025 23:26:11.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie was slain by Vindicator
+[18May2025 23:26:11.895] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jaacquie was created at position [x:820, y:65, z:-746, dim:minecraft:overworld]
+[18May2025 23:26:11.898] [Server thread/INFO] [tombstone/]: The player Jaacquie has successfully been saved
+[18May2025 23:26:16.830] [Server thread/DEBUG] [twilightforest/]: Player Jaacquie (e9e6d352-a993-3d3f-bf74-a1d53ece6b09) respawned and received items held in storage
+[18May2025 23:26:16.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Jaacquie to pablito]
+[18May2025 23:26:28.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Vindicator
+[18May2025 23:26:28.150] [Server thread/DEBUG] [tombstone/]: A new grave of the player pablito was created at position [x:813, y:66, z:-750, dim:minecraft:overworld]
+[18May2025 23:26:28.160] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[18May2025 23:26:29.566] [Server thread/DEBUG] [twilightforest/]: Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) respawned and received items held in storage
+[18May2025 23:26:31.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie was slain by Vindicator
+[18May2025 23:26:31.151] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jaacquie was created at position [x:824, y:65, z:-745, dim:minecraft:overworld]
+[18May2025 23:26:31.172] [Server thread/INFO] [tombstone/]: The player Jaacquie has successfully been saved
+[18May2025 23:26:31.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
+[18May2025 23:26:38.135] [Server thread/DEBUG] [twilightforest/]: Player Jaacquie (e9e6d352-a993-3d3f-bf74-a1d53ece6b09) respawned and received items held in storage
+[18May2025 23:26:40.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Jaacquie to pablito]
+[18May2025 23:27:19.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie has made the advancement [Ambush]
+[18May2025 23:27:30.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Vindicator
+[18May2025 23:27:30.740] [Server thread/DEBUG] [tombstone/]: A new grave of the player pablito was created at position [x:816, y:65, z:-747, dim:minecraft:overworld]
+[18May2025 23:27:30.749] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[18May2025 23:27:32.394] [Server thread/DEBUG] [twilightforest/]: Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) respawned and received items held in storage
+[18May2025 23:27:35.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
+[18May2025 23:27:40.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie was slain by Vindicator
+[18May2025 23:27:40.030] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jaacquie was created at position [x:816, y:63, z:-757, dim:minecraft:overworld]
+[18May2025 23:27:40.047] [Server thread/INFO] [tombstone/]: The player Jaacquie has successfully been saved
+[18May2025 23:27:41.698] [Server thread/DEBUG] [twilightforest/]: Player Jaacquie (e9e6d352-a993-3d3f-bf74-a1d53ece6b09) respawned and received items held in storage
+[18May2025 23:27:48.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Vindicator
+[18May2025 23:27:48.292] [Server thread/DEBUG] [tombstone/]: A new grave of the player pablito was created at position [x:809, y:63, z:-741, dim:minecraft:overworld]
+[18May2025 23:27:48.309] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[18May2025 23:27:53.700] [Server thread/DEBUG] [twilightforest/]: Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) respawned and received items held in storage
+[18May2025 23:27:55.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
+[18May2025 23:28:05.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 23:28:05.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 23:28:15.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Jaacquie to pablito]
+[18May2025 23:29:08.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[18May2025 23:33:05.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 23:33:05.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 23:34:22.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [You Are A Pirate]
+[18May2025 23:34:23.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie has made the advancement [You Are A Pirate]
+[18May2025 23:35:04.607] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (1267 | 9 | -1044)
+[18May2025 23:35:04.608] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (1267 | 9 | -1044)
+[18May2025 23:35:04.695] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (1267 | 9 | -1044)
+[18May2025 23:35:04.700] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (1267 | 9 | -1044)
+[18May2025 23:35:16.466] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_180 at (1286 | 18 | -1043)
+[18May2025 23:35:16.466] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_180 at (1286 | 18 | -1043)
+[18May2025 23:35:16.467] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (1267 | 9 | -1044)
+[18May2025 23:35:16.467] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (1267 | 9 | -1044)
+[18May2025 23:35:16.467] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (1294 | 9 | -1044)
+[18May2025 23:35:16.467] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (1294 | 9 | -1044)
+[18May2025 23:35:16.543] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_180 at (1293 | 27 | -1036)
+[18May2025 23:35:16.543] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_180 at (1293 | 27 | -1036)
+[18May2025 23:35:16.544] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_180 at (1286 | 18 | -1043)
+[18May2025 23:35:16.544] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_180 at (1286 | 18 | -1043)
+[18May2025 23:35:16.544] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (1282 | 9 | -1039)
+[18May2025 23:35:16.544] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (1282 | 9 | -1039)
+[18May2025 23:35:16.544] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (1283 | 9 | -1040)
+[18May2025 23:35:16.545] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (1283 | 9 | -1040)
+[18May2025 23:35:16.545] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (1267 | 9 | -1044)
+[18May2025 23:35:16.545] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (1267 | 9 | -1044)
+[18May2025 23:35:16.545] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (1293 | 9 | -1039)
+[18May2025 23:35:16.545] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (1293 | 9 | -1039)
+[18May2025 23:35:16.545] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation NONE at (1288 | 9 | -1039)
+[18May2025 23:35:16.545] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation NONE at (1288 | 9 | -1039)
+[18May2025 23:35:16.545] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (1294 | 9 | -1044)
+[18May2025 23:35:16.545] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (1294 | 9 | -1044)
+[18May2025 23:35:16.626] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_180 at (1293 | 27 | -1036)
+[18May2025 23:35:16.626] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_180 at (1293 | 27 | -1036)
+[18May2025 23:35:16.627] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (1284 | 18 | -1018)
+[18May2025 23:35:16.627] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (1284 | 18 | -1018)
+[18May2025 23:35:16.627] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (1293 | 9 | -1017)
+[18May2025 23:35:16.629] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (1293 | 9 | -1017)
+[18May2025 23:35:16.629] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (1294 | 9 | -1013)
+[18May2025 23:35:16.630] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (1294 | 9 | -1013)
+[18May2025 23:35:16.630] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (1293 | 9 | -1018)
+[18May2025 23:35:16.630] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (1293 | 9 | -1018)
+[18May2025 23:35:16.713] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (1284 | 18 | -1018)
+[18May2025 23:35:16.714] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (1284 | 18 | -1018)
+[18May2025 23:35:16.714] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (1294 | 9 | -1013)
+[18May2025 23:35:16.714] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (1294 | 9 | -1013)
+[18May2025 23:35:16.715] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (1293 | 9 | -1018)
+[18May2025 23:35:16.715] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (1293 | 9 | -1018)
+[18May2025 23:35:16.799] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/lava_hall with rotation CLOCKWISE_180 at (1284 | -9 | -991)
+[18May2025 23:35:16.801] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/lava_hall with rotation CLOCKWISE_180 at (1284 | -9 | -991)
+[18May2025 23:35:17.219] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/lava_hall with rotation CLOCKWISE_180 at (1284 | -9 | -991)
+[18May2025 23:35:17.221] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/lava_hall with rotation CLOCKWISE_180 at (1284 | -9 | -991)
+[18May2025 23:35:43.601] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_180 at (1286 | 18 | -1043)
+[18May2025 23:35:43.601] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_180 at (1286 | 18 | -1043)
+[18May2025 23:35:43.601] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (1294 | 9 | -1044)
+[18May2025 23:35:43.602] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (1294 | 9 | -1044)
+[18May2025 23:35:43.853] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (1310 | 27 | -1030)
+[18May2025 23:35:43.861] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (1310 | 27 | -1030)
+[18May2025 23:35:43.862] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_180 at (1293 | 27 | -1036)
+[18May2025 23:35:43.866] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_180 at (1293 | 27 | -1036)
+[18May2025 23:35:43.866] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation NONE at (1299 | 18 | -1039)
+[18May2025 23:35:43.866] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation NONE at (1299 | 18 | -1039)
+[18May2025 23:35:43.867] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (1301 | 18 | -1040)
+[18May2025 23:35:43.869] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (1301 | 18 | -1040)
+[18May2025 23:35:43.869] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_180 at (1286 | 18 | -1043)
+[18May2025 23:35:43.869] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_180 at (1286 | 18 | -1043)
+[18May2025 23:35:43.869] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (1306 | 18 | -1040)
+[18May2025 23:35:43.870] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (1306 | 18 | -1040)
+[18May2025 23:35:43.870] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (1299 | 9 | -1029)
+[18May2025 23:35:43.871] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (1299 | 9 | -1029)
+[18May2025 23:35:43.871] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (1299 | 9 | -1028)
+[18May2025 23:35:43.872] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (1299 | 9 | -1028)
+[18May2025 23:35:43.872] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (1294 | 9 | -1044)
+[18May2025 23:35:43.886] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (1294 | 9 | -1044)
+[18May2025 23:35:44.038] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_180 at (1293 | 27 | -1036)
+[18May2025 23:35:44.039] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_180 at (1293 | 27 | -1036)
+[18May2025 23:35:44.039] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (1301 | 18 | -1013)
+[18May2025 23:35:44.039] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (1301 | 18 | -1013)
+[18May2025 23:35:44.039] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (1284 | 18 | -1018)
+[18May2025 23:35:44.040] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (1284 | 18 | -1018)
+[18May2025 23:35:44.040] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (1306 | 18 | -1013)
+[18May2025 23:35:44.040] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (1306 | 18 | -1013)
+[18May2025 23:35:44.040] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (1311 | 18 | -1018)
+[18May2025 23:35:44.040] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (1311 | 18 | -1018)
+[18May2025 23:35:44.040] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (1299 | 9 | -1028)
+[18May2025 23:35:44.041] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (1299 | 9 | -1028)
+[18May2025 23:35:44.041] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_180 at (1299 | 14 | -1012)
+[18May2025 23:35:44.041] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_180 at (1299 | 14 | -1012)
+[18May2025 23:35:44.041] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (1293 | 9 | -1017)
+[18May2025 23:35:44.044] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (1293 | 9 | -1017)
+[18May2025 23:35:44.044] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (1294 | 9 | -1013)
+[18May2025 23:35:44.044] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (1294 | 9 | -1013)
+[18May2025 23:35:44.046] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (1298 | 9 | -1023)
+[18May2025 23:35:44.046] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (1298 | 9 | -1023)
+[18May2025 23:35:44.046] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (1310 | 9 | -1013)
+[18May2025 23:35:44.046] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (1310 | 9 | -1013)
+[18May2025 23:35:44.047] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (1293 | 9 | -1018)
+[18May2025 23:35:44.047] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (1293 | 9 | -1018)
+[18May2025 23:35:44.183] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (1301 | 18 | -1013)
+[18May2025 23:35:44.184] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (1301 | 18 | -1013)
+[18May2025 23:35:44.184] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (1284 | 18 | -1018)
+[18May2025 23:35:44.184] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (1284 | 18 | -1018)
+[18May2025 23:35:44.185] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (1306 | 18 | -1013)
+[18May2025 23:35:44.185] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (1306 | 18 | -1013)
+[18May2025 23:35:44.185] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (1311 | 18 | -1018)
+[18May2025 23:35:44.185] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (1311 | 18 | -1018)
+[18May2025 23:35:44.186] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_180 at (1299 | 14 | -1012)
+[18May2025 23:35:44.186] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_180 at (1299 | 14 | -1012)
+[18May2025 23:35:44.186] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_90 at (1305 | 9 | -1006)
+[18May2025 23:35:44.186] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_90 at (1305 | 9 | -1006)
+[18May2025 23:35:44.186] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/large_wall with rotation CLOCKWISE_90 at (1299 | 9 | -1006)
+[18May2025 23:35:44.186] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/large_wall with rotation CLOCKWISE_90 at (1299 | 9 | -1006)
+[18May2025 23:35:44.186] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (1294 | 9 | -1013)
+[18May2025 23:35:44.186] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (1294 | 9 | -1013)
+[18May2025 23:35:44.186] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (1310 | 9 | -1013)
+[18May2025 23:35:44.186] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (1310 | 9 | -1013)
+[18May2025 23:35:44.186] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (1293 | 9 | -1018)
+[18May2025 23:35:44.187] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (1293 | 9 | -1018)
+[18May2025 23:35:44.350] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (1301 | -9 | -986)
+[18May2025 23:35:44.350] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (1301 | -9 | -986)
+[18May2025 23:35:44.350] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/lava_hall with rotation CLOCKWISE_180 at (1284 | -9 | -991)
+[18May2025 23:35:44.351] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/lava_hall with rotation CLOCKWISE_180 at (1284 | -9 | -991)
+[18May2025 23:35:44.351] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (1306 | -9 | -986)
+[18May2025 23:35:44.351] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (1306 | -9 | -986)
+[18May2025 23:35:44.621] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/lava_hall with rotation CLOCKWISE_180 at (1284 | -9 | -991)
+[18May2025 23:35:44.621] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/lava_hall with rotation CLOCKWISE_180 at (1284 | -9 | -991)
+[18May2025 23:35:44.622] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (1311 | -9 | -973)
+[18May2025 23:35:44.622] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (1311 | -9 | -973)
+[18May2025 23:35:44.629] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (1311 | -9 | -973)
+[18May2025 23:35:44.629] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_180 at (1311 | -9 | -973)
+[18May2025 23:35:50.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie was shot by Skeleton
+[18May2025 23:35:50.795] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jaacquie was created at position [x:1065, y:79, z:-984, dim:minecraft:overworld]
+[18May2025 23:35:50.798] [Server thread/INFO] [tombstone/]: The player Jaacquie has successfully been saved
+[18May2025 23:35:57.406] [Server thread/DEBUG] [twilightforest/]: Player Jaacquie (e9e6d352-a993-3d3f-bf74-a1d53ece6b09) respawned and received items held in storage
+[18May2025 23:35:57.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Jaacquie to pablito]
+[18May2025 23:36:32.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie was slain by Zombie
+[18May2025 23:36:32.618] [Server thread/INFO] [tombstone/]: The player Jaacquie has successfully been saved
+[18May2025 23:36:39.382] [Server thread/DEBUG] [twilightforest/]: Player Jaacquie (e9e6d352-a993-3d3f-bf74-a1d53ece6b09) respawned and received items held in storage
+[18May2025 23:37:24.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie has made the advancement [The Most Useful Key]
+[18May2025 23:37:29.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie has reached the goal [A Fast Comeback]
+[18May2025 23:37:35.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Jaacquie to pablito]
+[18May2025 23:38:05.072] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 23:38:05.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 23:39:17.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Zombie
+[18May2025 23:39:17.087] [Server thread/DEBUG] [tombstone/]: A new grave of the player pablito was created at position [x:1067, y:65, z:-913, dim:minecraft:overworld]
+[18May2025 23:39:17.109] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[18May2025 23:39:18.261] [Server thread/DEBUG] [twilightforest/]: Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) respawned and received items held in storage
+[18May2025 23:39:23.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie was slain by Zombie
+[18May2025 23:39:23.142] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jaacquie was created at position [x:1071, y:65, z:-927, dim:minecraft:overworld]
+[18May2025 23:39:23.157] [Server thread/INFO] [tombstone/]: The player Jaacquie has successfully been saved
+[18May2025 23:39:25.461] [Server thread/DEBUG] [twilightforest/]: Player Jaacquie (e9e6d352-a993-3d3f-bf74-a1d53ece6b09) respawned and received items held in storage
+[18May2025 23:39:31.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Zombie
+[18May2025 23:39:31.925] [Server thread/DEBUG] [tombstone/]: A new grave of the player pablito was created at position [x:1066, y:66, z:-908, dim:minecraft:overworld]
+[18May2025 23:39:31.974] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[18May2025 23:39:33.064] [Server thread/DEBUG] [twilightforest/]: Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) respawned and received items held in storage
+[18May2025 23:39:43.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Zombie
+[18May2025 23:39:43.938] [Server thread/DEBUG] [tombstone/]: A new grave of the player pablito was created at position [x:1067, y:65, z:-918, dim:minecraft:overworld]
+[18May2025 23:39:43.960] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[18May2025 23:39:45.139] [Server thread/DEBUG] [twilightforest/]: Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) respawned and received items held in storage
+[18May2025 23:40:18.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Vindicator
+[18May2025 23:40:18.039] [Server thread/DEBUG] [tombstone/]: A new grave of the player pablito was created at position [x:1071, y:65, z:-946, dim:minecraft:overworld]
+[18May2025 23:40:18.044] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[18May2025 23:40:19.205] [Server thread/DEBUG] [twilightforest/]: Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) respawned and received items held in storage
+[18May2025 23:40:24.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie was slain by Vindicator
+[18May2025 23:40:24.588] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jaacquie was created at position [x:1063, y:65, z:-927, dim:minecraft:overworld]
+[18May2025 23:40:24.591] [Server thread/INFO] [tombstone/]: The player Jaacquie has successfully been saved
+[18May2025 23:40:26.845] [Server thread/DEBUG] [twilightforest/]: Player Jaacquie (e9e6d352-a993-3d3f-bf74-a1d53ece6b09) respawned and received items held in storage
+[18May2025 23:40:33.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Vindicator
+[18May2025 23:40:33.097] [Server thread/DEBUG] [tombstone/]: A new grave of the player pablito was created at position [x:1064, y:65, z:-934, dim:minecraft:overworld]
+[18May2025 23:40:33.119] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[18May2025 23:40:34.496] [Server thread/DEBUG] [twilightforest/]: Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) respawned and received items held in storage
