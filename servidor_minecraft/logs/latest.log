@@ -1415,3 +1415,65 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [18May2025 22:43:41.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito fell off a ladder
 [18May2025 22:43:41.105] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
 [18May2025 22:43:55.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
+[18May2025 22:50:58.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie has made the advancement [Ashes 'n Bones]
+[18May2025 22:51:05.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie was shot by Arrow
+[18May2025 22:51:05.749] [Server thread/INFO] [tombstone/]: The player Jaacquie has successfully been saved
+[18May2025 22:51:25.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
+[18May2025 22:51:46.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaacquie was kicked for floating too long!
+[18May2025 22:51:46.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaacquie lost connection: Flying is not enabled on this server
+[18May2025 22:51:46.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie left the game
+[18May2025 22:51:46.254] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jaacquie
+[18May2025 22:52:01.753] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jaacquie[/127.195.99.66:54189] logged in with entity id 15287 at (1163.080382891413, 51.82922529714963, -547.8929964637638)
+[18May2025 22:52:01.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie joined the game
+[18May2025 22:52:01.831] [Server thread/INFO] [Jade/]: Syncing config to Jaacquie (e9e6d352-a993-3d3f-bf74-a1d53ece6b09)
+[18May2025 22:52:02.060] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jaacquie (18)
+[18May2025 22:52:02.064] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jaacquie
+[18May2025 22:52:05.355] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e9e6d352-a993-3d3f-bf74-a1d53ece6b09
+[18May2025 22:52:06.359] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e9e6d352-a993-3d3f-bf74-a1d53ece6b09
+[18May2025 22:52:06.360] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jaacquie (e9e6d352-a993-3d3f-bf74-a1d53ece6b09) successfully connected to voice chat
+[18May2025 22:52:06.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Jaacquie to pablito]
+[18May2025 22:52:25.378] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7cad6d23-b90d-32e7-a33e-08234c01e126 timed out
+[18May2025 22:52:25.379] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player pablito
+[18May2025 22:52:25.379] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[18May2025 22:52:25.380] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e9e6d352-a993-3d3f-bf74-a1d53ece6b09 timed out
+[18May2025 22:52:25.383] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Jaacquie
+[18May2025 22:52:25.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Jaacquie
+[18May2025 22:52:31.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaacquie lost connection: Timed out
+[18May2025 22:52:31.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie left the game
+[18May2025 22:52:31.841] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jaacquie
+[18May2025 22:52:38.390] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Timed out
+[18May2025 22:52:38.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[18May2025 22:52:38.391] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[18May2025 22:52:38.461] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18May2025 22:53:37.206] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jaacquie[/127.195.99.66:51023] logged in with entity id 15335 at (1179.6991543823021, 9.0, -563.6999999880791)
+[18May2025 22:53:37.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie joined the game
+[18May2025 22:53:37.251] [Server thread/INFO] [Jade/]: Syncing config to Jaacquie (e9e6d352-a993-3d3f-bf74-a1d53ece6b09)
+[18May2025 22:53:38.939] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jaacquie (18)
+[18May2025 22:53:38.941] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jaacquie
+[18May2025 22:53:41.012] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e9e6d352-a993-3d3f-bf74-a1d53ece6b09
+[18May2025 22:53:42.017] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e9e6d352-a993-3d3f-bf74-a1d53ece6b09
+[18May2025 22:53:42.020] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jaacquie (e9e6d352-a993-3d3f-bf74-a1d53ece6b09) successfully connected to voice chat
+[18May2025 22:54:05.205] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:41423] logged in with entity id 15591 at (1179.6991543823021, 9.0, -563.6999999880791)
+[18May2025 22:54:05.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[18May2025 22:54:05.279] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[18May2025 22:54:05.610] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[18May2025 22:54:05.611] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[18May2025 22:54:12.755] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[18May2025 22:54:13.743] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[18May2025 22:54:13.743] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[18May2025 22:54:24.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
+[18May2025 22:54:38.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie was killed by magic whilst trying to escape pablito
+[18May2025 22:54:38.296] [Server thread/INFO] [tombstone/]: The player Jaacquie has successfully been saved
+[18May2025 22:54:46.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Jaacquie to pablito]
+[18May2025 22:54:48.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie has reached the goal [Discreet Search]
+[18May2025 22:54:54.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1140, y=18, z=-493} BlockPos{x=1141, y=17, z=-493}
+[18May2025 22:54:54.791] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1140, y=18, z=-493} BlockPos{x=1141, y=17, z=-493}
+[18May2025 22:54:54.842] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1140, y=18, z=-493} BlockPos{x=1141, y=17, z=-493}
+[18May2025 22:54:58.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was killed by magic
+[18May2025 22:54:58.996] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[18May2025 22:55:05.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
+[18May2025 23:01:04.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Safe Haven]
+[18May2025 23:01:05.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie has made the advancement [Safe Haven]
+[18May2025 23:01:44.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Call For Adventure]
+[18May2025 23:01:44.759] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[18May2025 23:04:37.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Food Fight]
