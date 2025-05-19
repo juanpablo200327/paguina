@@ -634,7 +634,8 @@
       "bread": "2025-05-18 23:18:18 +0000",
       "glow_berries": "2025-05-18 22:33:07 +0000",
       "melon_slice": "2025-05-19 22:27:39 +0000",
-      "cooked_chicken": "2025-05-18 22:47:50 +0000"
+      "cooked_chicken": "2025-05-18 22:47:50 +0000",
+      "cod": "2025-05-19 23:15:16 +0000"
     },
     "done": false
   },
@@ -707,7 +708,8 @@
       "minecraft:vindicator": "2025-05-18 23:27:19 +0000",
       "minecraft:cave_spider": "2025-05-18 22:24:13 +0000",
       "minecraft:endermite": "2025-05-19 22:21:39 +0000",
-      "minecraft:zombie": "2025-05-18 21:57:40 +0000"
+      "minecraft:zombie": "2025-05-18 21:57:40 +0000",
+      "minecraft:drowned": "2025-05-19 23:17:15 +0000"
     },
     "done": false
   },
@@ -2403,15 +2405,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-19 23:17:16 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-05-19 23:16:15 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/aether_saddle": {
     "criteria": {
       "has_leather": "2025-05-19 22:18:38 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-05-19 23:18:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-05-19 21:59:52 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-05-19 23:15:11 +0000"
     },
     "done": true
   },
@@ -2439,6 +2465,24 @@
     },
     "done": true
   },
+  "hamsters:recipes/hamster_wheel": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-19 23:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-19 23:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-19 23:14:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-05-19 22:18:38 +0000"
@@ -2448,6 +2492,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-05-19 22:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-19 23:17:16 +0000"
     },
     "done": true
   },
@@ -2535,15 +2585,39 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_tune_enchanting": {
+    "criteria": {
+      "has_disc": "2025-05-19 23:11:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-05-19 22:18:38 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-05-19 23:14:03 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/iron_ladder": {
     "criteria": {
       "has_iron_bars": "2025-05-19 22:06:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-19 23:14:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-05-19 23:18:34 +0000"
     },
     "done": true
   },
@@ -2583,6 +2657,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-05-19 23:18:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-05-19 22:22:14 +0000"
@@ -2616,6 +2696,12 @@
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-05-19 22:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-19 23:18:34 +0000"
     },
     "done": true
   },
