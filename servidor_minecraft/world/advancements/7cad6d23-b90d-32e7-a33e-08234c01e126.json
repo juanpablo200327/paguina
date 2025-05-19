@@ -2282,6 +2282,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/acacia_banister": {
+    "criteria": {
+      "has_item": "2025-05-19 22:18:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-05-19 22:08:34 +0000"
@@ -2318,6 +2324,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-19 22:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-19 22:15:28 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/dark_oak_banister": {
     "criteria": {
       "has_item": "2025-05-19 22:03:21 +0000"
@@ -2327,6 +2345,18 @@
   "aether:recipes/combat/diamond_leggings_repairing": {
     "criteria": {
       "has_diamond_leggings": "2025-05-19 22:03:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-05-19 22:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-19 22:15:28 +0000"
     },
     "done": true
   },

@@ -701,6 +701,7 @@
     "criteria": {
       "minecraft:pillager": "2025-05-19 22:06:36 +0000",
       "minecraft:skeleton": "2025-05-18 23:01:03 +0000",
+      "minecraft:hoglin": "2025-05-19 22:18:16 +0000",
       "minecraft:vindicator": "2025-05-18 23:27:19 +0000",
       "minecraft:cave_spider": "2025-05-18 22:24:13 +0000",
       "minecraft:zombie": "2025-05-18 21:57:40 +0000"
@@ -2375,9 +2376,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-19 22:18:38 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/packed_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2025-05-19 21:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-19 22:18:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2025-05-19 22:18:38 +0000"
     },
     "done": true
   },
@@ -2387,9 +2406,45 @@
     },
     "done": true
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-05-19 22:15:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-05-19 21:59:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-19 22:18:38 +0000"
+    },
+    "done": true
+  },
+  "spawn:recipes/tuna/cooked_tuna_chunk_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2025-05-19 22:14:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-05-19 22:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-19 22:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-19 22:18:38 +0000"
     },
     "done": true
   },
@@ -2399,9 +2454,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-19 22:13:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-05-19 21:48:48 +0000"
+    },
+    "done": true
+  },
+  "spawn:recipes/tuna/cooked_tuna_chunk_from_smoking": {
+    "criteria": {
+      "has_item": "2025-05-19 22:14:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-19 22:18:38 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/cooked_hogham": {
+    "criteria": {
+      "has_item": "2025-05-19 22:18:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-05-19 22:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-19 22:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-19 22:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-19 22:18:38 +0000"
     },
     "done": true
   },
@@ -2423,15 +2526,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-19 22:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-19 22:13:57 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_gloves_repairing": {
     "criteria": {
       "has_diamond_gloves": "2025-05-19 21:57:52 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-19 22:13:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
       "has_echo_shard": "2025-05-19 22:08:02 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-05-19 22:18:38 +0000"
+    },
+    "done": true
+  },
+  "spawn:recipes/snail/escargot_from_milk": {
+    "criteria": {
+      "has_raw_item": "2025-05-19 22:16:55 +0000"
+    },
+    "done": true
+  },
+  "spawn:recipes/tuna/cooked_tuna_chunk": {
+    "criteria": {
+      "has_item": "2025-05-19 22:14:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-05-19 22:18:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-19 22:14:52 +0000"
     },
     "done": true
   },
