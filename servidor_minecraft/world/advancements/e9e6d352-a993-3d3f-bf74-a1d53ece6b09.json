@@ -629,9 +629,11 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-05-18 21:48:26 +0000",
+      "apple": "2025-05-19 22:35:51 +0000",
       "cooked_cod": "2025-05-19 21:52:55 +0000",
       "bread": "2025-05-18 23:18:18 +0000",
       "glow_berries": "2025-05-18 22:33:07 +0000",
+      "melon_slice": "2025-05-19 22:27:39 +0000",
       "cooked_chicken": "2025-05-18 22:47:50 +0000"
     },
     "done": false
@@ -704,6 +706,7 @@
       "minecraft:hoglin": "2025-05-19 22:18:16 +0000",
       "minecraft:vindicator": "2025-05-18 23:27:19 +0000",
       "minecraft:cave_spider": "2025-05-18 22:24:13 +0000",
+      "minecraft:endermite": "2025-05-19 22:21:39 +0000",
       "minecraft:zombie": "2025-05-18 21:57:40 +0000"
     },
     "done": false
@@ -2382,6 +2385,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2025-05-19 22:22:14 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/packed_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2025-05-19 21:48:48 +0000"
@@ -2460,6 +2469,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-05-19 22:37:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-05-19 21:48:48 +0000"
@@ -2478,6 +2493,18 @@
     },
     "done": true
   },
+  "aether:recipes/combat/white_cape": {
+    "criteria": {
+      "has_white_wool": "2025-05-19 22:22:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-05-19 22:22:14 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/misc/cooked_hogham": {
     "criteria": {
       "has_item": "2025-05-19 22:18:38 +0000"
@@ -2487,6 +2514,12 @@
   "aether:recipes/combat/leather_gloves": {
     "criteria": {
       "has_leather": "2025-05-19 22:18:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-05-19 22:35:26 +0000"
     },
     "done": true
   },
@@ -2514,9 +2547,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-05-19 22:22:14 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/blue_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2025-05-19 21:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-05-19 22:37:47 +0000"
     },
     "done": true
   },
@@ -2538,6 +2583,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-05-19 22:22:14 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_gloves_repairing": {
     "criteria": {
       "has_diamond_gloves": "2025-05-19 21:57:52 +0000"
@@ -2547,6 +2598,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-05-19 22:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-05-19 22:22:14 +0000"
     },
     "done": true
   },
@@ -2577,6 +2634,12 @@
   "aether:recipes/tools/diamond_axe_repairing": {
     "criteria": {
       "has_diamond_axe": "2025-05-19 22:18:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-05-19 22:37:47 +0000"
     },
     "done": true
   },

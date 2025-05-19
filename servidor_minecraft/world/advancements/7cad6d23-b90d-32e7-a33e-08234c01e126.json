@@ -635,6 +635,7 @@
     "criteria": {
       "minecraft:pillager": "2025-05-18 23:27:13 +0000",
       "minecraft:skeleton": "2025-05-18 22:04:57 +0000",
+      "minecraft:hoglin": "2025-05-19 22:24:34 +0000",
       "minecraft:vindicator": "2025-05-18 23:28:53 +0000",
       "minecraft:spider": "2025-05-17 00:42:35 +0000",
       "minecraft:witch": "2025-05-18 22:13:25 +0000",
@@ -2276,15 +2277,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
+  "aether:recipes/combat/diamond_leggings_repairing": {
     "criteria": {
-      "has_planks": "2025-05-19 22:08:34 +0000"
+      "has_diamond_leggings": "2025-05-19 22:03:04 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/wood/acacia_banister": {
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
     "criteria": {
-      "has_item": "2025-05-19 22:18:31 +0000"
+      "has_item": "2025-05-19 22:03:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-05-19 22:08:34 +0000"
     },
     "done": true
   },
@@ -2324,6 +2331,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-19 22:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-19 22:08:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-05-19 22:15:28 +0000"
@@ -2336,15 +2355,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+  "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
-      "has_item": "2025-05-19 22:03:21 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_leggings_repairing": {
-    "criteria": {
-      "has_diamond_leggings": "2025-05-19 22:03:04 +0000"
+      "has_melon": "2025-05-19 22:15:28 +0000"
     },
     "done": true
   },
@@ -2354,21 +2367,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
+  "twilightforest:recipes/decorations/wood/acacia_banister": {
     "criteria": {
-      "has_melon": "2025-05-19 22:15:28 +0000"
+      "has_item": "2025-05-19 22:18:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_trapdoor": {
+  "tombstone:adventure/bone_crusher": {
     "criteria": {
-      "has_planks": "2025-05-19 22:08:34 +0000"
+      "coded_trigger": "2025-05-19 22:23:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
-      "has_planks": "2025-05-19 22:08:34 +0000"
+      "has_salmon": "2025-05-19 22:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-19 22:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-19 22:31:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2025-05-19 22:34:22 +0000"
     },
     "done": true
   },
