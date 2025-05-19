@@ -9688,3 +9688,31 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [19May2025 23:16:15.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie has reached the goal [Fighting Nightmares]
 [19May2025 23:21:09.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19May2025 23:21:09.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 23:25:39.294] [Server thread/DEBUG] [twilightforest/]: Did not find existing portal, making a new one.
+[19May2025 23:25:39.308] [Server thread/DEBUG] [twilightforest/]: Portal destination looks unsafe, rerouting!
+[19May2025 23:25:39.319] [Server thread/DEBUG] [twilightforest/]: Safely rerouted!
+[19May2025 23:25:44.076] [Server thread/DEBUG] [twilightforest/]: Found ideal portal spot for Cherry Log at BlockPos{x=9548, y=4, z=-3753}
+[19May2025 23:25:44.420] [Server thread/DEBUG] [twilightforest/]: Caching Dest Portal Blocks to BlockPos{x=1206, y=63, z=-516}
+[19May2025 23:25:44.429] [Server thread/DEBUG] [twilightforest/]: Caching Src Portal Blocks to BlockPos{x=9548, y=4, z=-3753}
+[19May2025 23:25:44.430] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=1206, y=63, z=-516}
+[19May2025 23:25:44.431] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=1206, y=63, z=-515}
+[19May2025 23:25:44.431] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=1207, y=63, z=-516}
+[19May2025 23:25:44.431] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=1207, y=63, z=-515}
+[19May2025 23:25:44.485] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=9548, y=4, z=-3753}
+[19May2025 23:25:48.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9111ms or 182 ticks behind
+[19May2025 23:25:48.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito moved too quickly! 8342.865035743791,-58.92159999847412,-3238.5524633093
+[19May2025 23:25:49.903] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=9548, y=4, z=-3753}
+[19May2025 23:25:50.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaacquie moved too quickly! 8342.461313681904,-58.92159999847412,-3239.0246383703957
+[19May2025 23:25:58.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [The Silence of the Forest]
+[19May2025 23:26:18.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 23:26:18.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 23:27:23.788] [Server thread/DEBUG] [mixin/]: Mixing blocks.PistonStructureResolverMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[19May2025 23:28:16.586] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=1206, y=63, z=-516}
+[19May2025 23:28:22.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6030ms or 120 ticks behind
+[19May2025 23:28:22.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito moved too quickly! -8341.86356120056,59.32352912385573,3235.11464845918
+[19May2025 23:28:22.711] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=1206, y=63, z=-516}
+[19May2025 23:28:23.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaacquie moved too quickly! -8342.207514125856,59.07840000152588,3235.8367284992987
+[19May2025 23:31:24.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 23:31:24.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 23:32:54.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[19May2025 23:33:17.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]

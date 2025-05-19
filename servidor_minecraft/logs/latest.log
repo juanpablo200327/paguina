@@ -1426,3 +1426,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [19May2025 23:14:40.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
 [19May2025 23:15:11.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie has made the advancement [Dark Metallurgy]
 [19May2025 23:16:15.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie has reached the goal [Fighting Nightmares]
+[19May2025 23:25:48.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9111ms or 182 ticks behind
+[19May2025 23:25:48.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito moved too quickly! 8342.865035743791,-58.92159999847412,-3238.5524633093
+[19May2025 23:25:50.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaacquie moved too quickly! 8342.461313681904,-58.92159999847412,-3239.0246383703957
+[19May2025 23:25:58.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [The Silence of the Forest]
+[19May2025 23:28:22.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6030ms or 120 ticks behind
+[19May2025 23:28:22.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito moved too quickly! -8341.86356120056,59.32352912385573,3235.11464845918
+[19May2025 23:28:23.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaacquie moved too quickly! -8342.207514125856,59.07840000152588,3235.8367284992987
+[19May2025 23:32:54.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[19May2025 23:33:17.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
