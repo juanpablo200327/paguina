@@ -46,3 +46,74 @@
 [23May2025 00:28:47.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Jaacquie to pablito]
 [23May2025 00:29:37.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [What Was That Noise?]
 [23May2025 00:32:21.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
+[23May2025 00:33:26.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie has reached the goal [Bone Crusher]
+[23May2025 00:33:39.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Skeleton Druid
+[23May2025 00:33:39.398] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[23May2025 00:33:42.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
+[23May2025 00:34:14.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Jaacquie to pablito]
+[23May2025 00:38:04.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie has reached the goal [Time To Even The Scales]
+[23May2025 00:38:04.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has reached the goal [Time To Even The Scales]
+[23May2025 00:38:52.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[23May2025 00:39:19.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[23May2025 00:41:31.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[23May2025 00:41:34.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[23May2025 00:42:47.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Jaacquie to pablito]
+[23May2025 00:43:57.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Hostile Paradise]
+[23May2025 00:43:57.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[23May2025 00:44:14.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie has made the advancement [Hostile Paradise]
+[23May2025 00:47:20.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
+[23May2025 00:47:52.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
+[23May2025 00:48:39.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Jaacquie) moved too quickly! 0.0,-322.22435040631655,-1.8747320939382917E-4
+[23May2025 00:48:39.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Jaacquie) moved too quickly! 0.0,-322.47435040631655,-3.5807383494557143E-4
+[23May2025 00:48:39.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Jaacquie) moved too quickly! 0.0,-322.72435040631655,-5.133204086860133E-4
+[23May2025 00:50:42.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Jaacquie
+[23May2025 00:50:42.925] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[23May2025 00:50:45.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
+[23May2025 00:51:34.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has reached the goal [Fighting Nightmares]
+[23May2025 00:52:33.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Zombie
+[23May2025 00:52:33.570] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[23May2025 00:52:37.007] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7cad6d23-b90d-32e7-a33e-08234c01e126 timed out
+[23May2025 00:52:37.007] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player pablito
+[23May2025 00:52:37.008] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[23May2025 00:52:44.935] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: You logged in from another location
+[23May2025 00:52:44.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[23May2025 00:52:44.937] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[23May2025 00:52:44.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:39391] logged in with entity id 18961 at (1216.2285363272956, 64.0, -528.3986278782701)
+[23May2025 00:52:45.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[23May2025 00:52:45.099] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[23May2025 00:52:45.261] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[23May2025 00:52:45.264] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[23May2025 00:52:50.670] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[23May2025 00:52:51.670] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[23May2025 00:52:51.674] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[23May2025 00:52:57.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
+[23May2025 00:56:21.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaacquie lost connection: Disconnected
+[23May2025 00:56:21.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie left the game
+[23May2025 00:56:21.986] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jaacquie
+[23May2025 00:56:27.081] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[23May2025 00:56:27.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[23May2025 00:56:27.082] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[23May2025 00:56:31.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[23May2025 00:56:31.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23May2025 00:56:31.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23May2025 00:56:31.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23May2025 00:56:32.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23May2025 00:56:33.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23May2025 00:56:33.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_mirror_realm
+[23May2025 00:56:33.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mofus_better_end_:broken_constellation
+[23May2025 00:56:33.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[23May2025 00:56:33.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_abyss
+[23May2025 00:56:33.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[23May2025 00:56:33.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23May2025 00:56:33.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[23May2025 00:56:33.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23May2025 00:56:33.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23May2025 00:56:33.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_mirror_realm): All chunks are saved
+[23May2025 00:56:33.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
+[23May2025 00:56:33.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[23May2025 00:56:33.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[23May2025 00:56:33.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[23May2025 00:56:33.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23May2025 00:56:33.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[23May2025 00:56:33.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23May2025 00:56:33.760] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
