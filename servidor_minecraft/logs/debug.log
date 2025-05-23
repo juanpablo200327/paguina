@@ -7036,3 +7036,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [23May2025 00:06:54.479] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=9548, y=4, z=-3753}
 [23May2025 00:10:04.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23May2025 00:10:04.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23May2025 00:15:04.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23May2025 00:15:04.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23May2025 00:15:54.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Skeleton Druid
+[23May2025 00:15:54.350] [Server thread/DEBUG] [tombstone/]: A new grave of the player pablito was created at position [x:9698, y:-5, z:-3550, dim:twilightforest:twilight_forest]
+[23May2025 00:15:54.377] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[23May2025 00:15:56.299] [Server thread/DEBUG] [twilightforest/]: Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) respawned and received items held in storage
+[23May2025 00:16:01.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaacquie was slain by Swarm Spider
+[23May2025 00:16:01.273] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jaacquie was created at position [x:9700, y:-4, z:-3498, dim:twilightforest:twilight_forest]
+[23May2025 00:16:01.285] [Server thread/INFO] [tombstone/]: The player Jaacquie has successfully been saved
+[23May2025 00:16:05.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
+[23May2025 00:16:08.245] [Server thread/DEBUG] [twilightforest/]: Player Jaacquie (e9e6d352-a993-3d3f-bf74-a1d53ece6b09) respawned and received items held in storage
+[23May2025 00:16:14.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was shot by Skeleton
+[23May2025 00:16:14.974] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[23May2025 00:16:16.834] [Server thread/DEBUG] [twilightforest/]: Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) respawned and received items held in storage
+[23May2025 00:16:18.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[23May2025 00:16:18.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
+[23May2025 00:16:40.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Peaceful]
+[23May2025 00:16:44.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
+[23May2025 00:16:52.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Jaacquie to pablito]
+[23May2025 00:16:59.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Hard]
+[23May2025 00:20:06.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23May2025 00:20:06.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23May2025 00:21:08.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has completed the challenge [Overkill]

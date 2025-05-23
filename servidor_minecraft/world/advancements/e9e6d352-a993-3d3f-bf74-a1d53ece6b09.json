@@ -707,6 +707,7 @@
       "minecraft:skeleton": "2025-05-18 23:01:03 +0000",
       "minecraft:hoglin": "2025-05-19 22:18:16 +0000",
       "minecraft:vindicator": "2025-05-18 23:27:19 +0000",
+      "minecraft:spider": "2025-05-23 00:19:43 +0000",
       "minecraft:cave_spider": "2025-05-18 22:24:13 +0000",
       "minecraft:endermite": "2025-05-19 22:21:39 +0000",
       "minecraft:zombie": "2025-05-18 21:57:40 +0000",
@@ -2744,7 +2745,12 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "twilight_oak_planks": "2025-05-23 00:12:36 +0000",
+      "mining_stairs": "2025-05-23 00:12:41 +0000",
       "dark_planks": "2025-05-23 00:03:48 +0000",
+      "twilight_oak_slab": "2025-05-23 00:12:35 +0000",
+      "mining_slab": "2025-05-23 00:12:41 +0000",
+      "mining_fence": "2025-05-23 00:12:40 +0000",
       "dark_log": "2025-05-19 23:27:14 +0000"
     },
     "done": false
@@ -2761,6 +2767,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/mining_banister": {
+    "criteria": {
+      "has_item": "2025-05-23 00:12:41 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/wood/dark_gate": {
     "criteria": {
       "has_item": "2025-05-23 00:03:48 +0000"
@@ -2773,9 +2785,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/magic_map_focus": {
+    "criteria": {
+      "has_berries": "2025-05-23 00:11:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
       "has_sentry_armor_trim_smithing_template": "2025-05-22 23:35:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
+    "criteria": {
+      "has_item": "2025-05-23 00:12:36 +0000"
     },
     "done": true
   },
@@ -2797,6 +2821,36 @@
     },
     "done": true
   },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-05-23 00:20:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
+    "criteria": {
+      "has_item": "2025-05-23 00:12:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_banister": {
+    "criteria": {
+      "has_item": "2025-05-23 00:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-23 00:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-05-23 00:17:34 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/wood/dark_button": {
     "criteria": {
       "has_item": "2025-05-23 00:03:48 +0000"
@@ -2809,9 +2863,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-23 00:20:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_door": {
+    "criteria": {
+      "has_item": "2025-05-23 00:12:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
+    "criteria": {
+      "has_item": "2025-05-23 00:12:36 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "kobold": "2025-05-23 00:06:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
+    "criteria": {
+      "has_item": "2025-05-23 00:12:36 +0000"
     },
     "done": true
   },
@@ -2833,15 +2911,69 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/twilight_oak_button": {
+    "criteria": {
+      "has_item": "2025-05-23 00:12:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_trapdoor": {
+    "criteria": {
+      "has_item": "2025-05-23 00:12:36 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/dark_chest": {
     "criteria": {
       "has_item": "2025-05-23 00:03:48 +0000"
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2025-05-23 00:11:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
+    "criteria": {
+      "has_item": "2025-05-23 00:12:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-05-22 23:35:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_sign": {
+    "criteria": {
+      "has_item": "2025-05-23 00:12:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-23 00:19:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_plate": {
+    "criteria": {
+      "has_item": "2025-05-23 00:12:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2025-05-23 00:17:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-23 00:17:34 +0000"
     },
     "done": true
   },
