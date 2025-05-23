@@ -1295,3 +1295,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [22May2025 23:44:04.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> esperame a mi jajjaja
 [22May2025 23:50:50.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaacquie> espera
 [22May2025 23:50:54.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaacquie> otra vez
+[22May2025 23:54:00.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Hard]
+[22May2025 23:54:07.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22May2025 23:54:23.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Take Aim]
+[22May2025 23:54:32.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [The Wind Darkening]
+[22May2025 23:54:34.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was blown up by Creeper
+[22May2025 23:54:34.731] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[22May2025 23:55:05.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Junior Summoner]
+[22May2025 23:56:24.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
+[22May2025 23:58:52.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito moved too quickly! 8342.684986785907,-58.92159999847412,-3238.1099387673185
+[22May2025 23:58:55.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3425ms or 68 ticks behind

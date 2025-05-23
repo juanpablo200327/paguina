@@ -6988,3 +6988,38 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [22May2025 23:49:57.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22May2025 23:50:50.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaacquie> espera
 [22May2025 23:50:54.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaacquie> otra vez
+[22May2025 23:54:00.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Hard]
+[22May2025 23:54:07.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22May2025 23:54:09.393] [Worker-Main-17/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[22May2025 23:54:09.393] [Worker-Main-17/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[22May2025 23:54:09.393] [Worker-Main-17/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[22May2025 23:54:09.394] [Worker-Main-17/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from the_bumblezone-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[22May2025 23:54:09.395] [Worker-Main-17/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mes-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[22May2025 23:54:09.395] [Worker-Main-17/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mns-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[22May2025 23:54:09.398] [Worker-Main-17/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[22May2025 23:54:09.398] [Worker-Main-17/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[22May2025 23:54:09.398] [Worker-Main-17/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[22May2025 23:54:10.325] [Worker-Main-26/DEBUG] [mixin/]: Mixing world.NoiseChunkAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[22May2025 23:54:10.326] [Worker-Main-26/DEBUG] [mixin/]: Mixing world.NoiseChunkMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[22May2025 23:54:10.331] [Worker-Main-26/DEBUG] [mixin/]: Renaming synthetic method lambda$injectWrapNew$1()Lnet/minecraft/world/level/biome/Climate$Sampler; to md0901cf$lambda$injectWrapNew$1$0 in the_bumblezone-common.mixins.json:world.NoiseChunkMixin
+[22May2025 23:54:10.331] [Worker-Main-26/DEBUG] [mixin/]: Renaming synthetic method lambda$injectWrapNew$0()Lnet/minecraft/world/level/biome/BiomeSource; to md0901cf$lambda$injectWrapNew$0$1 in the_bumblezone-common.mixins.json:world.NoiseChunkMixin
+[22May2025 23:54:10.332] [Worker-Main-26/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from mixins.mofus_better_end_.json into net.minecraft.world.level.levelgen.NoiseChunk
+[22May2025 23:54:10.350] [Worker-Main-26/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[22May2025 23:54:10.352] [Worker-Main-26/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[22May2025 23:54:23.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Take Aim]
+[22May2025 23:54:32.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [The Wind Darkening]
+[22May2025 23:54:34.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was blown up by Creeper
+[22May2025 23:54:34.687] [Server thread/DEBUG] [tombstone/]: A new grave of the player pablito was created at position [x:1268, y:66, z:-504, dim:minecraft:overworld]
+[22May2025 23:54:34.731] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[22May2025 23:54:35.990] [Server thread/DEBUG] [twilightforest/]: Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) respawned and received items held in storage
+[22May2025 23:54:59.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22May2025 23:54:59.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22May2025 23:55:05.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Junior Summoner]
+[22May2025 23:55:33.949] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[22May2025 23:56:24.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Jaacquie]
+[22May2025 23:58:51.011] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=9548, y=4, z=-3753}
+[22May2025 23:58:52.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito moved too quickly! 8342.684986785907,-58.92159999847412,-3238.1099387673185
+[22May2025 23:58:54.196] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=1206, y=63, z=-516}
+[22May2025 23:58:55.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3425ms or 68 ticks behind
+[23May2025 00:00:02.647] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23May2025 00:00:02.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
