@@ -708,6 +708,7 @@
       "minecraft:hoglin": "2025-05-19 22:18:16 +0000",
       "minecraft:vindicator": "2025-05-18 23:27:19 +0000",
       "minecraft:spider": "2025-05-23 00:19:43 +0000",
+      "minecraft:creeper": "2025-05-23 00:29:50 +0000",
       "minecraft:cave_spider": "2025-05-18 22:24:13 +0000",
       "minecraft:endermite": "2025-05-19 22:21:39 +0000",
       "minecraft:zombie": "2025-05-18 21:57:40 +0000",
@@ -2815,6 +2816,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-23 00:20:38 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/dark_slab": {
     "criteria": {
       "has_item": "2025-05-23 00:03:48 +0000"
@@ -2836,6 +2843,12 @@
   "twilightforest:recipes/decorations/wood/twilight_oak_banister": {
     "criteria": {
       "has_item": "2025-05-23 00:12:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/vanilla_to_tf_moss": {
+    "criteria": {
+      "has_item": "2025-05-23 00:20:14 +0000"
     },
     "done": true
   },
@@ -2869,15 +2882,39 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/vanilla_to_tf_lilypad": {
+    "criteria": {
+      "has_item": "2025-05-23 00:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-23 00:25:42 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/wood/twilight_oak_door": {
     "criteria": {
       "has_item": "2025-05-23 00:12:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-23 00:22:32 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
     "criteria": {
       "has_item": "2025-05-23 00:12:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/tf_moss_to_vanilla": {
+    "criteria": {
+      "has_item": "2025-05-23 00:20:14 +0000"
     },
     "done": true
   },
@@ -2890,6 +2927,12 @@
   "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
     "criteria": {
       "has_item": "2025-05-23 00:12:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-23 00:20:38 +0000"
     },
     "done": true
   },
@@ -2923,9 +2966,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-23 00:25:42 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/dark_chest": {
     "criteria": {
       "has_item": "2025-05-23 00:03:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-23 00:25:42 +0000"
     },
     "done": true
   },
@@ -2956,6 +3011,18 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-05-23 00:19:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-23 00:22:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/tf_to_vanilla_lilypad": {
+    "criteria": {
+      "has_item": "2025-05-23 00:20:14 +0000"
     },
     "done": true
   },
