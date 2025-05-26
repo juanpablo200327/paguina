@@ -1358,3 +1358,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [26May2025 00:57:27.328] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22857863-35dc-3b5a-a6b7-9522ce87259d
 [26May2025 00:57:28.329] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22857863-35dc-3b5a-a6b7-9522ce87259d
 [26May2025 00:57:28.330] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player dianamdnt (22857863-35dc-3b5a-a6b7-9522ce87259d) successfully connected to voice chat
+[26May2025 01:02:52.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianamdnt has made the advancement [Sweet Dreams]
+[26May2025 01:04:11.932] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1216, y=65, z=-520} BlockPos{x=1216, y=66, z=-520}
+[26May2025 01:04:11.973] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1216, y=65, z=-520} BlockPos{x=1216, y=66, z=-520}
+[26May2025 01:05:36.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianamdnt has made the advancement [A Seedy Place]
+[26May2025 01:07:15.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Cuteness Overload]
+[26May2025 01:07:19.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianamdnt has made the advancement [Cuteness Overload]
