@@ -115,6 +115,7 @@
       "minecraft:river": "2025-05-16 01:23:53 +0000",
       "minecraft:cold_ocean": "2025-05-18 23:24:05 +0000",
       "minecraft:forest": "2025-05-16 01:24:37 +0000",
+      "minecraft:lush_caves": "2025-05-26 01:19:01 +0000",
       "minecraft:deep_cold_ocean": "2025-05-18 23:34:16 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-26 01:10:08 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-17 00:36:10 +0000",
@@ -3039,15 +3040,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-05-26 01:25:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-26 01:06:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-26 01:25:43 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/transportation/skyroot_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-26 01:06:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves_repairing": {
+    "criteria": {
+      "has_leather_gloves": "2025-05-26 01:24:39 +0000"
     },
     "done": true
   },
