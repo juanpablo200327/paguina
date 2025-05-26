@@ -1343,3 +1343,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [26May2025 00:45:34.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Hard]
 [26May2025 00:46:13.362] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2180ms or 43 ticks behind
 [26May2025 00:46:45.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianamdnt has made the advancement [Monster Hunter]
+[26May2025 00:47:45.568] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[26May2025 00:49:53.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianamdnt has made the advancement [Suit Up]
+[26May2025 00:51:33.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianamdnt has made the advancement [Isn't It Iron Pick]
+[26May2025 00:52:41.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianamdnt has reached the goal [Time To Even The Scales]
+[26May2025 00:56:45.652] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dianamdnt lost connection: Disconnected
+[26May2025 00:56:45.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianamdnt left the game
+[26May2025 00:56:45.653] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client dianamdnt
+[26May2025 00:57:23.175] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dianamdnt[/127.99.41.77:59613] logged in with entity id 5309 at (1213.9560067599455, 70.0, -521.3109367103195)
+[26May2025 00:57:23.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianamdnt joined the game
+[26May2025 00:57:23.384] [Server thread/INFO] [Jade/]: Syncing config to dianamdnt (22857863-35dc-3b5a-a6b7-9522ce87259d)
+[26May2025 00:57:23.465] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of dianamdnt (18)
+[26May2025 00:57:23.467] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to dianamdnt
+[26May2025 00:57:27.328] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22857863-35dc-3b5a-a6b7-9522ce87259d
+[26May2025 00:57:28.329] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22857863-35dc-3b5a-a6b7-9522ce87259d
+[26May2025 00:57:28.330] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player dianamdnt (22857863-35dc-3b5a-a6b7-9522ce87259d) successfully connected to voice chat
