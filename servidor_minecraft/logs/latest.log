@@ -1300,3 +1300,46 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [26May2025 00:36:55.804] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dianamdnt lost connection: Timed out
 [26May2025 00:36:55.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianamdnt left the game
 [26May2025 00:36:55.807] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client dianamdnt
+[26May2025 00:37:42.670] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dianamdnt[/127.99.41.77:58001] logged in with entity id 2630 at (1193.901823699955, 41.0, -511.65783343407435)
+[26May2025 00:37:42.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianamdnt joined the game
+[26May2025 00:37:42.741] [Server thread/INFO] [Jade/]: Syncing config to dianamdnt (22857863-35dc-3b5a-a6b7-9522ce87259d)
+[26May2025 00:37:44.729] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of dianamdnt (18)
+[26May2025 00:37:44.731] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to dianamdnt
+[26May2025 00:37:44.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[26May2025 00:37:48.449] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22857863-35dc-3b5a-a6b7-9522ce87259d
+[26May2025 00:37:49.449] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22857863-35dc-3b5a-a6b7-9522ce87259d
+[26May2025 00:37:49.450] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player dianamdnt (22857863-35dc-3b5a-a6b7-9522ce87259d) successfully connected to voice chat
+[26May2025 00:38:22.193] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 22857863-35dc-3b5a-a6b7-9522ce87259d timed out
+[26May2025 00:38:22.194] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player dianamdnt
+[26May2025 00:38:22.194] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to dianamdnt
+[26May2025 00:38:27.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dianamdnt lost connection: Timed out
+[26May2025 00:38:27.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianamdnt left the game
+[26May2025 00:38:27.800] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client dianamdnt
+[26May2025 00:38:46.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dianamdnt[/127.99.41.77:33595] logged in with entity id 2913 at (1205.0957907434229, 65.17675927506424, -509.5505136666608)
+[26May2025 00:38:46.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianamdnt joined the game
+[26May2025 00:38:46.698] [Server thread/INFO] [Jade/]: Syncing config to dianamdnt (22857863-35dc-3b5a-a6b7-9522ce87259d)
+[26May2025 00:38:46.909] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of dianamdnt (18)
+[26May2025 00:38:46.910] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to dianamdnt
+[26May2025 00:38:54.678] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22857863-35dc-3b5a-a6b7-9522ce87259d
+[26May2025 00:38:55.679] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22857863-35dc-3b5a-a6b7-9522ce87259d
+[26May2025 00:38:55.680] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player dianamdnt (22857863-35dc-3b5a-a6b7-9522ce87259d) successfully connected to voice chat
+[26May2025 00:39:08.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianamdnt has made the advancement [The More You Know!]
+[26May2025 00:39:21.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported dianamdnt to pablito]
+[26May2025 00:40:26.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianamdnt has made the advancement [Acquire Hardware]
+[26May2025 00:41:53.299] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 22857863-35dc-3b5a-a6b7-9522ce87259d timed out
+[26May2025 00:41:53.299] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player dianamdnt
+[26May2025 00:41:53.301] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to dianamdnt
+[26May2025 00:42:01.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dianamdnt lost connection: Timed out
+[26May2025 00:42:01.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianamdnt left the game
+[26May2025 00:42:01.965] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client dianamdnt
+[26May2025 00:42:18.415] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dianamdnt[/127.99.41.77:34907] logged in with entity id 3222 at (1214.699999988079, 74.0, -520.7339108907038)
+[26May2025 00:42:18.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianamdnt joined the game
+[26May2025 00:42:18.545] [Server thread/INFO] [Jade/]: Syncing config to dianamdnt (22857863-35dc-3b5a-a6b7-9522ce87259d)
+[26May2025 00:42:18.653] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of dianamdnt (18)
+[26May2025 00:42:18.656] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to dianamdnt
+[26May2025 00:42:22.287] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22857863-35dc-3b5a-a6b7-9522ce87259d
+[26May2025 00:42:23.288] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22857863-35dc-3b5a-a6b7-9522ce87259d
+[26May2025 00:42:23.289] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player dianamdnt (22857863-35dc-3b5a-a6b7-9522ce87259d) successfully connected to voice chat
+[26May2025 00:45:34.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Hard]
+[26May2025 00:46:13.362] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2180ms or 43 ticks behind
+[26May2025 00:46:45.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianamdnt has made the advancement [Monster Hunter]

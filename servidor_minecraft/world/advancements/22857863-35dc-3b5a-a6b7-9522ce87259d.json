@@ -1,21 +1,21 @@
 {
+  "naturalist:recipes/food/cooked_egg": {
+    "criteria": {
+      "has_eggs": "2025-05-26 00:32:55 +0000"
+    },
+    "done": true
+  },
+  "nethers_exoticism:nethers_exoticism_adv": {
+    "criteria": {
+      "nethers_exoticism_adv": "2025-05-26 00:32:55 +0000"
+    },
+    "done": true
+  },
   "takesapillage:root": {
     "criteria": {
       "always": "2025-05-26 00:32:56 +0000"
     },
     "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-26 00:35:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-26 00:35:57 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
@@ -23,33 +23,9 @@
     },
     "done": true
   },
-  "naturalist:recipes/food/cooked_egg": {
-    "criteria": {
-      "has_eggs": "2025-05-26 00:32:55 +0000"
-    },
-    "done": true
-  },
-  "dungeons_enhanced:ambitious_explorer": {
-    "criteria": {
-      "entered_ruined_building": "2025-05-26 00:33:04 +0000"
-    },
-    "done": false
-  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-05-26 00:32:56 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-26 00:35:57 +0000"
-    },
-    "done": false
-  },
-  "aether:the_aether": {
-    "criteria": {
-      "the_aether": "2025-05-26 00:36:36 +0000"
     },
     "done": true
   },
@@ -65,12 +41,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-26 00:35:57 +0000"
-    },
-    "done": false
-  },
   "call_of_drowner:cod": {
     "criteria": {
       "cod_0": "2025-05-26 00:32:56 +0000"
@@ -83,35 +53,29 @@
     },
     "done": true
   },
-  "nethers_exoticism:nethers_exoticism_adv": {
+  "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
-      "nethers_exoticism_adv": "2025-05-26 00:32:55 +0000"
+      "bornin_chaos_0": "2025-05-26 00:32:56 +0000"
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "faded_conquest_2:faded_2": {
     "criteria": {
-      "log_spam_fixer": "2025-05-26 00:35:57 +0000"
+      "faded_2_0": "2025-05-26 00:32:56 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "the_bumblezone:wiki": {
     "criteria": {
-      "log_spam_fixer": "2025-05-26 00:35:57 +0000"
+      "instant_granted": "2025-05-26 00:32:56 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-05-26 00:32:57 +0000"
     },
     "done": false
-  },
-  "born_in_chaos_v1:bornin_chaos": {
-    "criteria": {
-      "bornin_chaos_0": "2025-05-26 00:32:56 +0000"
-    },
-    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -125,69 +89,9 @@
     },
     "done": false
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-26 00:35:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-26 00:35:57 +0000"
-    },
-    "done": false
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2025-05-26 00:35:18 +0000"
-    },
-    "done": true
-  },
-  "faded_conquest_2:faded_2": {
-    "criteria": {
-      "faded_2_0": "2025-05-26 00:32:56 +0000"
-    },
-    "done": true
-  },
-  "dungeons_enhanced:root": {
-    "criteria": {
-      "entered_ruined_building": "2025-05-26 00:33:04 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-26 00:35:57 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-05-26 00:35:18 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-26 00:35:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-26 00:35:57 +0000"
-    },
-    "done": false
-  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-05-26 00:32:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-26 00:35:57 +0000"
     },
     "done": false
   },
@@ -196,18 +100,6 @@
       "log_spam_fixer": "2025-05-26 00:32:57 +0000"
     },
     "done": false
-  },
-  "aether:enter_aether": {
-    "criteria": {
-      "enter_aether": "2025-05-26 00:36:36 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:wiki": {
-    "criteria": {
-      "instant_granted": "2025-05-26 00:32:56 +0000"
-    },
-    "done": true
   },
   "incendium:technical/using/trailblazer": {
     "criteria": {
@@ -222,6 +114,324 @@
       "minecraft:savanna": "2025-05-26 00:32:57 +0000"
     },
     "done": false
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_ruined_building": "2025-05-26 00:33:04 +0000"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_ruined_building": "2025-05-26 00:33:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-05-26 00:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-26 00:35:18 +0000"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-05-26 00:36:36 +0000"
+    },
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-05-26 00:36:36 +0000"
+    },
+    "done": true
+  },
+  "aether:read_lore": {
+    "criteria": {
+      "lore_book_entry": "2025-05-26 00:39:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_planks": "2025-05-26 00:40:23 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
+    "criteria": {
+      "has_item": "2025-05-26 00:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:40:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
+    "criteria": {
+      "has_item": "2025-05-26 00:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:40:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_door": {
+    "criteria": {
+      "has_item": "2025-05-26 00:40:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
+    "criteria": {
+      "has_item": "2025-05-26 00:40:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
+    "criteria": {
+      "has_item": "2025-05-26 00:40:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_button": {
+    "criteria": {
+      "has_item": "2025-05-26 00:40:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_trapdoor": {
+    "criteria": {
+      "has_item": "2025-05-26 00:40:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
+    "criteria": {
+      "has_item": "2025-05-26 00:40:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_sign": {
+    "criteria": {
+      "has_item": "2025-05-26 00:40:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_plate": {
+    "criteria": {
+      "has_item": "2025-05-26 00:40:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_pendant": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves": {
+    "criteria": {
+      "has_iron": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/skyroot_iron_vanilla_shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_ring": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-26 00:40:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2025-05-26 00:45:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2025-05-26 00:45:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2025-05-26 00:45:42 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
