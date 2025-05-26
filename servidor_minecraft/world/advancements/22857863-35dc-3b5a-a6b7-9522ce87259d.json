@@ -110,7 +110,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-26 00:33:04 +0000",
+      "minecraft:frozen_river": "2025-05-26 01:14:07 +0000",
       "minecraft:river": "2025-05-26 00:36:02 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-05-26 01:09:39 +0000",
       "minecraft:savanna": "2025-05-26 00:32:57 +0000"
     },
     "done": false
@@ -842,15 +844,39 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-05-26 01:07:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-26 01:15:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-05-26 00:58:16 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-26 01:10:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_axe": "2025-05-26 01:01:17 +0000"
+    },
+    "done": true
+  },
+  "spawn:recipes/snail/potted_sweet_berries_from_sweet_berries": {
+    "criteria": {
+      "has_item": "2025-05-26 01:12:43 +0000"
     },
     "done": true
   },
@@ -866,9 +892,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-26 01:07:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-26 01:07:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-05-26 00:58:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-05-26 01:15:58 +0000"
     },
     "done": true
   },
@@ -884,6 +928,36 @@
     },
     "done": true
   },
+  "duckling:pet_duck": {
+    "criteria": {
+      "pet_duck": "2025-05-26 01:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-26 01:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-26 01:07:13 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-05-26 01:13:17 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_rod": {
+    "criteria": {
+      "has_item": "2025-05-26 01:10:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-26 00:58:16 +0000"
@@ -893,6 +967,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_axe": "2025-05-26 01:01:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-26 01:15:58 +0000"
     },
     "done": true
   },
@@ -908,9 +988,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-05-26 01:15:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-05-26 01:15:58 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/golden_axe_repairing": {
     "criteria": {
       "has_golden_axe": "2025-05-26 01:01:17 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2025-05-26 01:12:05 +0000",
+      "trickor_treat_2": "2025-05-26 01:12:00 +0000",
+      "trickor_treat_3": "2025-05-26 01:12:45 +0000",
+      "trickor_treat_6": "2025-05-26 01:12:38 +0000"
+    },
+    "done": false
+  },
+  "netherexp:recipes/bone_blocks/bone_fence": {
+    "criteria": {
+      "has_item": "2025-05-26 01:10:51 +0000"
     },
     "done": true
   },
@@ -923,6 +1030,18 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-05-26 00:58:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-26 01:10:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-05-26 01:15:22 +0000"
     },
     "done": true
   },
