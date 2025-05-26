@@ -1438,3 +1438,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [26May2025 02:42:37.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [26May2025 02:42:37.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: stay hola<--[HERE]
 [26May2025 02:42:43.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
+[26May2025 02:53:36.249] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dianamdnt[/127.99.41.77:54587] logged in with entity id 27771 at (1205.451626194595, 68.5625, -519.8698431594455)
+[26May2025 02:53:36.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianamdnt joined the game
+[26May2025 02:53:36.284] [Server thread/INFO] [Jade/]: Syncing config to dianamdnt (22857863-35dc-3b5a-a6b7-9522ce87259d)
+[26May2025 02:53:37.329] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of dianamdnt (18)
+[26May2025 02:53:37.330] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to dianamdnt
+[26May2025 02:53:40.658] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 22857863-35dc-3b5a-a6b7-9522ce87259d
+[26May2025 02:53:41.658] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 22857863-35dc-3b5a-a6b7-9522ce87259d
+[26May2025 02:53:41.658] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player dianamdnt (22857863-35dc-3b5a-a6b7-9522ce87259d) successfully connected to voice chat
+[26May2025 02:54:45.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianamdnt has made the advancement [Ambush]
