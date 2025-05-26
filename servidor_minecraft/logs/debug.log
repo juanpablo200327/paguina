@@ -10448,3 +10448,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [26May2025 02:22:06.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26May2025 02:27:06.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26May2025 02:27:06.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 02:32:06.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 02:32:06.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 02:37:06.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 02:37:06.276] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 02:40:04.999] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dianamdnt lost connection: Disconnected
+[26May2025 02:40:04.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianamdnt left the game
+[26May2025 02:40:04.999] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of dianamdnt
+[26May2025 02:40:04.999] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client dianamdnt
