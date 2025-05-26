@@ -10720,3 +10720,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [26May2025 02:54:45.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianamdnt has made the advancement [Ambush]
 [26May2025 02:57:06.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26May2025 02:57:06.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 03:02:06.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 03:02:06.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 03:07:06.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 03:07:06.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
