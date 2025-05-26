@@ -1432,3 +1432,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [26May2025 02:40:04.999] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dianamdnt lost connection: Disconnected
 [26May2025 02:40:04.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianamdnt left the game
 [26May2025 02:40:04.999] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client dianamdnt
+[26May2025 02:40:31.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected whitespace to end one argument, but found trailing data
+[26May2025 02:40:31.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...:"green"}
+/tellraw @a {"text":"como vas","color":"green"}<--[HERE]
+[26May2025 02:42:37.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[26May2025 02:42:37.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: stay hola<--[HERE]
+[26May2025 02:42:43.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola

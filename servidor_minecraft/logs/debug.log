@@ -10456,3 +10456,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [26May2025 02:40:04.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianamdnt left the game
 [26May2025 02:40:04.999] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of dianamdnt
 [26May2025 02:40:04.999] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client dianamdnt
+[26May2025 02:40:31.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected whitespace to end one argument, but found trailing data
+[26May2025 02:40:31.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...:"green"}
+/tellraw @a {"text":"como vas","color":"green"}<--[HERE]
+[26May2025 02:42:06.223] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 02:42:06.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 02:42:37.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[26May2025 02:42:37.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: stay hola<--[HERE]
+[26May2025 02:42:43.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
+[26May2025 02:47:06.212] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 02:47:06.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
