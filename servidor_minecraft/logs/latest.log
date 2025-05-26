@@ -1425,3 +1425,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [26May2025 01:36:09.003] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
 [26May2025 01:36:09.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
 [26May2025 01:36:09.004] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[26May2025 01:42:47.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianamdnt has made the advancement [Best Friends Forever]
+[26May2025 01:43:26.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianamdnt has made the advancement [Safe Haven]
