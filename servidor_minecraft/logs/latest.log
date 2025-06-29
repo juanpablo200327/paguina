@@ -1299,3 +1299,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [29Jun2025 02:41:21.063] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
 [29Jun2025 02:41:22.053] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
 [29Jun2025 02:41:22.053] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[29Jun2025 03:04:27.314] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[29Jun2025 03:04:27.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[29Jun2025 03:04:27.316] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[29Jun2025 03:04:35.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Jun2025 03:04:35.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Jun2025 03:04:35.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Jun2025 03:04:35.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Jun2025 03:04:36.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Jun2025 03:04:37.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Jun2025 03:04:37.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[29Jun2025 03:04:37.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mofus_better_end_:broken_constellation
+[29Jun2025 03:04:37.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_abyss
+[29Jun2025 03:04:37.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[29Jun2025 03:04:37.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Jun2025 03:04:37.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_mirror_realm
+[29Jun2025 03:04:37.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[29Jun2025 03:04:38.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Jun2025 03:04:38.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Jun2025 03:04:38.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[29Jun2025 03:04:38.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
+[29Jun2025 03:04:38.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[29Jun2025 03:04:38.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[29Jun2025 03:04:38.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Jun2025 03:04:38.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_mirror_realm): All chunks are saved
+[29Jun2025 03:04:38.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[29Jun2025 03:04:38.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Jun2025 03:04:38.098] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
