@@ -7047,3 +7047,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [30Jun2025 19:04:58.670] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of funado69: {disabled=false, disconnected=false, uuid=b77ce13a-173f-3536-8169-0fe2ff9276ec, name=funado69, group=null}
 [30Jun2025 19:05:06.894] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of funado69: {disabled=true, disconnected=false, uuid=b77ce13a-173f-3536-8169-0fe2ff9276ec, name=funado69, group=null}
 [30Jun2025 19:05:08.022] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of funado69: {disabled=false, disconnected=false, uuid=b77ce13a-173f-3536-8169-0fe2ff9276ec, name=funado69, group=null}
+[30Jun2025 19:06:35.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was killed by magic whilst trying to escape Drowner
+[30Jun2025 19:06:35.716] [Server thread/DEBUG] [tombstone/]: A new grave of the player pablito was created at position [x:1201, y:64, z:-520, dim:minecraft:overworld]
+[30Jun2025 19:06:35.724] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[30Jun2025 19:06:36.583] [Server thread/DEBUG] [twilightforest/]: Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) respawned and received items held in storage
+[30Jun2025 19:06:45.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Peaceful]
+[30Jun2025 19:07:03.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [Grave Ravager]
+[30Jun2025 19:07:50.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [Don't Count Your Moas...]
+[30Jun2025 19:08:39.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 19:08:39.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 19:10:43.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[30Jun2025 19:11:16.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[30Jun2025 19:13:39.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 19:13:39.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 19:14:52.168] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HedgehogEntity['sonic'/1242, l='ServerLevel[world]', x=327.28, y=69.00, z=-106.71] died: sonic was killed
+[30Jun2025 19:14:52.173] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Hamster['sonic'/1252, l='ServerLevel[world]', x=344.36, y=71.00, z=-196.62] died: sonic was killed
+[30Jun2025 19:14:52.251] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Hamster['sonic'/1278, l='ServerLevel[world]', x=365.81, y=66.00, z=-240.50] died: sonic was killed
+[30Jun2025 19:14:52.264] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Hamster['sonic'/1282, l='ServerLevel[world]', x=344.86, y=63.00, z=-282.79] died: sonic was killed
+[30Jun2025 19:14:52.342] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1336, l='ServerLevel[world]', x=1158.94, y=9.00, z=-504.18] died, message: 'Unemployed was killed'
+[30Jun2025 19:14:52.345] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1337, l='ServerLevel[world]', x=1158.81, y=18.00, z=-500.89] died, message: 'Unemployed was killed'
+[30Jun2025 19:14:52.376] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1516, l='ServerLevel[world]', x=1032.70, y=20.06, z=-592.50] died, message: 'Unemployed was killed'
+[30Jun2025 19:14:52.377] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/1517, l='ServerLevel[world]', x=1032.65, y=20.06, z=-591.89] died, message: 'Leatherworker was killed'
+[30Jun2025 19:14:52.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was killed
+[30Jun2025 19:14:52.399] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:1231, y:72, z:-493, dim:minecraft:overworld]
+[30Jun2025 19:14:52.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was killed
+[30Jun2025 19:14:52.964] [Server thread/DEBUG] [tombstone/]: A new grave of the player pablito was created at position [x:1228, y:64, z:-482, dim:minecraft:overworld]
+[30Jun2025 19:14:52.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Killed 327 entities]
+[30Jun2025 19:14:53.540] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[30Jun2025 19:14:53.543] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[30Jun2025 19:14:53.882] [Server thread/DEBUG] [twilightforest/]: Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) respawned and received items held in storage
+[30Jun2025 19:14:54.150] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[30Jun2025 19:14:54.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[30Jun2025 19:15:06.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported funado69 to pablito]
+[30Jun2025 19:15:10.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has reached the goal [Here They Come]
+[30Jun2025 19:15:38.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the weather to clear]
