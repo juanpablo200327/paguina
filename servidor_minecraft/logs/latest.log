@@ -1396,3 +1396,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [30Jun2025 22:15:09.165] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HedgehogEntity['Zonic'/9228, l='ServerLevel[world]', x=186.06, y=67.00, z=-109.00] died: Zonic was slain by pablito
 [30Jun2025 22:15:32.819] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SonicEntity['Sonic'/9364, l='ServerLevel[world]', x=182.55, y=67.00, z=-103.55] died: Sonic was slain by pablito
 [30Jun2025 22:17:02.511] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@79ab209d[id=<null>,name=Chantikook,properties={},legacy=false] (/127.55.45.202:44529) lost connection: Disconnected
+[30Jun2025 22:20:57.809] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 lost connection: Disconnected
+[30Jun2025 22:20:57.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 left the game
+[30Jun2025 22:20:57.810] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client funado69
+[30Jun2025 22:21:13.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[30Jun2025 22:25:09.617] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: funado69[/127.84.193.18:40865] logged in with entity id 11234 at (117.69687595160173, 69.92338618003573, -86.37475211078034)
+[30Jun2025 22:25:09.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 joined the game
+[30Jun2025 22:25:09.760] [Server thread/INFO] [Jade/]: Syncing config to funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec)
+[30Jun2025 22:25:09.931] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of funado69 (18)
+[30Jun2025 22:25:09.933] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[30Jun2025 22:25:15.205] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[30Jun2025 22:25:16.205] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[30Jun2025 22:25:16.206] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) successfully connected to voice chat
+[30Jun2025 22:27:54.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 lost connection: Disconnected
+[30Jun2025 22:27:54.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 left the game
+[30Jun2025 22:27:54.608] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client funado69
