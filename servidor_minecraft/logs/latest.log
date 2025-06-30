@@ -1411,3 +1411,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [30Jun2025 22:27:54.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 lost connection: Disconnected
 [30Jun2025 22:27:54.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 left the game
 [30Jun2025 22:27:54.608] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client funado69
+[30Jun2025 22:32:02.969] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: funado69[/127.84.193.18:39083] logged in with entity id 12557 at (179.78572958212922, 70.48907000723878, -109.50999110275731)
+[30Jun2025 22:32:02.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 joined the game
+[30Jun2025 22:32:03.095] [Server thread/INFO] [Jade/]: Syncing config to funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec)
+[30Jun2025 22:32:03.274] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of funado69 (18)
+[30Jun2025 22:32:03.275] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[30Jun2025 22:32:08.665] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[30Jun2025 22:32:09.666] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[30Jun2025 22:32:09.667] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) successfully connected to voice chat
+[30Jun2025 22:32:15.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[30Jun2025 22:32:40.929] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7cad6d23-b90d-32e7-a33e-08234c01e126 timed out
+[30Jun2025 22:32:40.929] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player pablito
+[30Jun2025 22:32:40.930] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[30Jun2025 22:32:41.342] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[30Jun2025 22:32:42.348] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[30Jun2025 22:32:42.348] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[30Jun2025 22:33:22.518] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucyyxd[/127.191.244.134:38279] logged in with entity id 12853 at (182.5, 67.0, -102.5)
+[30Jun2025 22:33:22.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd joined the game
+[30Jun2025 22:33:22.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Nether's Exoticism]
+[30Jun2025 22:33:22.590] [Server thread/INFO] [Jade/]: Syncing config to lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce)
+[30Jun2025 22:33:26.830] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lucyyxd (18)
+[30Jun2025 22:33:26.831] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[30Jun2025 22:33:35.850] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[30Jun2025 22:33:36.848] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[30Jun2025 22:33:36.848] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) successfully connected to voice chat
+[30Jun2025 22:34:08.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> hola :p
