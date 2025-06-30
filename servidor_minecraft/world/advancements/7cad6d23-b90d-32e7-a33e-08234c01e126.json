@@ -113,6 +113,7 @@
       "minecraft:frozen_river": "2025-05-26 01:14:03 +0000",
       "minecraft:beach": "2025-05-16 01:23:51 +0000",
       "minecraft:river": "2025-05-16 01:23:53 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-30 22:06:39 +0000",
       "minecraft:cold_ocean": "2025-05-18 23:24:05 +0000",
       "minecraft:forest": "2025-05-16 01:24:37 +0000",
       "minecraft:lush_caves": "2025-05-26 01:19:01 +0000",
@@ -3067,6 +3068,96 @@
   "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-05-26 01:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-06-30 21:58:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/gravitite_chestplate": {
+    "criteria": {
+      "has_gravitite": "2025-06-30 22:03:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/gravitite_boots": {
+    "criteria": {
+      "has_gravitite": "2025-06-30 22:03:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/gravitite_shovel": {
+    "criteria": {
+      "has_gravitite": "2025-06-30 22:03:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/gravitite_leggings": {
+    "criteria": {
+      "has_gravitite": "2025-06-30 22:03:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/gravitite_gloves": {
+    "criteria": {
+      "has_gravitite": "2025-06-30 22:03:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/gravitite_jukebox": {
+    "criteria": {
+      "has_gravitite": "2025-06-30 22:03:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_gravitite_jukebox": {
+    "criteria": {
+      "has_gravitite": "2025-06-30 22:03:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/gravitite_sword": {
+    "criteria": {
+      "has_gravitite": "2025-06-30 22:03:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/gravitite_axe": {
+    "criteria": {
+      "has_gravitite": "2025-06-30 22:03:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/gravitite_helmet": {
+    "criteria": {
+      "has_gravitite": "2025-06-30 22:03:52 +0000"
+    },
+    "done": true
+  },
+  "aether:enchanted_gravitite": {
+    "criteria": {
+      "enchanted_gravitite": "2025-06-30 22:03:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/gravitite_hoe": {
+    "criteria": {
+      "has_gravitite": "2025-06-30 22:03:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/gravitite_pickaxe": {
+    "criteria": {
+      "has_gravitite": "2025-06-30 22:03:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/zanite_gemstone_from_zanite_block": {
+    "criteria": {
+      "has_zanite_block": "2025-06-30 22:03:54 +0000"
     },
     "done": true
   },
