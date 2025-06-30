@@ -1436,3 +1436,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [30Jun2025 22:33:36.848] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
 [30Jun2025 22:33:36.848] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) successfully connected to voice chat
 [30Jun2025 22:34:08.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> hola :p
+[30Jun2025 22:44:09.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the weather to clear]
+[30Jun2025 22:46:06.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Peaceful]
+[30Jun2025 22:46:15.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Cold as Ice]
+[30Jun2025 22:47:52.761] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chantikook[/127.55.45.202:41509] logged in with entity id 14856 at (187.5, 66.0, -99.5)
+[30Jun2025 22:47:52.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook joined the game
+[30Jun2025 22:47:52.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Nether's Exoticism]
+[30Jun2025 22:47:52.876] [Server thread/INFO] [Jade/]: Syncing config to Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede)
+[30Jun2025 22:48:06.429] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Chantikook (18)
+[30Jun2025 22:48:06.430] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Chantikook
+[30Jun2025 22:48:24.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to pablito]
+[30Jun2025 22:48:36.881] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[30Jun2025 22:48:37.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[30Jun2025 22:48:37.903] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) successfully connected to voice chat
