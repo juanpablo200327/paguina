@@ -1306,3 +1306,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [30Jun2025 21:26:48.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> ya
 [30Jun2025 21:29:29.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> ya
 [30Jun2025 21:29:33.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to funado69]
+[30Jun2025 21:31:24.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to funado69]
+[30Jun2025 21:33:44.460] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b77ce13a-173f-3536-8169-0fe2ff9276ec timed out
+[30Jun2025 21:33:44.460] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player funado69
+[30Jun2025 21:33:44.461] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[30Jun2025 21:33:53.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to funado69]
+[30Jun2025 21:33:55.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 lost connection: Disconnected
+[30Jun2025 21:33:55.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 left the game
+[30Jun2025 21:33:55.361] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client funado69
+[30Jun2025 21:33:55.408] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Jun2025 21:39:15.899] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: funado69[/127.84.193.18:45933] logged in with entity id 4920 at (1194.4029732111635, 68.0, -519.1610818775703)
+[30Jun2025 21:39:15.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 joined the game
+[30Jun2025 21:39:16.158] [Server thread/INFO] [Jade/]: Syncing config to funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec)
+[30Jun2025 21:39:16.439] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of funado69 (18)
+[30Jun2025 21:39:16.440] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[30Jun2025 21:39:25.287] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[30Jun2025 21:39:26.287] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[30Jun2025 21:39:26.288] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) successfully connected to voice chat
+[30Jun2025 21:39:45.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to funado69]
