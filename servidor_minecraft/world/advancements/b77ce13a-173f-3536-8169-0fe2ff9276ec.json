@@ -1,79 +1,13 @@
 {
-  "minecraft:recipes/building_blocks/stone_bricks": {
-    "criteria": {
-      "has_stone": "2025-06-30 19:06:35 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/food/cake": {
-    "criteria": {
-      "has_the_recipe": "2025-06-30 19:07:50 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/food/skyroot_milk_bucket_moa_egg_cake": {
-    "criteria": {
-      "has_moa_egg": "2025-06-30 19:07:50 +0000"
-    },
-    "done": true
-  },
   "takesapillage:root": {
     "criteria": {
       "always": "2025-06-30 18:59:09 +0000"
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 19:15:41 +0000"
-    },
-    "done": false
-  },
-  "aether:recipes/transportation/skyroot_boat": {
-    "criteria": {
-      "in_water": "2025-06-30 19:09:19 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_grave_key": {
-    "criteria": {
-      "has_ingredient": "2025-06-30 19:01:34 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/incubation/black_moa_incubation": {
-    "criteria": {
-      "has_black_moa_egg": "2025-06-30 19:07:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-30 19:06:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2025-06-30 19:06:35 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 19:15:41 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-06-30 18:59:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-06-30 19:12:46 +0000"
     },
     "done": true
   },
@@ -83,63 +17,9 @@
     },
     "done": true
   },
-  "dungeons_enhanced:ambitious_explorer": {
-    "criteria": {
-      "entered_ruined_building": "2025-06-30 18:59:22 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-30 19:06:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2025-06-30 19:09:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2025-06-30 19:06:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_raft": {
-    "criteria": {
-      "in_water": "2025-06-30 19:09:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2025-06-30 19:06:35 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2025-06-30 19:15:10 +0000"
-    },
-    "done": true
-  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-06-30 18:59:09 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 19:15:41 +0000"
-    },
-    "done": false
-  },
-  "aether:the_aether": {
-    "criteria": {
-      "the_aether": "2025-06-30 19:00:19 +0000"
     },
     "done": true
   },
@@ -149,33 +29,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/first_grave": {
-    "criteria": {
-      "coded_trigger": "2025-06-30 19:01:31 +0000"
-    },
-    "done": true
-  },
   "the_bumblezone:root": {
     "criteria": {
       "instant_granted": "2025-06-30 18:59:09 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 19:15:41 +0000"
-    },
-    "done": false
-  },
   "call_of_drowner:cod": {
     "criteria": {
       "cod_0": "2025-06-30 18:59:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2025-06-30 19:09:19 +0000"
     },
     "done": true
   },
@@ -191,41 +53,29 @@
     },
     "done": true
   },
-  "tombstone:recipes/from_grave_dust": {
+  "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
-      "has_ingredient": "2025-06-30 19:15:13 +0000"
+      "bornin_chaos_0": "2025-06-30 18:59:09 +0000"
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "faded_conquest_2:faded_2": {
     "criteria": {
-      "log_spam_fixer": "2025-06-30 19:15:41 +0000"
-    },
-    "done": false
-  },
-  "born_in_chaos_v1:grave_ravager": {
-    "criteria": {
-      "grave_ravager_0": "2025-06-30 19:07:03 +0000"
+      "faded_2_0": "2025-06-30 18:59:09 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_block": {
+  "the_bumblezone:wiki": {
     "criteria": {
-      "log_spam_fixer": "2025-06-30 19:15:41 +0000"
+      "instant_granted": "2025-06-30 18:59:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-06-30 18:59:12 +0000"
     },
     "done": false
-  },
-  "born_in_chaos_v1:bornin_chaos": {
-    "criteria": {
-      "bornin_chaos_0": "2025-06-30 18:59:09 +0000"
-    },
-    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -239,183 +89,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2025-06-30 19:09:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2025-06-30 19:06:35 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/twilight_oak_boat": {
-    "criteria": {
-      "in_water": "2025-06-30 19:09:19 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/time_boat": {
-    "criteria": {
-      "in_water": "2025-06-30 19:09:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-06-30 19:07:50 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/mining_boat": {
-    "criteria": {
-      "in_water": "2025-06-30 19:09:19 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 19:15:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 19:15:41 +0000"
-    },
-    "done": false
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2025-06-30 19:00:37 +0000"
-    },
-    "done": true
-  },
-  "faded_conquest_2:faded_2": {
-    "criteria": {
-      "faded_2_0": "2025-06-30 18:59:09 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:bury_them_all": {
-    "criteria": {
-      "bury_them_all_4": "2025-06-30 19:06:15 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2025-06-30 19:09:19 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/transformation_boat": {
-    "criteria": {
-      "in_water": "2025-06-30 19:09:19 +0000"
-    },
-    "done": true
-  },
-  "dungeons_enhanced:root": {
-    "criteria": {
-      "entered_ruined_building": "2025-06-30 18:59:22 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 19:15:41 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/stonecutter": {
-    "criteria": {
-      "has_stone": "2025-06-30 19:06:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_stone": "2025-06-30 19:06:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2025-06-30 19:09:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-06-30 19:00:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2025-06-30 19:09:19 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 19:15:41 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2025-06-30 19:09:19 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 19:15:41 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-30 19:06:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2025-06-30 19:09:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-30 19:06:35 +0000"
-    },
-    "done": true
-  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-06-30 18:59:12 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-30 19:06:35 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/food/moa_egg_cake": {
-    "criteria": {
-      "has_moa_egg": "2025-06-30 19:07:50 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 19:15:41 +0000"
     },
     "done": false
   },
@@ -424,54 +100,6 @@
       "log_spam_fixer": "2025-06-30 18:59:12 +0000"
     },
     "done": false
-  },
-  "twilightforest:recipes/transportation/canopy_boat": {
-    "criteria": {
-      "in_water": "2025-06-30 19:09:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-30 19:06:35 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/dark_boat": {
-    "criteria": {
-      "in_water": "2025-06-30 19:09:19 +0000"
-    },
-    "done": true
-  },
-  "endergetic:recipes/transportation/poise_boat": {
-    "criteria": {
-      "in_water": "2025-06-30 19:09:19 +0000"
-    },
-    "done": true
-  },
-  "aether:enter_aether": {
-    "criteria": {
-      "enter_aether": "2025-06-30 19:00:19 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:wiki": {
-    "criteria": {
-      "instant_granted": "2025-06-30 18:59:09 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-06-30 19:12:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-30 19:06:35 +0000"
-    },
-    "done": true
   },
   "incendium:technical/using/trailblazer": {
     "criteria": {
@@ -489,9 +117,177 @@
     },
     "done": false
   },
-  "twilightforest:recipes/transportation/sorting_boat": {
+  "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
-      "in_water": "2025-06-30 19:09:19 +0000"
+      "entered_ruined_building": "2025-06-30 18:59:22 +0000"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_ruined_building": "2025-06-30 18:59:22 +0000"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-06-30 19:00:19 +0000"
+    },
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-06-30 19:00:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-06-30 19:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-30 19:00:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-06-30 19:01:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-06-30 19:01:34 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bury_them_all": {
+    "criteria": {
+      "bury_them_all_4": "2025-06-30 19:06:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-06-30 19:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-30 19:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-06-30 19:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-30 19:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-06-30 19:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-06-30 19:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-06-30 19:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-06-30 19:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-06-30 19:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-30 19:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-30 19:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-30 19:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-30 19:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-30 19:06:35 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:grave_ravager": {
+    "criteria": {
+      "grave_ravager_0": "2025-06-30 19:07:03 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-06-30 19:07:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_moa_egg_cake": {
+    "criteria": {
+      "has_moa_egg": "2025-06-30 19:07:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/incubation/black_moa_incubation": {
+    "criteria": {
+      "has_black_moa_egg": "2025-06-30 19:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-30 19:07:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/moa_egg_cake": {
+    "criteria": {
+      "has_moa_egg": "2025-06-30 19:07:50 +0000"
     },
     "done": true
   },
@@ -501,9 +297,141 @@
     },
     "done": true
   },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2025-06-30 19:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-06-30 19:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-06-30 19:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-06-30 19:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-06-30 19:09:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-30 19:09:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_boat": {
+    "criteria": {
+      "in_water": "2025-06-30 19:09:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_boat": {
+    "criteria": {
+      "in_water": "2025-06-30 19:09:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-06-30 19:09:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_boat": {
+    "criteria": {
+      "in_water": "2025-06-30 19:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-06-30 19:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-06-30 19:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-30 19:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-06-30 19:09:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_boat": {
+    "criteria": {
+      "in_water": "2025-06-30 19:09:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_boat": {
+    "criteria": {
+      "in_water": "2025-06-30 19:09:19 +0000"
+    },
+    "done": true
+  },
+  "endergetic:recipes/transportation/poise_boat": {
+    "criteria": {
+      "in_water": "2025-06-30 19:09:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_boat": {
+    "criteria": {
+      "in_water": "2025-06-30 19:09:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-06-30 19:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-30 19:12:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-30 19:12:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-06-30 19:15:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-06-30 19:15:13 +0000"
     },
     "done": true
   },
