@@ -569,12 +569,6 @@
     },
     "done": true
   },
-  "aether:icestone": {
-    "criteria": {
-      "icestone": "2025-06-30 21:45:53 +0000"
-    },
-    "done": true
-  },
   "twilightforest:arborist": {
     "criteria": {
       "time_leaves": "2025-06-30 21:45:24 +0000",
@@ -582,6 +576,12 @@
       "dark_leaves": "2025-06-30 21:45:23 +0000"
     },
     "done": false
+  },
+  "aether:icestone": {
+    "criteria": {
+      "icestone": "2025-06-30 21:45:53 +0000"
+    },
+    "done": true
   },
   "aether:recipes/decorations/icestone_wall_from_icestone_stonecutting": {
     "criteria": {
@@ -616,6 +616,18 @@
   "aether:recipes/building_blocks/icestone_stairs": {
     "criteria": {
       "has_icestone": "2025-06-30 21:45:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-06-30 21:50:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-06-30 21:50:54 +0000"
     },
     "done": true
   },

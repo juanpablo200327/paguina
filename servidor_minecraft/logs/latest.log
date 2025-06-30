@@ -1342,3 +1342,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [30Jun2025 21:50:26.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was killed
 [30Jun2025 21:50:27.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Killed funado69]
 [30Jun2025 21:50:27.071] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[30Jun2025 21:50:49.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the world spawn point to 180, 65, -105 [0.0]]
+[30Jun2025 21:50:54.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [Knowledge of Death]
+[30Jun2025 21:50:54.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has reached the goal [Chain Death]
+[30Jun2025 21:50:54.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was killed
+[30Jun2025 21:50:55.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Killed funado69]
+[30Jun2025 21:50:55.660] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[30Jun2025 21:51:07.473] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b77ce13a-173f-3536-8169-0fe2ff9276ec timed out
+[30Jun2025 21:51:07.473] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player funado69
+[30Jun2025 21:51:07.473] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[30Jun2025 21:51:16.658] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 lost connection: Timed out
+[30Jun2025 21:51:16.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 left the game
+[30Jun2025 21:51:16.659] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client funado69
+[30Jun2025 21:51:44.263] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: funado69[/127.84.193.18:45505] logged in with entity id 6025 at (183.5, 66.0, -105.5)
+[30Jun2025 21:51:44.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 joined the game
+[30Jun2025 21:51:44.411] [Server thread/INFO] [Jade/]: Syncing config to funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec)
+[30Jun2025 21:51:44.613] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of funado69 (18)
+[30Jun2025 21:51:44.614] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[30Jun2025 21:51:50.575] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[30Jun2025 21:51:51.588] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[30Jun2025 21:51:51.588] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) successfully connected to voice chat
+[30Jun2025 21:54:52.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[30Jun2025 21:57:56.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to funado69]
+[30Jun2025 21:58:44.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [Pink is the New Blue]
