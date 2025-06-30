@@ -1449,3 +1449,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [30Jun2025 22:48:36.881] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
 [30Jun2025 22:48:37.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
 [30Jun2025 22:48:37.903] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) successfully connected to voice chat
+[30Jun2025 22:52:23.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Alex's Mobs]
+[30Jun2025 22:52:53.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> apreten la v
+[30Jun2025 22:54:53.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[30Jun2025 22:56:11.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> ey ey tramposo
+[30Jun2025 22:56:19.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> te la robe de mochila
+[30Jun2025 22:56:28.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> A
+[30Jun2025 22:57:42.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to funado69]
+[30Jun2025 22:58:04.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[30Jun2025 23:02:21.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> a
+[30Jun2025 23:02:29.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[30Jun2025 23:02:55.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> modo normal
+[30Jun2025 23:03:03.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> mas adelante le damos dificil experto pa
+[30Jun2025 23:03:10.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> HAHHAHHAH
+[30Jun2025 23:03:30.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> holaaaa
+[30Jun2025 23:03:30.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucyyxd> holiii
+[30Jun2025 23:03:30.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4790ms or 95 ticks behind
+[30Jun2025 23:03:34.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> recien descubri para escribir
+[30Jun2025 23:03:39.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucyyxd> JAJAJAJA
+[30Jun2025 23:03:48.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> vayamos al bioma de cerezo jajaaj
+[30Jun2025 23:09:15.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Dungeon Now Loading]
+[30Jun2025 23:10:20.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [Dungeon Now Loading]
+[30Jun2025 23:10:37.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the weather to clear]
+[30Jun2025 23:10:47.311] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Disconnected
+[30Jun2025 23:10:47.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
+[30Jun2025 23:10:47.312] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd
+[30Jun2025 23:10:53.515] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook lost connection: Disconnected
+[30Jun2025 23:10:53.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook left the game
+[30Jun2025 23:10:53.516] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Chantikook
+[30Jun2025 23:11:04.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 lost connection: Disconnected
+[30Jun2025 23:11:04.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 left the game
+[30Jun2025 23:11:04.415] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client funado69
+[30Jun2025 23:11:11.025] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[30Jun2025 23:11:11.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[30Jun2025 23:11:11.026] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito

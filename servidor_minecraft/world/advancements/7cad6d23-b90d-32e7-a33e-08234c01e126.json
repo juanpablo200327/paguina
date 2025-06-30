@@ -111,6 +111,7 @@
     "criteria": {
       "minecraft:taiga": "2025-05-17 01:01:42 +0000",
       "minecraft:frozen_river": "2025-05-26 01:14:03 +0000",
+      "minecraft:birch_forest": "2025-06-30 22:57:18 +0000",
       "minecraft:beach": "2025-05-16 01:23:51 +0000",
       "minecraft:river": "2025-05-16 01:23:53 +0000",
       "minecraft:lukewarm_ocean": "2025-06-30 22:06:39 +0000",
@@ -3162,6 +3163,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-30 23:10:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-30 23:10:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-30 23:10:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-30 23:10:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-30 23:10:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-30 23:10:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-30 23:10:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-30 23:10:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-30 23:10:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-30 23:10:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-30 23:10:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-30 23:10:56 +0000"
+    },
+    "done": false
+  },
   "aether:icestone": {
     "criteria": {
       "icestone": "2025-06-30 22:46:15 +0000"
@@ -3173,6 +3246,12 @@
       "has_icestone": "2025-06-30 22:46:15 +0000"
     },
     "done": true
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "torchberries": "2025-06-30 23:01:24 +0000"
+    },
+    "done": false
   },
   "aether:recipes/building_blocks/icestone_slab": {
     "criteria": {
