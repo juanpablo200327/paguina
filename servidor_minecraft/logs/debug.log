@@ -7009,3 +7009,46 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [30Jun2025 21:06:49.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Jun2025 21:06:55.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> nop
 [30Jun2025 21:07:08.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> porque me saco grosero
+[30Jun2025 21:10:08.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> trabaja desgraciao
+[30Jun2025 21:10:16.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> pasa el correo y contra
+[30Jun2025 21:11:49.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 21:11:49.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 21:16:49.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 21:16:49.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 21:17:35.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 moved too quickly! -3.6119365579577334,0.0,-9.551361098048687
+[30Jun2025 21:17:49.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 moved too quickly! 7.539414713227188,0.0,7.293313451928384
+[30Jun2025 21:18:26.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> me matas babbsoo
+[30Jun2025 21:18:31.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> pa irme pal lobbt
+[30Jun2025 21:20:05.144] [Worker-Main-37/DEBUG] [mixin/]: Mixing world.NoiseChunkAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[30Jun2025 21:20:05.149] [Worker-Main-37/DEBUG] [mixin/]: Mixing world.NoiseChunkMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[30Jun2025 21:20:05.151] [Worker-Main-37/DEBUG] [mixin/]: Renaming synthetic method lambda$injectWrapNew$1()Lnet/minecraft/world/level/biome/Climate$Sampler; to mdaafbf3$lambda$injectWrapNew$1$0 in the_bumblezone-common.mixins.json:world.NoiseChunkMixin
+[30Jun2025 21:20:05.151] [Worker-Main-37/DEBUG] [mixin/]: Renaming synthetic method lambda$injectWrapNew$0()Lnet/minecraft/world/level/biome/BiomeSource; to mdaafbf3$lambda$injectWrapNew$0$1 in the_bumblezone-common.mixins.json:world.NoiseChunkMixin
+[30Jun2025 21:20:05.152] [Worker-Main-37/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from mixins.mofus_better_end_.json into net.minecraft.world.level.levelgen.NoiseChunk
+[30Jun2025 21:20:05.255] [Worker-Main-37/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[30Jun2025 21:20:05.255] [Worker-Main-37/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[30Jun2025 21:20:05.255] [Worker-Main-37/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[30Jun2025 21:20:05.256] [Worker-Main-37/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from the_bumblezone-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[30Jun2025 21:20:05.256] [Worker-Main-37/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mes-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[30Jun2025 21:20:05.256] [Worker-Main-37/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mns-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[30Jun2025 21:20:05.256] [Worker-Main-37/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[30Jun2025 21:20:05.256] [Worker-Main-37/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[30Jun2025 21:20:05.256] [Worker-Main-37/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[30Jun2025 21:20:05.595] [Worker-Main-37/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[30Jun2025 21:20:05.598] [Worker-Main-37/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[30Jun2025 21:20:24.403] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[30Jun2025 21:20:48.112] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=9548, y=4, z=-3753}
+[30Jun2025 21:20:53.213] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=1206, y=63, z=-516}
+[30Jun2025 21:21:17.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> ok
+[30Jun2025 21:21:22.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was killed
+[30Jun2025 21:21:22.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Killed funado69]
+[30Jun2025 21:21:22.232] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[30Jun2025 21:21:51.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 21:21:51.814] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 21:22:09.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to funado69]
+[30Jun2025 21:24:03.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to funado69]
+[30Jun2025 21:25:11.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to funado69]
+[30Jun2025 21:26:48.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> ya
+[30Jun2025 21:26:51.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 21:26:51.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 21:29:29.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> ya
+[30Jun2025 21:29:33.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to funado69]
