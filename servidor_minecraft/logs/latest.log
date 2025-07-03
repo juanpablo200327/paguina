@@ -1614,3 +1614,76 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [03Jul2025 03:55:56.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
 [03Jul2025 03:56:12.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [Acquire Hardware]
 [03Jul2025 03:56:20.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[03Jul2025 03:57:33.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
+[03Jul2025 03:57:33.685] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[03Jul2025 03:57:56.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to lucyyxd]
+[03Jul2025 03:58:53.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [Suit Up]
+[03Jul2025 03:58:55.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was slain by Zombie
+[03Jul2025 03:58:55.735] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[03Jul2025 03:59:23.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to Chantikook]
+[03Jul2025 03:59:48.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was slain by Zombie
+[03Jul2025 03:59:48.792] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[03Jul2025 03:59:51.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Suit Up]
+[03Jul2025 04:00:16.490] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=189, y=65, z=-99}
+[03Jul2025 04:00:16.684] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=189, y=66, z=-99}
+[03Jul2025 04:00:17.942] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=190, y=65, z=-99}
+[03Jul2025 04:00:18.205] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=190, y=66, z=-99}
+[03Jul2025 04:00:22.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Kira_R
+[03Jul2025 04:00:23.016] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[03Jul2025 04:00:48.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to Chantikook]
+[03Jul2025 04:01:38.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was slain by Zombie
+[03Jul2025 04:01:38.482] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[03Jul2025 04:01:40.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Chantikook]
+[03Jul2025 04:01:55.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[03Jul2025 04:02:00.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Isn't It Iron Pick]
+[03Jul2025 04:02:11.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to funado69]
+[03Jul2025 04:02:16.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Isn't It Iron Pick]
+[03Jul2025 04:02:45.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Knowledge of Death]
+[03Jul2025 04:02:45.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [A Strange Grave Dust]
+[03Jul2025 04:02:48.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was slain by Zombie
+[03Jul2025 04:02:48.984] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[03Jul2025 04:02:57.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Chantikook]
+[03Jul2025 04:02:59.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [A Strange Grave Dust]
+[03Jul2025 04:03:15.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
+[03Jul2025 04:03:15.038] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[03Jul2025 04:03:17.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [Ashes 'n Bones]
+[03Jul2025 04:03:18.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Zombie
+[03Jul2025 04:03:18.682] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[03Jul2025 04:03:50.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Ashes 'n Bones]
+[03Jul2025 04:03:50.785] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=190, y=65, z=-122} BlockPos{x=190, y=64, z=-111}
+[03Jul2025 04:03:52.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Chantikook]
+[03Jul2025 04:04:03.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to lucyyxd]
+[03Jul2025 04:04:23.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to Kira_R]
+[03Jul2025 04:04:29.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to Kira_R]
+[03Jul2025 04:04:34.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by Zombie
+[03Jul2025 04:04:34.680] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[03Jul2025 04:04:36.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[03Jul2025 04:04:40.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
+[03Jul2025 04:04:40.537] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[03Jul2025 04:04:41.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Zombie
+[03Jul2025 04:04:41.808] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[03Jul2025 04:05:02.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Zombie
+[03Jul2025 04:05:03.221] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[03Jul2025 04:05:06.125] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b77ce13a-173f-3536-8169-0fe2ff9276ec timed out
+[03Jul2025 04:05:06.125] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player funado69
+[03Jul2025 04:05:06.125] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[03Jul2025 04:05:12.583] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 lost connection: Timed out
+[03Jul2025 04:05:12.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 left the game
+[03Jul2025 04:05:12.584] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client funado69
+[03Jul2025 04:06:02.393] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: funado69[/127.165.220.176:50511] logged in with entity id 35991 at (811.5058167545616, 30.0, -493.4918412038579)
+[03Jul2025 04:06:02.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 joined the game
+[03Jul2025 04:06:02.460] [Server thread/INFO] [Jade/]: Syncing config to funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec)
+[03Jul2025 04:06:02.742] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of funado69 (18)
+[03Jul2025 04:06:02.742] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[03Jul2025 04:06:09.211] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[03Jul2025 04:06:10.212] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[03Jul2025 04:06:10.213] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) successfully connected to voice chat
+[03Jul2025 04:06:43.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[03Jul2025 04:06:53.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Zombie
+[03Jul2025 04:06:53.495] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[03Jul2025 04:07:00.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Zombie
+[03Jul2025 04:07:00.496] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[03Jul2025 04:07:11.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
+[03Jul2025 04:07:12.014] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[03Jul2025 04:07:13.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Zombie
+[03Jul2025 04:07:13.087] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved

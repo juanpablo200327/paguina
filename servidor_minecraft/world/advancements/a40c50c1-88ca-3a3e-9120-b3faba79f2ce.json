@@ -589,6 +589,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-07-03 04:02:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-07-03 03:20:59 +0000"
@@ -628,6 +634,12 @@
   "netherexp:recipes/bone_blocks/bone_rod": {
     "criteria": {
       "has_item": "2025-07-03 02:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-03 04:02:16 +0000"
     },
     "done": true
   },
@@ -846,6 +858,7 @@
     "criteria": {
       "baked_potato": "2025-07-03 02:54:09 +0000",
       "apple": "2025-07-03 03:22:15 +0000",
+      "rotten_flesh": "2025-07-03 04:06:19 +0000",
       "carrot": "2025-07-03 03:26:12 +0000"
     },
     "done": false

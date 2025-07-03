@@ -113,6 +113,7 @@
       "minecraft:beach": "2025-07-03 03:52:39 +0000",
       "minecraft:river": "2025-06-30 22:57:11 +0000",
       "minecraft:forest": "2025-06-30 22:51:28 +0000",
+      "minecraft:savanna": "2025-07-03 03:57:39 +0000",
       "minecraft:plains": "2025-06-30 22:47:53 +0000"
     },
     "done": false
@@ -863,6 +864,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-07-03 04:04:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-03 03:44:05 +0000"
@@ -878,6 +885,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-07-03 03:44:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-07-03 04:02:00 +0000"
     },
     "done": true
   },
@@ -914,6 +927,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2025-07-03 03:44:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-03 04:02:00 +0000"
     },
     "done": true
   },
