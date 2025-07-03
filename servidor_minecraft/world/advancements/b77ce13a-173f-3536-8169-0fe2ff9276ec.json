@@ -717,93 +717,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
-      "log_spam_fixer": "2025-06-30 23:10:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 23:10:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 23:10:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 23:10:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 23:10:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 23:10:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 23:10:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 23:10:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 23:10:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 23:10:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 23:10:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 23:10:56 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/ladder": {
-    "criteria": {
-      "has_stick": "2025-06-30 23:02:38 +0000"
+      "has_ice": "2025-06-30 22:45:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_axe": {
+  "aether:recipes/tools/diamond_axe_repairing": {
     "criteria": {
-      "has_stick": "2025-06-30 23:02:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-06-30 23:10:19 +0000"
+      "has_diamond_axe": "2025-06-30 22:55:07 +0000"
     },
     "done": true
   },
@@ -819,9 +741,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
-      "has_logs": "2025-06-30 23:10:19 +0000"
+      "has_oxeye_daisy": "2025-06-30 22:55:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smelted_venison": {
+    "criteria": {
+      "has_food": "2025-06-30 23:00:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_venison": {
+    "criteria": {
+      "has_food": "2025-06-30 23:00:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_venison": {
+    "criteria": {
+      "has_food": "2025-06-30 23:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-06-30 23:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-06-30 23:02:38 +0000"
     },
     "done": true
   },
@@ -837,12 +789,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-06-30 23:10:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-06-30 23:02:38 +0000"
@@ -855,21 +801,27 @@
     },
     "done": true
   },
-  "twilightforest:recipes/food/food/smelted_venison": {
+  "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
-      "has_food": "2025-06-30 23:00:52 +0000"
+      "has_stick": "2025-06-30 23:02:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/packed_ice": {
+  "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
-      "has_ice": "2025-06-30 22:45:57 +0000"
+      "has_log": "2025-06-30 23:10:19 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/food/food/campfired_venison": {
+  "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
-      "has_food": "2025-06-30 23:00:52 +0000"
+      "has_logs": "2025-06-30 23:10:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-06-30 23:10:19 +0000"
     },
     "done": true
   },
@@ -879,33 +831,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2025-06-30 23:02:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-06-30 22:55:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-06-30 23:10:20 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/diamond_axe_repairing": {
-    "criteria": {
-      "has_diamond_axe": "2025-06-30 22:55:07 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/food/food/smoked_venison": {
-    "criteria": {
-      "has_food": "2025-06-30 23:00:52 +0000"
     },
     "done": true
   },
