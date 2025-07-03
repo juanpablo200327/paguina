@@ -1389,3 +1389,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [03Jul2025 02:55:33.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=184, y=66, z=-98}
 [03Jul2025 02:55:33.234] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=183, y=65, z=-99}
 [03Jul2025 02:55:51.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> OK
+[03Jul2025 02:56:10.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made funado69 a server operator
+[03Jul2025 02:58:46.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[03Jul2025 02:58:57.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to funado69]
+[03Jul2025 02:59:22.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> recuerdon no se muden tan lejos
+[03Jul2025 02:59:26.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> que se lagea el sv
+[03Jul2025 03:00:36.893] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chantikook[/127.84.71.34:49129] logged in with entity id 14291 at (523.1388268134004, 72.0, -148.7117344367206)
+[03Jul2025 03:00:36.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook joined the game
+[03Jul2025 03:00:36.911] [Server thread/INFO] [Jade/]: Syncing config to Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede)
+[03Jul2025 03:00:38.859] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Chantikook (18)
+[03Jul2025 03:00:38.859] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Chantikook
+[03Jul2025 03:00:48.465] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[03Jul2025 03:00:49.483] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[03Jul2025 03:00:49.483] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) successfully connected to voice chat
+[03Jul2025 03:01:35.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to funado69]
+[03Jul2025 03:01:41.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[03Jul2025 03:02:10.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> hoola
+[03Jul2025 03:02:19.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> hoka
+[03Jul2025 03:04:08.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[03Jul2025 03:04:46.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Cobweb Entanglement]

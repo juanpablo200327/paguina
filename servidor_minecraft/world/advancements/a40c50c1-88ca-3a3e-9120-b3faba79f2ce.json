@@ -109,8 +109,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-07-03 02:53:35 +0000",
       "minecraft:birch_forest": "2025-06-30 22:57:42 +0000",
+      "minecraft:beach": "2025-07-03 02:55:45 +0000",
       "minecraft:dark_forest": "2025-06-30 23:00:56 +0000",
+      "minecraft:river": "2025-07-03 02:53:24 +0000",
+      "minecraft:forest": "2025-07-03 02:51:55 +0000",
       "minecraft:plains": "2025-06-30 22:33:23 +0000"
     },
     "done": false
@@ -313,6 +317,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_ruined_building": "2025-07-03 02:53:35 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-07-03 02:50:58 +0000"
@@ -324,6 +334,48 @@
       "killed_by_something": "2025-07-03 02:50:58 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-07-03 03:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-03 03:00:54 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_rod": {
+    "criteria": {
+      "has_item": "2025-07-03 02:53:00 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_fence": {
+    "criteria": {
+      "has_item": "2025-07-03 02:53:00 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_ruined_building": "2025-07-03 02:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-03 02:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "baked_potato": "2025-07-03 02:54:09 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
