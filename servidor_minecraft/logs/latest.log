@@ -1343,3 +1343,49 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [03Jul2025 02:43:01.637] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
 [03Jul2025 02:43:41.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Kira_R to funado69]
 [03Jul2025 02:43:58.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Hard]
+[03Jul2025 02:46:22.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> no va a entrar la otra persona?
+[03Jul2025 02:47:14.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Dungeon Now Loading]
+[03Jul2025 02:48:38.211] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b77ce13a-173f-3536-8169-0fe2ff9276ec timed out
+[03Jul2025 02:48:38.211] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player funado69
+[03Jul2025 02:48:38.211] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[03Jul2025 02:48:42.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 lost connection: Timed out
+[03Jul2025 02:48:42.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 left the game
+[03Jul2025 02:48:42.932] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client funado69
+[03Jul2025 02:49:04.895] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: funado69[/127.165.220.176:33537] logged in with entity id 8412 at (785.8308286255519, 71.0, -470.84275253767413)
+[03Jul2025 02:49:04.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 joined the game
+[03Jul2025 02:49:04.958] [Server thread/INFO] [Jade/]: Syncing config to funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec)
+[03Jul2025 02:49:05.195] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of funado69 (18)
+[03Jul2025 02:49:05.196] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[03Jul2025 02:49:11.998] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[03Jul2025 02:49:12.998] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[03Jul2025 02:49:12.999] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) successfully connected to voice chat
+[03Jul2025 02:50:30.644] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucyyxd[/127.191.244.134:37875] logged in with entity id 8770 at (524.786434831433, 72.0, -147.5259142730901)
+[03Jul2025 02:50:30.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd joined the game
+[03Jul2025 02:50:30.660] [Server thread/INFO] [Jade/]: Syncing config to lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce)
+[03Jul2025 02:50:34.400] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lucyyxd (18)
+[03Jul2025 02:50:34.401] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[03Jul2025 02:50:41.718] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[03Jul2025 02:50:42.719] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[03Jul2025 02:50:42.720] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) successfully connected to voice chat
+[03Jul2025 02:50:58.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was doomed to fall by Zombie
+[03Jul2025 02:50:58.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Your First Grave]
+[03Jul2025 02:50:58.449] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[03Jul2025 02:51:50.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> necesitan ayuda?
+[03Jul2025 02:52:42.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> haces de dia uwu
+[03Jul2025 02:53:30.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> jajjaja
+[03Jul2025 02:53:35.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported lucyyxd to pablito]
+[03Jul2025 02:53:41.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[03Jul2025 02:54:05.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucyyxd> GRACIAAS :3
+[03Jul2025 02:54:54.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was shot by Skeleton
+[03Jul2025 02:54:54.439] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[03Jul2025 02:54:56.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported lucyyxd to funado69]
+[03Jul2025 02:55:05.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> pablito
+[03Jul2025 02:55:13.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was shot by Skeleton
+[03Jul2025 02:55:13.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Your First Grave]
+[03Jul2025 02:55:13.041] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[03Jul2025 02:55:14.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> me das admin un toque pa los tps pls
+[03Jul2025 02:55:31.629] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=184, y=66, z=-98}
+[03Jul2025 02:55:31.745] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=184, y=66, z=-98}
+[03Jul2025 02:55:33.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=184, y=66, z=-98}
+[03Jul2025 02:55:33.234] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=183, y=65, z=-99}
+[03Jul2025 02:55:51.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> OK
