@@ -1539,3 +1539,58 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [03Jul2025 23:33:52.468] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@23fdb748[id=<null>,name=Kira_R,properties={},legacy=false] (/127.241.34.139:59659): Took too long to log in
 [03Jul2025 23:33:52.469] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@23fdb748[id=<null>,name=Kira_R,properties={},legacy=false] (/127.241.34.139:59659) lost connection: Took too long to log in
 [03Jul2025 23:33:52.517] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jul2025 23:34:40.827] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chantikook[/127.8.127.102:54655] logged in with entity id 16724 at (780.9690371509798, 71.0, -449.69999998807907)
+[03Jul2025 23:34:40.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook joined the game
+[03Jul2025 23:34:40.899] [Server thread/INFO] [Jade/]: Syncing config to Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede)
+[03Jul2025 23:34:43.434] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Chantikook (18)
+[03Jul2025 23:34:43.434] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Chantikook
+[03Jul2025 23:34:54.959] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[03Jul2025 23:34:55.957] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[03Jul2025 23:34:55.957] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) successfully connected to voice chat
+[03Jul2025 23:35:58.134] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@52f2b075[id=<null>,name=Kira_R,properties={},legacy=false] (/127.241.34.139:35703): Took too long to log in
+[03Jul2025 23:35:58.134] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@52f2b075[id=<null>,name=Kira_R,properties={},legacy=false] (/127.241.34.139:35703) lost connection: Took too long to log in
+[03Jul2025 23:35:58.168] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jul2025 23:36:48.895] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[03Jul2025 23:38:01.131] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b77ce13a-173f-3536-8169-0fe2ff9276ec timed out
+[03Jul2025 23:38:01.132] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player funado69
+[03Jul2025 23:38:01.132] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[03Jul2025 23:38:07.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 lost connection: Timed out
+[03Jul2025 23:38:07.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 left the game
+[03Jul2025 23:38:07.819] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client funado69
+[03Jul2025 23:41:55.273] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@14fed15e[id=<null>,name=Kira_R,properties={},legacy=false] (/127.241.34.139:39913): Took too long to log in
+[03Jul2025 23:41:55.273] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14fed15e[id=<null>,name=Kira_R,properties={},legacy=false] (/127.241.34.139:39913) lost connection: Took too long to log in
+[03Jul2025 23:41:55.328] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jul2025 23:42:11.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 3 entities to pablito]
+[03Jul2025 23:42:41.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was slain by Kobold
+[03Jul2025 23:42:41.653] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[03Jul2025 23:42:49.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Hostile Paradise]
+[03Jul2025 23:42:56.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported lucyyxd to pablito]
+[03Jul2025 23:43:05.428] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6af24810[id=<null>,name=Kira_R,properties={},legacy=false] (/127.241.34.139:33781): Took too long to log in
+[03Jul2025 23:43:05.428] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6af24810[id=<null>,name=Kira_R,properties={},legacy=false] (/127.241.34.139:33781) lost connection: Took too long to log in
+[03Jul2025 23:43:05.481] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jul2025 23:43:17.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd moved too quickly! 8341.976437318186,-58.92159999847412,-3238.0019078407518
+[03Jul2025 23:43:35.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> donde estan??
+[03Jul2025 23:44:14.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd moved too quickly! 8342.382160548694,-58.95327914164065,-3238.905522223119
+[03Jul2025 23:44:23.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd moved too quickly! -8342.02279798471,59.07840000152588,3235.7721563814785
+[03Jul2025 23:44:57.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Hostile Paradise]
+[03Jul2025 23:45:19.919] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@649883ac[id=<null>,name=Kira_R,properties={},legacy=false] (/127.241.34.139:43801): Took too long to log in
+[03Jul2025 23:45:19.919] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@649883ac[id=<null>,name=Kira_R,properties={},legacy=false] (/127.241.34.139:43801) lost connection: Took too long to log in
+[03Jul2025 23:45:19.973] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jul2025 23:48:06.628] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: funado69[/127.165.220.176:43395] logged in with entity id 20961 at (783.3000000119209, 71.0625, -465.30000001192093)
+[03Jul2025 23:48:06.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 joined the game
+[03Jul2025 23:48:06.645] [Server thread/INFO] [Jade/]: Syncing config to funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec)
+[03Jul2025 23:48:07.122] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of funado69 (18)
+[03Jul2025 23:48:07.124] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[03Jul2025 23:48:12.498] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[03Jul2025 23:48:13.498] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[03Jul2025 23:48:13.499] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) successfully connected to voice chat
+[03Jul2025 23:51:39.179] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@42ca49a4[id=<null>,name=Kira_R,properties={},legacy=false] (/127.241.34.139:49283): Took too long to log in
+[03Jul2025 23:51:39.180] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@42ca49a4[id=<null>,name=Kira_R,properties={},legacy=false] (/127.241.34.139:49283) lost connection: Took too long to log in
+[03Jul2025 23:51:39.233] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jul2025 23:52:51.479] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6a95ca93[id=<null>,name=Kira_R,properties={},legacy=false] (/127.241.34.139:49231): Took too long to log in
+[03Jul2025 23:52:51.480] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a95ca93[id=<null>,name=Kira_R,properties={},legacy=false] (/127.241.34.139:49231) lost connection: Took too long to log in
+[03Jul2025 23:52:51.529] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jul2025 23:53:39.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 4 entities to funado69]
+[03Jul2025 23:54:19.220] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@50cdf75e[id=<null>,name=Kira_R,properties={},legacy=false] (/127.241.34.139:50667): Took too long to log in
+[03Jul2025 23:54:19.220] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@50cdf75e[id=<null>,name=Kira_R,properties={},legacy=false] (/127.241.34.139:50667) lost connection: Took too long to log in
+[03Jul2025 23:54:19.269] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

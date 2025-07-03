@@ -2445,77 +2445,77 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "aether:recipes/building_blocks/packed_ice_freezing": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 23:31:41 +0000"
+      "has_water_bucket": "2025-07-03 23:48:21 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_ruined_building": "2025-07-03 23:42:11 +0000"
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "aether:the_aether": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 23:31:41 +0000"
+      "the_aether": "2025-07-03 23:42:49 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 23:31:41 +0000"
+      "has_raw_copper": "2025-07-03 23:37:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 23:31:41 +0000"
+      "has_raw_copper": "2025-07-03 23:37:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 23:31:41 +0000"
+      "has_water_bucket": "2025-07-03 23:48:21 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "aether:recipes/building_blocks/blue_ice_freezing": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 23:31:41 +0000"
+      "has_water_bucket": "2025-07-03 23:48:21 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "dungeons_enhanced:root": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 23:31:41 +0000"
+      "entered_ruined_building": "2025-07-03 23:42:11 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 23:31:41 +0000"
+      "has_water_bucket": "2025-07-03 23:48:21 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "aether:enter_aether": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 23:31:41 +0000"
+      "enter_aether": "2025-07-03 23:42:49 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "twilightforest:root": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 23:31:41 +0000"
+      "in_tf": "2025-07-03 23:44:20 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 23:31:41 +0000"
+      "has_raw_copper": "2025-07-03 23:37:03 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-03 23:31:41 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
