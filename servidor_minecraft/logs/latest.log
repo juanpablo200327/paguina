@@ -1286,3 +1286,79 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [03Jul2025 23:01:57.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook left the game
 [03Jul2025 23:01:57.294] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Chantikook
 [03Jul2025 23:01:57.327] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jul2025 23:05:48.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ya te quitaste el creativo?
+[03Jul2025 23:05:57.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[03Jul2025 23:06:01.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [Cobweb Entanglement]
+[03Jul2025 23:06:10.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[03Jul2025 23:06:13.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[03Jul2025 23:06:16.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] se ponia en espectador JAJJJAJJAJJAJ
+[03Jul2025 23:06:21.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> listo
+[03Jul2025 23:06:26.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> estaba saliendo de cueva
+[03Jul2025 23:06:33.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> estaba enseñando a benja los mods
+[03Jul2025 23:06:36.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> sonso
+[03Jul2025 23:06:40.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 lost connection: Disconnected
+[03Jul2025 23:06:40.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 left the game
+[03Jul2025 23:06:40.478] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client funado69
+[03Jul2025 23:07:03.927] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: funado69[/127.165.220.176:52911] logged in with entity id 5673 at (787.5283776708517, 72.0, -462.98162140724696)
+[03Jul2025 23:07:03.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 joined the game
+[03Jul2025 23:07:03.958] [Server thread/INFO] [Jade/]: Syncing config to funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec)
+[03Jul2025 23:07:04.667] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of funado69 (18)
+[03Jul2025 23:07:04.668] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[03Jul2025 23:07:11.151] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[03Jul2025 23:07:12.153] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[03Jul2025 23:07:12.153] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) successfully connected to voice chat
+[03Jul2025 23:07:14.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 lost connection: Disconnected
+[03Jul2025 23:07:14.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 left the game
+[03Jul2025 23:07:14.427] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client funado69
+[03Jul2025 23:08:50.572] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chantikook[/127.8.127.102:60933] logged in with entity id 6009 at (1072.0450809454442, 67.82801172323967, -900.4102237745466)
+[03Jul2025 23:08:50.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook joined the game
+[03Jul2025 23:08:50.588] [Server thread/INFO] [Jade/]: Syncing config to Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede)
+[03Jul2025 23:08:51.198] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Chantikook (18)
+[03Jul2025 23:08:51.198] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Chantikook
+[03Jul2025 23:09:00.180] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[03Jul2025 23:09:01.165] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[03Jul2025 23:09:01.166] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) successfully connected to voice chat
+[03Jul2025 23:09:02.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook was kicked for floating too long!
+[03Jul2025 23:09:02.272] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook lost connection: Flying is not enabled on this server
+[03Jul2025 23:09:02.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook left the game
+[03Jul2025 23:09:02.273] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Chantikook
+[03Jul2025 23:09:31.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chantikook[/127.8.127.102:46305] logged in with entity id 6193 at (1072.0450809454442, 65.51221266439904, -900.4102237745466)
+[03Jul2025 23:09:31.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook joined the game
+[03Jul2025 23:09:31.339] [Server thread/INFO] [Jade/]: Syncing config to Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede)
+[03Jul2025 23:09:31.891] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Chantikook (18)
+[03Jul2025 23:09:31.891] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Chantikook
+[03Jul2025 23:09:40.484] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[03Jul2025 23:09:41.485] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[03Jul2025 23:09:41.485] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) successfully connected to voice chat
+[03Jul2025 23:11:01.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> me pueden hacer tp porfavor :D
+[03Jul2025 23:11:18.185] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kira_R[/127.241.34.139:33223] logged in with entity id 6651 at (912.7997590947456, 62.073264324665075, -684.7697933833076)
+[03Jul2025 23:11:18.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R joined the game
+[03Jul2025 23:11:18.688] [Server thread/INFO] [Jade/]: Syncing config to Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6)
+[03Jul2025 23:11:19.793] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kira_R (18)
+[03Jul2025 23:11:19.794] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kira_R
+[03Jul2025 23:11:26.098] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1e322ba-8287-3004-af9f-a79b19c392c6
+[03Jul2025 23:11:27.099] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1e322ba-8287-3004-af9f-a79b19c392c6
+[03Jul2025 23:11:27.099] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
+[03Jul2025 23:11:49.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook lost connection: Disconnected
+[03Jul2025 23:11:49.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook left the game
+[03Jul2025 23:11:49.985] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Chantikook
+[03Jul2025 23:12:04.681] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: funado69[/127.165.220.176:56255] logged in with entity id 7054 at (787.5283776708517, 72.0, -462.98162140724696)
+[03Jul2025 23:12:04.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 joined the game
+[03Jul2025 23:12:04.728] [Server thread/INFO] [Jade/]: Syncing config to funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec)
+[03Jul2025 23:12:06.960] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of funado69 (18)
+[03Jul2025 23:12:06.961] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[03Jul2025 23:12:14.877] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[03Jul2025 23:12:15.973] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[03Jul2025 23:12:15.974] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) successfully connected to voice chat
+[03Jul2025 23:12:22.248] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chantikook[/127.8.127.102:44661] logged in with entity id 7357 at (1058.480901925876, 67.0, -942.3000000119209)
+[03Jul2025 23:12:22.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook joined the game
+[03Jul2025 23:12:22.278] [Server thread/INFO] [Jade/]: Syncing config to Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede)
+[03Jul2025 23:12:22.587] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Chantikook (18)
+[03Jul2025 23:12:22.588] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Chantikook
+[03Jul2025 23:12:28.586] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[03Jul2025 23:12:29.586] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[03Jul2025 23:12:29.586] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) successfully connected to voice chat
+[03Jul2025 23:12:54.402] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook lost connection: Disconnected
+[03Jul2025 23:12:54.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook left the game
+[03Jul2025 23:12:54.403] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Chantikook
+[03Jul2025 23:13:37.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
