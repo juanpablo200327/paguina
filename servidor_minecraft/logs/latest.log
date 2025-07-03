@@ -1787,3 +1787,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [03Jul2025 04:55:47.478] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Timed out
 [03Jul2025 04:55:47.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
 [03Jul2025 04:55:47.479] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd
+[03Jul2025 05:09:01.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Not Today, Thank You]
+[03Jul2025 05:09:19.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[03Jul2025 05:09:24.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[03Jul2025 05:11:46.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Mutual Aid]
+[03Jul2025 05:14:47.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Restless Spirit
+[03Jul2025 05:14:48.617] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[03Jul2025 05:14:59.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has reached the goal [Strong or Careful]
+[03Jul2025 05:14:59.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by Dread Hound
+[03Jul2025 05:14:59.142] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[03Jul2025 05:15:33.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
