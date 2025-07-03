@@ -5,18 +5,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 22:11:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 22:11:52 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-06-30 22:10:51 +0000"
@@ -35,12 +23,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 22:11:52 +0000"
-    },
-    "done": false
-  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-06-30 22:10:51 +0000"
@@ -52,12 +34,6 @@
       "instant_granted": "2025-06-30 22:10:51 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 22:11:52 +0000"
-    },
-    "done": false
   },
   "call_of_drowner:cod": {
     "criteria": {
@@ -77,29 +53,29 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
-      "log_spam_fixer": "2025-06-30 22:11:52 +0000"
+      "bornin_chaos_0": "2025-06-30 22:10:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "faded_conquest_2:faded_2": {
     "criteria": {
-      "log_spam_fixer": "2025-06-30 22:11:52 +0000"
+      "faded_2_0": "2025-06-30 22:10:51 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2025-06-30 22:10:51 +0000"
+    },
+    "done": true
   },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-06-30 22:10:52 +0000"
     },
     "done": false
-  },
-  "born_in_chaos_v1:bornin_chaos": {
-    "criteria": {
-      "bornin_chaos_0": "2025-06-30 22:10:51 +0000"
-    },
-    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -113,63 +89,9 @@
     },
     "done": false
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 22:11:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 22:11:52 +0000"
-    },
-    "done": false
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2025-06-30 22:11:29 +0000"
-    },
-    "done": true
-  },
-  "faded_conquest_2:faded_2": {
-    "criteria": {
-      "faded_2_0": "2025-06-30 22:10:51 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 22:11:52 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-06-30 22:11:29 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 22:11:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 22:11:52 +0000"
-    },
-    "done": false
-  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-06-30 22:10:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-30 22:11:52 +0000"
     },
     "done": false
   },
@@ -179,12 +101,6 @@
     },
     "done": false
   },
-  "the_bumblezone:wiki": {
-    "criteria": {
-      "instant_granted": "2025-06-30 22:10:51 +0000"
-    },
-    "done": true
-  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-06-30 22:10:52 +0000"
@@ -193,9 +109,40 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-07-03 02:26:20 +0000",
       "minecraft:plains": "2025-06-30 22:10:52 +0000"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-06-30 22:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-30 22:11:29 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_ruined_building": "2025-07-03 02:26:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-07-03 02:30:55 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_ruined_building": "2025-07-03 02:26:20 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

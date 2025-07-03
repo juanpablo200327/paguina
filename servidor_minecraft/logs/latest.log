@@ -1274,3 +1274,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [03Jul2025 02:21:40.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported funado69 to pablito]
 [03Jul2025 02:23:49.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> gay
 [03Jul2025 02:24:06.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> me va lag
+[03Jul2025 02:25:49.979] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kira_R[/127.241.34.139:36619] logged in with entity id 2172 at (202.43248574222952, 65.0, -126.61177414060727)
+[03Jul2025 02:25:49.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R joined the game
+[03Jul2025 02:25:50.034] [Server thread/INFO] [Jade/]: Syncing config to Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6)
+[03Jul2025 02:25:51.605] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kira_R (18)
+[03Jul2025 02:25:51.606] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kira_R
+[03Jul2025 02:26:00.453] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1e322ba-8287-3004-af9f-a79b19c392c6
+[03Jul2025 02:26:01.523] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1e322ba-8287-3004-af9f-a79b19c392c6
+[03Jul2025 02:26:01.523] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
+[03Jul2025 02:26:20.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Kira_R to funado69]
+[03Jul2025 02:26:36.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> hola
+[03Jul2025 02:26:43.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> holi
+[03Jul2025 02:26:50.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> que hacen ?
+[03Jul2025 02:26:59.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> el funado afk
+[03Jul2025 02:27:07.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> ahhh anda ligando
+[03Jul2025 02:27:11.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> A
+[03Jul2025 02:27:15.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> que raro
+[03Jul2025 02:27:20.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> ahi esta en discord ligando
+[03Jul2025 02:27:24.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> ya vii
+[03Jul2025 02:27:43.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> como puedo hablar?
+[03Jul2025 02:30:55.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has reached the goal [Strong or Careful]
+[03Jul2025 02:30:55.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Kira_R
+[03Jul2025 02:30:55.656] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[03Jul2025 02:31:08.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported funado69 to pablito]
+[03Jul2025 02:32:58.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by funado69
+[03Jul2025 02:32:58.030] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[03Jul2025 02:33:19.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Kira_R to funado69]
+[03Jul2025 02:34:40.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has reached the goal [Here They Come]
