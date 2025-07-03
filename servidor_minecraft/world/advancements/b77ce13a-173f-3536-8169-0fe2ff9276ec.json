@@ -114,6 +114,7 @@
       "minecraft:beach": "2025-06-30 18:59:12 +0000",
       "minecraft:river": "2025-06-30 18:59:38 +0000",
       "minecraft:lukewarm_ocean": "2025-06-30 21:46:18 +0000",
+      "minecraft:cold_ocean": "2025-07-03 02:37:47 +0000",
       "minecraft:forest": "2025-06-30 19:02:35 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-30 22:10:34 +0000",
       "minecraft:savanna": "2025-06-30 21:45:14 +0000",
@@ -848,6 +849,30 @@
       "coded_trigger": "2025-07-03 02:30:55 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-03 02:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-03 02:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-03 02:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "baked_potato": "2025-07-03 02:35:04 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
