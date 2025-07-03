@@ -9241,3 +9241,116 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [03Jul2025 03:25:04.526] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) successfully connected to voice chat
 [03Jul2025 03:25:04.705] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Chantikook: {disabled=false, disconnected=false, uuid=5c6dabfc-3f2f-38c8-bd9c-458540ad8ede, name=Chantikook, group=null}
 [03Jul2025 03:26:34.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[03Jul2025 03:26:40.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 03:26:40.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 03:27:22.385] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=818, y=32, z=-476} BlockPos{x=818, y=31, z=-476}
+[03Jul2025 03:27:44.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [When in Rome]
+[03Jul2025 03:28:29.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [Monster Hunter]
+[03Jul2025 03:28:36.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by Spider
+[03Jul2025 03:28:36.825] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kira_R was created at position [x:809, y:31, z:-474, dim:minecraft:overworld]
+[03Jul2025 03:28:36.842] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[03Jul2025 03:28:36.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Monster Hunter]
+[03Jul2025 03:28:45.913] [Server thread/DEBUG] [twilightforest/]: Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) respawned and received items held in storage
+[03Jul2025 03:29:10.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[03Jul2025 03:31:03.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Alex's Mobs]
+[03Jul2025 03:31:40.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 03:31:40.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 03:32:12.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was shot by Skeleton
+[03Jul2025 03:32:12.533] [Server thread/DEBUG] [tombstone/]: A new grave of the player lucyyxd was created at position [x:812, y:22, z:-504, dim:minecraft:overworld]
+[03Jul2025 03:32:12.538] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[03Jul2025 03:32:14.487] [Server thread/DEBUG] [twilightforest/]: Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) respawned and received items held in storage
+[03Jul2025 03:32:28.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was shot by Skeleton
+[03Jul2025 03:32:28.145] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:811, y:22, z:-497, dim:minecraft:overworld]
+[03Jul2025 03:32:28.152] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[03Jul2025 03:32:29.629] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[03Jul2025 03:32:40.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to funado69]
+[03Jul2025 03:32:50.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [Not Today, Thank You]
+[03Jul2025 03:32:52.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Stone Age]
+[03Jul2025 03:33:09.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[03Jul2025 03:33:11.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[03Jul2025 03:33:29.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from holy damage
+[03Jul2025 03:33:29.399] [Server thread/DEBUG] [tombstone/]: A new grave of the player lucyyxd was created at position [x:808, y:22, z:-516, dim:minecraft:overworld]
+[03Jul2025 03:33:29.401] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[03Jul2025 03:33:32.636] [Server thread/DEBUG] [twilightforest/]: Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) respawned and received items held in storage
+[03Jul2025 03:33:58.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the weather to clear]
+[03Jul2025 03:34:13.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Knowledge of Death]
+[03Jul2025 03:34:13.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has reached the goal [Chain Death]
+[03Jul2025 03:34:13.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was shot by Skeleton
+[03Jul2025 03:34:13.486] [Server thread/DEBUG] [tombstone/]: A new grave of the player lucyyxd was created at position [x:267, y:70, z:-164, dim:minecraft:overworld]
+[03Jul2025 03:34:13.489] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[03Jul2025 03:34:14.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to funado69]
+[03Jul2025 03:34:14.875] [Server thread/DEBUG] [twilightforest/]: Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) respawned and received items held in storage
+[03Jul2025 03:34:39.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was shot by Skeleton
+[03Jul2025 03:34:39.184] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kira_R was created at position [x:812, y:22, z:-493, dim:minecraft:overworld]
+[03Jul2025 03:34:39.188] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[03Jul2025 03:34:44.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Acquire Hardware]
+[03Jul2025 03:34:45.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was shot by Skeleton
+[03Jul2025 03:34:45.270] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:811, y:22, z:-493, dim:minecraft:overworld]
+[03Jul2025 03:34:45.275] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[03Jul2025 03:34:46.439] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[03Jul2025 03:34:48.721] [Server thread/DEBUG] [twilightforest/]: Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) respawned and received items held in storage
+[03Jul2025 03:35:13.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[03Jul2025 03:35:30.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Spider
+[03Jul2025 03:35:30.344] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:813, y:22, z:-514, dim:minecraft:overworld]
+[03Jul2025 03:35:30.359] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[03Jul2025 03:35:31.384] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[03Jul2025 03:35:54.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to funado69]
+[03Jul2025 03:36:16.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was shot by Skeleton
+[03Jul2025 03:36:16.714] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:813, y:22, z:-517, dim:minecraft:overworld]
+[03Jul2025 03:36:16.726] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[03Jul2025 03:36:16.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was shot by Skeleton
+[03Jul2025 03:36:16.998] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kira_R was created at position [x:809, y:22, z:-518, dim:minecraft:overworld]
+[03Jul2025 03:36:17.002] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[03Jul2025 03:36:18.101] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[03Jul2025 03:36:18.359] [Server thread/DEBUG] [twilightforest/]: Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) respawned and received items held in storage
+[03Jul2025 03:36:28.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was shot by Skeleton
+[03Jul2025 03:36:28.036] [Server thread/DEBUG] [tombstone/]: A new grave of the player Chantikook was created at position [x:816, y:22, z:-507, dim:minecraft:overworld]
+[03Jul2025 03:36:28.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Your First Grave]
+[03Jul2025 03:36:28.044] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[03Jul2025 03:36:30.048] [Server thread/DEBUG] [twilightforest/]: Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) respawned and received items held in storage
+[03Jul2025 03:36:30.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[03Jul2025 03:36:33.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[03Jul2025 03:36:40.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 03:36:40.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 03:37:40.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> q paso jajjjaja
+[03Jul2025 03:38:05.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 hit the ground too hard
+[03Jul2025 03:38:05.362] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:816, y:22, z:-485, dim:minecraft:overworld]
+[03Jul2025 03:38:05.363] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[03Jul2025 03:38:06.696] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[03Jul2025 03:38:45.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to funado69]
+[03Jul2025 03:38:59.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[03Jul2025 03:39:16.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [When in Rome]
+[03Jul2025 03:39:21.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was slain by Zombie
+[03Jul2025 03:39:21.177] [Server thread/DEBUG] [tombstone/]: A new grave of the player lucyyxd was created at position [x:811, y:28, z:-497, dim:minecraft:overworld]
+[03Jul2025 03:39:21.208] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[03Jul2025 03:39:23.392] [Server thread/DEBUG] [twilightforest/]: Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) respawned and received items held in storage
+[03Jul2025 03:39:49.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to funado69]
+[03Jul2025 03:39:50.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Getting an Upgrade]
+[03Jul2025 03:40:49.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [When in Rome]
+[03Jul2025 03:41:30.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[03Jul2025 03:41:40.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 03:41:40.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 03:41:45.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [Stone Age]
+[03Jul2025 03:42:46.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Monster Hunter]
+[03Jul2025 03:42:55.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[03Jul2025 03:43:57.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Ashes 'n Bones]
+[03Jul2025 03:44:05.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Stone Age]
+[03Jul2025 03:44:36.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Acquire Hardware]
+[03Jul2025 03:44:49.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Isn't It Iron Pick]
+[03Jul2025 03:44:52.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Deceived Hopes]
+[03Jul2025 03:44:57.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [A Strange Grave Dust]
+[03Jul2025 03:45:02.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by Diamond Termite
+[03Jul2025 03:45:02.085] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kira_R was created at position [x:755, y:3, z:-493, dim:minecraft:overworld]
+[03Jul2025 03:45:02.090] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[03Jul2025 03:45:10.133] [Server thread/DEBUG] [twilightforest/]: Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) respawned and received items held in storage
+[03Jul2025 03:45:18.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Monster Hunter]
+[03Jul2025 03:45:34.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[03Jul2025 03:46:09.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
+[03Jul2025 03:46:09.189] [Server thread/DEBUG] [tombstone/]: A new grave of the player Chantikook was created at position [x:810, y:28, z:-496, dim:minecraft:overworld]
+[03Jul2025 03:46:09.199] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[03Jul2025 03:46:10.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was slain by Zombie
+[03Jul2025 03:46:10.541] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[03Jul2025 03:46:11.427] [Server thread/DEBUG] [twilightforest/]: Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) respawned and received items held in storage
+[03Jul2025 03:46:12.106] [Server thread/DEBUG] [twilightforest/]: Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) respawned and received items held in storage
+[03Jul2025 03:46:40.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 03:46:40.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
