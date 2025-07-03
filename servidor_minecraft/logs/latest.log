@@ -1446,3 +1446,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [03Jul2025 03:13:35.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported lucyyxd to pablito]
 [03Jul2025 03:14:57.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
 [03Jul2025 03:15:52.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[03Jul2025 03:18:10.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[03Jul2025 03:18:48.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the weather to clear]
+[03Jul2025 03:24:52.990] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chantikook[/127.8.127.102:35625] logged in with entity id 21809 at (796.2457276461191, 70.0, -471.2312012756505)
+[03Jul2025 03:24:52.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook joined the game
+[03Jul2025 03:24:53.043] [Server thread/INFO] [Jade/]: Syncing config to Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede)
+[03Jul2025 03:24:53.288] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Chantikook (18)
+[03Jul2025 03:24:53.288] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Chantikook
+[03Jul2025 03:25:03.529] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[03Jul2025 03:25:04.525] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[03Jul2025 03:25:04.526] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) successfully connected to voice chat
+[03Jul2025 03:26:34.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
