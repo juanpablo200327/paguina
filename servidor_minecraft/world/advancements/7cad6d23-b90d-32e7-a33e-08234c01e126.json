@@ -3207,6 +3207,7 @@
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
+      "raw_venison": "2025-07-03 03:04:10 +0000",
       "torchberries": "2025-06-30 23:01:24 +0000"
     },
     "done": false

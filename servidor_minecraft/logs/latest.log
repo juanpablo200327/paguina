@@ -1408,3 +1408,41 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [03Jul2025 03:02:19.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> hoka
 [03Jul2025 03:04:08.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
 [03Jul2025 03:04:46.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Cobweb Entanglement]
+[03Jul2025 03:07:00.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [A Seedy Place]
+[03Jul2025 03:07:18.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> danny cree que no me di cuenta que me robo patata
+[03Jul2025 03:07:22.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> jjajajajjaj
+[03Jul2025 03:07:28.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> que rata
+[03Jul2025 03:07:32.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> cortale las manos
+[03Jul2025 03:07:34.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> que maleducado
+[03Jul2025 03:07:36.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> por ladron
+[03Jul2025 03:07:37.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> que malagradecido
+[03Jul2025 03:07:40.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> ni las volvio a plantar
+[03Jul2025 03:07:42.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> metele mod de carcel
+[03Jul2025 03:07:47.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> KJLHSKLJAGKLQS
+[03Jul2025 03:07:48.293] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede timed out
+[03Jul2025 03:07:48.293] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Chantikook
+[03Jul2025 03:07:48.294] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Chantikook
+[03Jul2025 03:07:52.733] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook lost connection: Timed out
+[03Jul2025 03:07:52.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook left the game
+[03Jul2025 03:07:52.734] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Chantikook
+[03Jul2025 03:09:20.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> ,/carcel funado
+[03Jul2025 03:10:06.514] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jul2025 03:10:06.518] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jul2025 03:10:06.522] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jul2025 03:10:06.538] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jul2025 03:10:06.540] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jul2025 03:10:06.544] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jul2025 03:10:06.549] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jul2025 03:10:06.549] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jul2025 03:10:06.549] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jul2025 03:11:12.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was slain by Sir Pumpkinhead
+[03Jul2025 03:11:12.232] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[03Jul2025 03:11:38.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has reached the goal [Here They Come]
+[03Jul2025 03:11:59.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Mr. Pumpkin
+[03Jul2025 03:12:00.249] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[03Jul2025 03:12:07.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has reached the goal [Strong or Careful]
+[03Jul2025 03:12:07.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito suffocated in a wall
+[03Jul2025 03:12:08.299] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[03Jul2025 03:13:35.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported lucyyxd to pablito]
+[03Jul2025 03:14:57.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[03Jul2025 03:15:52.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]

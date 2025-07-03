@@ -8919,3 +8919,69 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [03Jul2025 03:02:19.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> hoka
 [03Jul2025 03:04:08.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
 [03Jul2025 03:04:46.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Cobweb Entanglement]
+[03Jul2025 03:06:40.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 03:06:40.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 03:07:00.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [A Seedy Place]
+[03Jul2025 03:07:18.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> danny cree que no me di cuenta que me robo patata
+[03Jul2025 03:07:22.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> jjajajajjaj
+[03Jul2025 03:07:28.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> que rata
+[03Jul2025 03:07:32.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> cortale las manos
+[03Jul2025 03:07:34.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> que maleducado
+[03Jul2025 03:07:36.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> por ladron
+[03Jul2025 03:07:37.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> que malagradecido
+[03Jul2025 03:07:40.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> ni las volvio a plantar
+[03Jul2025 03:07:42.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> metele mod de carcel
+[03Jul2025 03:07:47.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> KJLHSKLJAGKLQS
+[03Jul2025 03:07:48.293] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede timed out
+[03Jul2025 03:07:48.293] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Chantikook
+[03Jul2025 03:07:48.293] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Chantikook
+[03Jul2025 03:07:48.293] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Chantikook
+[03Jul2025 03:07:48.294] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Chantikook
+[03Jul2025 03:07:48.294] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Chantikook
+[03Jul2025 03:07:48.294] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede to disconnected: {disabled=false, disconnected=true, uuid=5c6dabfc-3f2f-38c8-bd9c-458540ad8ede, name=Chantikook, group=null}
+[03Jul2025 03:07:52.733] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook lost connection: Timed out
+[03Jul2025 03:07:52.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook left the game
+[03Jul2025 03:07:52.734] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Chantikook
+[03Jul2025 03:07:52.734] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Chantikook
+[03Jul2025 03:09:19.630] [Worker-Main-30/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (1068 | 33 | -208)
+[03Jul2025 03:09:19.638] [Worker-Main-30/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (1068 | 33 | -208)
+[03Jul2025 03:09:19.639] [Worker-Main-30/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (1059 | 5 | -208)
+[03Jul2025 03:09:19.639] [Worker-Main-30/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (1059 | 5 | -208)
+[03Jul2025 03:09:19.657] [Worker-Main-42/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_180 at (1023 | 33 | -208)
+[03Jul2025 03:09:19.657] [Worker-Main-42/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_180 at (1023 | 33 | -208)
+[03Jul2025 03:09:19.668] [Worker-Main-42/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_180 at (1023 | 33 | -208)
+[03Jul2025 03:09:19.668] [Worker-Main-42/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_180 at (1023 | 33 | -208)
+[03Jul2025 03:09:19.883] [Worker-Main-45/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (1068 | 33 | -208)
+[03Jul2025 03:09:19.884] [Worker-Main-45/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (1068 | 33 | -208)
+[03Jul2025 03:09:19.884] [Worker-Main-45/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (1059 | 5 | -208)
+[03Jul2025 03:09:19.884] [Worker-Main-45/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (1059 | 5 | -208)
+[03Jul2025 03:09:20.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> ,/carcel funado
+[03Jul2025 03:09:57.046] [Worker-Main-11/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[03Jul2025 03:10:06.514] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jul2025 03:10:06.518] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jul2025 03:10:06.522] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jul2025 03:10:06.538] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jul2025 03:10:06.540] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jul2025 03:10:06.544] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jul2025 03:10:06.549] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jul2025 03:10:06.549] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jul2025 03:10:06.549] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jul2025 03:11:12.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was slain by Sir Pumpkinhead
+[03Jul2025 03:11:12.223] [Server thread/DEBUG] [tombstone/]: A new grave of the player lucyyxd was created at position [x:795, y:70, z:-487, dim:minecraft:overworld]
+[03Jul2025 03:11:12.232] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[03Jul2025 03:11:13.849] [Server thread/DEBUG] [twilightforest/]: Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) respawned and received items held in storage
+[03Jul2025 03:11:38.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has reached the goal [Here They Come]
+[03Jul2025 03:11:40.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 03:11:40.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 03:11:59.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Mr. Pumpkin
+[03Jul2025 03:12:00.230] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:786, y:72, z:-451, dim:minecraft:overworld]
+[03Jul2025 03:12:00.249] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[03Jul2025 03:12:02.098] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[03Jul2025 03:12:07.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has reached the goal [Strong or Careful]
+[03Jul2025 03:12:07.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito suffocated in a wall
+[03Jul2025 03:12:08.295] [Server thread/DEBUG] [tombstone/]: A new grave of the player pablito was created at position [x:810, y:61, z:-526, dim:minecraft:overworld]
+[03Jul2025 03:12:08.299] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[03Jul2025 03:12:09.288] [Server thread/DEBUG] [twilightforest/]: Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) respawned and received items held in storage
+[03Jul2025 03:13:35.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported lucyyxd to pablito]
+[03Jul2025 03:14:57.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[03Jul2025 03:15:52.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
