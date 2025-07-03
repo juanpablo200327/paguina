@@ -1269,3 +1269,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [03Jul2025 22:39:32.099] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b77ce13a-173f-3536-8169-0fe2ff9276ec
 [03Jul2025 22:39:33.086] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b77ce13a-173f-3536-8169-0fe2ff9276ec
 [03Jul2025 22:39:33.089] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) successfully connected to voice chat
+[03Jul2025 22:45:19.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was doomed to fall by Restless Spirit
+[03Jul2025 22:45:20.092] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[03Jul2025 22:45:33.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[03Jul2025 22:45:47.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] mmmmmm
+[03Jul2025 22:45:58.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] y ese creativo
+[03Jul2025 22:46:09.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> ME MATAN ESTUOPIDO
+[03Jul2025 22:46:51.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] maldito pues preparate bien

@@ -6758,3 +6758,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [03Jul2025 22:39:33.238] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of funado69: {disabled=false, disconnected=false, uuid=b77ce13a-173f-3536-8169-0fe2ff9276ec, name=funado69, group=null}
 [03Jul2025 22:39:40.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jul2025 22:39:40.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 22:44:40.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 22:44:40.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 22:45:19.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was doomed to fall by Restless Spirit
+[03Jul2025 22:45:20.045] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:1061, y:107, z:-904, dim:minecraft:overworld]
+[03Jul2025 22:45:20.092] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[03Jul2025 22:45:20.658] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[03Jul2025 22:45:33.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[03Jul2025 22:45:47.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] mmmmmm
+[03Jul2025 22:45:58.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] y ese creativo
+[03Jul2025 22:46:09.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> ME MATAN ESTUOPIDO
+[03Jul2025 22:46:51.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] maldito pues preparate bien
+[03Jul2025 22:49:40.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 22:49:40.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
