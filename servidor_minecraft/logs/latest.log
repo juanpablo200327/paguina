@@ -1276,3 +1276,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [03Jul2025 22:45:58.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] y ese creativo
 [03Jul2025 22:46:09.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> ME MATAN ESTUOPIDO
 [03Jul2025 22:46:51.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] maldito pues preparate bien
+[03Jul2025 23:01:44.243] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chantikook[/127.8.127.102:37551] logged in with entity id 4694 at (1072.0450809454442, 67.82801172323967, -900.4102237745466)
+[03Jul2025 23:01:44.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook joined the game
+[03Jul2025 23:01:44.269] [Server thread/INFO] [Jade/]: Syncing config to Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede)
+[03Jul2025 23:01:46.838] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Chantikook (18)
+[03Jul2025 23:01:46.839] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Chantikook
+[03Jul2025 23:01:57.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook was kicked for floating too long!
+[03Jul2025 23:01:57.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook lost connection: Flying is not enabled on this server
+[03Jul2025 23:01:57.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook left the game
+[03Jul2025 23:01:57.294] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Chantikook
+[03Jul2025 23:01:57.327] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
