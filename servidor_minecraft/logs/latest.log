@@ -1687,3 +1687,103 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [03Jul2025 04:07:12.014] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
 [03Jul2025 04:07:13.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Zombie
 [03Jul2025 04:07:13.087] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[03Jul2025 04:07:14.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by Zombie
+[03Jul2025 04:07:14.146] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[03Jul2025 04:07:34.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=184, y=66, z=-108}
+[03Jul2025 04:07:35.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Zombie
+[03Jul2025 04:07:35.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=185, y=66, z=-108}
+[03Jul2025 04:07:35.086] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[03Jul2025 04:07:35.457] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=184, y=66, z=-107}
+[03Jul2025 04:07:35.709] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=182, y=66, z=-107}
+[03Jul2025 04:07:42.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was slain by Corpse Fly
+[03Jul2025 04:07:42.686] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[03Jul2025 04:07:46.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[03Jul2025 04:07:56.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[03Jul2025 04:08:10.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [Sweet Dreams]
+[03Jul2025 04:08:13.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Sweet Dreams]
+[03Jul2025 04:08:30.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to funado69]
+[03Jul2025 04:08:43.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Sweet Dreams]
+[03Jul2025 04:09:24.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Zombie
+[03Jul2025 04:09:24.606] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[03Jul2025 04:09:28.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
+[03Jul2025 04:09:28.629] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[03Jul2025 04:09:38.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by Zombie
+[03Jul2025 04:09:38.038] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[03Jul2025 04:09:57.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Zombie
+[03Jul2025 04:09:57.768] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[03Jul2025 04:10:26.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Corpse Fly
+[03Jul2025 04:10:26.643] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[03Jul2025 04:10:33.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[03Jul2025 04:17:00.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [Diamonds!]
+[03Jul2025 04:18:50.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has completed the challenge [Overkill]
+[03Jul2025 04:19:36.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Suit Up]
+[03Jul2025 04:20:14.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[03Jul2025 04:20:14.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[03Jul2025 04:21:51.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Suit Up]
+[03Jul2025 04:23:04.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Diamonds!]
+[03Jul2025 04:25:10.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Getting an Upgrade]
+[03Jul2025 04:25:17.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[03Jul2025 04:25:38.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[03Jul2025 04:25:57.287] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player a40c50c1-88ca-3a3e-9120-b3faba79f2ce timed out
+[03Jul2025 04:25:57.287] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lucyyxd
+[03Jul2025 04:25:57.287] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[03Jul2025 04:26:09.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Timed out
+[03Jul2025 04:26:09.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
+[03Jul2025 04:26:09.874] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd
+[03Jul2025 04:26:31.732] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucyyxd[/127.191.244.134:43345] logged in with entity id 40754 at (793.9063303694141, 70.0, -474.68949559543466)
+[03Jul2025 04:26:31.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd joined the game
+[03Jul2025 04:26:31.785] [Server thread/INFO] [Jade/]: Syncing config to lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce)
+[03Jul2025 04:26:32.901] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lucyyxd (18)
+[03Jul2025 04:26:32.902] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[03Jul2025 04:26:37.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Simple Dungeon Room]
+[03Jul2025 04:26:40.777] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[03Jul2025 04:26:41.791] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[03Jul2025 04:26:41.791] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) successfully connected to voice chat
+[03Jul2025 04:27:44.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to lucyyxd]
+[03Jul2025 04:28:05.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[03Jul2025 04:30:29.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[03Jul2025 04:30:47.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[03Jul2025 04:30:54.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to Chantikook]
+[03Jul2025 04:35:30.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to Chantikook]
+[03Jul2025 04:36:02.823] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Timed out
+[03Jul2025 04:36:02.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
+[03Jul2025 04:36:02.823] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd
+[03Jul2025 04:37:03.583] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@12ee0bb[id=<null>,name=lucyyxd,properties={},legacy=false] (/127.191.244.134:60029) lost connection: Timed out
+[03Jul2025 04:37:52.774] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3f439080[id=<null>,name=lucyyxd,properties={},legacy=false] (/127.191.244.134:46813) lost connection: Disconnected
+[03Jul2025 04:39:16.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[03Jul2025 04:39:28.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Adventure Mode]
+[03Jul2025 04:39:32.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[03Jul2025 04:40:44.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[03Jul2025 04:40:58.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[03Jul2025 04:41:03.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[03Jul2025 04:41:31.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to Chantikook]
+[03Jul2025 04:42:48.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[03Jul2025 04:43:11.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[03Jul2025 04:43:22.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[03Jul2025 04:43:34.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Diamonds!]
+[03Jul2025 04:45:01.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was blown up by Creeper
+[03Jul2025 04:45:01.038] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[03Jul2025 04:45:15.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to Kira_R]
+[03Jul2025 04:47:14.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[03Jul2025 04:48:04.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Dread Hound
+[03Jul2025 04:48:04.482] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[03Jul2025 04:48:29.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[03Jul2025 04:49:25.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[03Jul2025 04:49:52.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Dread Hound
+[03Jul2025 04:49:52.393] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[03Jul2025 04:50:08.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Ashes 'n Bones]
+[03Jul2025 04:51:18.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[03Jul2025 04:53:17.280] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucyyxd[/127.191.244.134:47749] logged in with entity id 44730 at (774.5838726212768, 13.0, -532.9522499416134)
+[03Jul2025 04:53:17.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd joined the game
+[03Jul2025 04:53:17.327] [Server thread/INFO] [Jade/]: Syncing config to lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce)
+[03Jul2025 04:53:18.202] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lucyyxd (18)
+[03Jul2025 04:53:18.203] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[03Jul2025 04:53:26.298] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[03Jul2025 04:53:27.302] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[03Jul2025 04:53:27.302] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) successfully connected to voice chat
+[03Jul2025 04:55:00.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[03Jul2025 04:55:08.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to funado69]
+[03Jul2025 04:55:13.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[03Jul2025 04:55:47.478] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Timed out
+[03Jul2025 04:55:47.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
+[03Jul2025 04:55:47.479] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd
