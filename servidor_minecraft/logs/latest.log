@@ -47,3 +47,64 @@
 [04Jul2025 00:03:28.617] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b77ce13a-173f-3536-8169-0fe2ff9276ec
 [04Jul2025 00:03:29.619] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b77ce13a-173f-3536-8169-0fe2ff9276ec
 [04Jul2025 00:03:29.619] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) successfully connected to voice chat
+[04Jul2025 00:04:43.273] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Disconnected
+[04Jul2025 00:04:43.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
+[04Jul2025 00:04:43.274] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd
+[04Jul2025 00:05:14.177] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucyyxd[/127.191.244.134:36985] logged in with entity id 27149 at (781.3000000119209, 75.0, -478.1271575571059)
+[04Jul2025 00:05:14.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd joined the game
+[04Jul2025 00:05:14.230] [Server thread/INFO] [Jade/]: Syncing config to lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce)
+[04Jul2025 00:05:14.654] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lucyyxd (18)
+[04Jul2025 00:05:14.654] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[04Jul2025 00:05:21.653] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[04Jul2025 00:05:22.655] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[04Jul2025 00:05:22.656] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) successfully connected to voice chat
+[04Jul2025 00:05:23.519] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[04Jul2025 00:05:23.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[04Jul2025 00:05:23.519] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[04Jul2025 00:08:28.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 hit the ground too hard whilst trying to escape Kira_R
+[04Jul2025 00:08:28.601] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[04Jul2025 00:08:33.915] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player a40c50c1-88ca-3a3e-9120-b3faba79f2ce timed out
+[04Jul2025 00:08:33.915] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lucyyxd
+[04Jul2025 00:08:33.915] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[04Jul2025 00:08:41.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd moved too quickly! -8.85056780997661,0.0,4.746830787468241
+[04Jul2025 00:08:44.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Timed out
+[04Jul2025 00:08:44.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
+[04Jul2025 00:08:44.570] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd
+[04Jul2025 00:10:22.575] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Benjamon[/127.43.53.134:44333] logged in with entity id 28219 at (181.5, 67.0, -102.5)
+[04Jul2025 00:10:22.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benjamon joined the game
+[04Jul2025 00:10:22.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benjamon has made the advancement [Nether's Exoticism]
+[04Jul2025 00:10:22.614] [Server thread/INFO] [Jade/]: Syncing config to Benjamon (58e2a768-1f06-341f-9788-fc90ad8d79db)
+[04Jul2025 00:10:23.791] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Benjamon (18)
+[04Jul2025 00:10:23.791] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Benjamon
+[04Jul2025 00:10:28.073] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58e2a768-1f06-341f-9788-fc90ad8d79db
+[04Jul2025 00:10:29.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58e2a768-1f06-341f-9788-fc90ad8d79db
+[04Jul2025 00:10:29.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Benjamon (58e2a768-1f06-341f-9788-fc90ad8d79db) successfully connected to voice chat
+[04Jul2025 00:10:49.325] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benjamon lost connection: Disconnected
+[04Jul2025 00:10:49.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benjamon left the game
+[04Jul2025 00:10:49.325] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benjamon
+[04Jul2025 00:11:16.475] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucyyxd[/127.191.244.134:35563] logged in with entity id 28546 at (776.36460399419, 71.0, -450.305306183486)
+[04Jul2025 00:11:16.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd joined the game
+[04Jul2025 00:11:16.539] [Server thread/INFO] [Jade/]: Syncing config to lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce)
+[04Jul2025 00:11:17.032] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lucyyxd (18)
+[04Jul2025 00:11:17.032] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[04Jul2025 00:11:28.484] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[04Jul2025 00:11:29.487] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[04Jul2025 00:11:29.488] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) successfully connected to voice chat
+[04Jul2025 00:11:54.617] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@22e29c26[id=<null>,name=Benjamon,properties={},legacy=false] (/127.43.53.134:54195) lost connection: Disconnected
+[04Jul2025 00:12:36.867] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@686e420c[id=<null>,name=Benjamon,properties={},legacy=false] (/127.43.53.134:51029) lost connection: Disconnected
+[04Jul2025 00:13:27.171] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15fa520f[id=<null>,name=Benjamon,properties={},legacy=false] (/127.43.53.134:39989) lost connection: Disconnected
+[04Jul2025 00:13:45.277] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PoH159[/127.113.115.119:56393] logged in with entity id 28919 at (182.5, 67.0, -103.5)
+[04Jul2025 00:13:45.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 joined the game
+[04Jul2025 00:13:45.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [Nether's Exoticism]
+[04Jul2025 00:13:45.328] [Server thread/INFO] [Jade/]: Syncing config to PoH159 (7b6320b1-8f4a-3f39-9fed-25511a7b9515)
+[04Jul2025 00:13:47.298] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PoH159 (18)
+[04Jul2025 00:13:47.298] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PoH159
+[04Jul2025 00:13:52.540] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7b6320b1-8f4a-3f39-9fed-25511a7b9515
+[04Jul2025 00:13:53.542] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7b6320b1-8f4a-3f39-9fed-25511a7b9515
+[04Jul2025 00:13:53.542] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PoH159 (7b6320b1-8f4a-3f39-9fed-25511a7b9515) successfully connected to voice chat
+[04Jul2025 00:13:54.380] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Disconnected
+[04Jul2025 00:13:54.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
+[04Jul2025 00:13:54.380] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd
+[04Jul2025 00:14:10.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [Alex's Mobs]
+[04Jul2025 00:14:19.276] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@508eae8c[id=<null>,name=Benjamon,properties={},legacy=false] (/127.43.53.134:35691) lost connection: Disconnected
+[04Jul2025 00:14:21.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=182, y=66, z=-106}
