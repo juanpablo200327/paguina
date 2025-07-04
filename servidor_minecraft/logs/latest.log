@@ -710,3 +710,26 @@
 [04Jul2025 03:27:15.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
 [04Jul2025 03:27:39.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Good Demoman]
 [04Jul2025 03:27:50.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Dark Metallurgy]
+[04Jul2025 03:28:22.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was shot by Stray
+[04Jul2025 03:28:22.581] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[04Jul2025 03:32:36.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was killed by magic whilst trying to escape PoH159
+[04Jul2025 03:32:36.385] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[04Jul2025 03:35:06.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kira_R lost connection: Timed out
+[04Jul2025 03:35:06.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R left the game
+[04Jul2025 03:35:06.635] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kira_R
+[04Jul2025 03:35:58.438] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2a325c1b[id=<null>,name=Kira_R,properties={},legacy=false] (/127.241.34.139:40853): Took too long to log in
+[04Jul2025 03:35:58.439] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2a325c1b[id=<null>,name=Kira_R,properties={},legacy=false] (/127.241.34.139:40853) lost connection: Took too long to log in
+[04Jul2025 03:35:58.483] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Jul2025 03:36:16.944] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kira_R[/127.241.34.139:39143] logged in with entity id 126538 at (786.4516540206008, 70.0, -465.2432589894868)
+[04Jul2025 03:36:16.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R joined the game
+[04Jul2025 03:36:17.008] [Server thread/INFO] [Jade/]: Syncing config to Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6)
+[04Jul2025 03:36:17.338] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kira_R (18)
+[04Jul2025 03:36:17.338] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kira_R
+[04Jul2025 03:36:25.296] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1e322ba-8287-3004-af9f-a79b19c392c6
+[04Jul2025 03:36:27.299] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1e322ba-8287-3004-af9f-a79b19c392c6
+[04Jul2025 03:36:27.300] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
+[04Jul2025 03:37:17.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kira_R lost connection: Timed out
+[04Jul2025 03:37:17.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R left the game
+[04Jul2025 03:37:17.037] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kira_R
+[04Jul2025 03:37:19.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
+[04Jul2025 03:37:22.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]

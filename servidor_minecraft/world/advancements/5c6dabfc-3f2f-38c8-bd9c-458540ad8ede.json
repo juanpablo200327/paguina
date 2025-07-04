@@ -2747,6 +2747,36 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-04 03:36:21 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-07-04 03:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-04 03:27:47 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/explosive_barrel": {
+    "criteria": {
+      "has_gunpowder": "2025-07-04 03:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-04 03:27:47 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2025-07-04 03:24:04 +0000"
