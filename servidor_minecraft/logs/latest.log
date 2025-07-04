@@ -196,3 +196,16 @@
 [04Jul2025 00:44:42.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [Getting an Upgrade]
 [04Jul2025 00:45:13.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
 [04Jul2025 00:45:27.541] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=741, y=64, z=-482} BlockPos{x=741, y=62, z=-483}
+[04Jul2025 00:45:27.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=741, y=64, z=-482} BlockPos{x=741, y=62, z=-483}
+[04Jul2025 00:48:17.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> DANIIII PUEDES HCAERLO DE DIA PORFA :D
+[04Jul2025 00:48:22.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[04Jul2025 00:48:30.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> gracias
+[04Jul2025 00:50:30.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Disconnected
+[04Jul2025 00:50:30.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
+[04Jul2025 00:50:30.291] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd
+[04Jul2025 00:53:13.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [Knowledge of Death]
+[04Jul2025 00:53:13.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [Ambush]
+[04Jul2025 00:53:13.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [Monster Hunter]
+[04Jul2025 00:53:20.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Benjamon to funado69]
+[04Jul2025 00:53:56.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [Knowledge raises the soul]
+[04Jul2025 00:53:57.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Benjamon to funado69]

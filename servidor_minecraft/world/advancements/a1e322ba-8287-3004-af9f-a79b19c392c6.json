@@ -1910,6 +1910,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/stone_shovel_repairing": {
+    "criteria": {
+      "has_stone_shovel": "2025-07-04 00:52:25 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/overkill": {
     "criteria": {
       "overkill": "2025-07-04 00:17:24 +0000"
