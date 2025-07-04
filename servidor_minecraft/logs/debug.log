@@ -7811,3 +7811,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [04Jul2025 19:40:30.069] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with pablito
 [04Jul2025 19:40:30.069] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with pablito
 [04Jul2025 19:40:30.069] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[04Jul2025 19:40:37.708] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[04Jul2025 19:40:38.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[04Jul2025 19:40:38.717] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of pablito to connected: {disabled=false, disconnected=false, uuid=7cad6d23-b90d-32e7-a33e-08234c01e126, name=pablito, group=null}
+[04Jul2025 19:40:38.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[04Jul2025 19:40:38.847] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of pablito: {disabled=false, disconnected=false, uuid=7cad6d23-b90d-32e7-a33e-08234c01e126, name=pablito, group=null}
+[04Jul2025 19:41:14.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the weather to clear]
+[04Jul2025 19:42:06.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 19:42:06.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 19:44:47.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to funado69]
+[04Jul2025 19:45:54.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> jaajja
+[04Jul2025 19:46:05.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> con que ?
+[04Jul2025 19:46:16.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> que?
+[04Jul2025 19:46:25.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was doomed to fall by funado69
+[04Jul2025 19:46:26.236] [Server thread/DEBUG] [tombstone/]: A new grave of the player pablito was created at position [x:772, y:68, z:-384, dim:minecraft:overworld]
+[04Jul2025 19:46:26.284] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[04Jul2025 19:46:27.102] [Server thread/DEBUG] [twilightforest/]: Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) respawned and received items held in storage
+[04Jul2025 19:46:30.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to funado69]
+[04Jul2025 19:47:02.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[04Jul2025 19:47:06.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 19:47:06.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 19:47:22.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[04Jul2025 19:47:31.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> comooo
+[04Jul2025 19:47:40.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[04Jul2025 19:50:23.626] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation NONE at (1104 | 33 | -298)
+[04Jul2025 19:50:23.626] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation NONE at (1104 | 33 | -298)
+[04Jul2025 19:50:23.626] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (1104 | 5 | -316)
+[04Jul2025 19:50:23.626] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (1104 | 5 | -316)
