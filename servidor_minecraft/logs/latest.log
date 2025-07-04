@@ -647,3 +647,66 @@
 [04Jul2025 02:57:08.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported funado69 to pablito]
 [04Jul2025 02:57:45.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Chantikook
 [04Jul2025 02:57:45.608] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[04Jul2025 02:58:42.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [When in Rome]
+[04Jul2025 02:59:23.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was slain by Zombie
+[04Jul2025 02:59:23.286] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[04Jul2025 02:59:48.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Kira_R]
+[04Jul2025 02:59:48.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [When in Rome]
+[04Jul2025 02:59:50.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Kira_R
+[04Jul2025 02:59:52.029] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[04Jul2025 02:59:52.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 moved too quickly! -0.258071124506273,2.5,10.100952845531253
+[04Jul2025 02:59:55.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Kira_R]
+[04Jul2025 03:01:12.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [Cobweb Entanglement]
+[04Jul2025 03:02:11.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
+[04Jul2025 03:02:41.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[04Jul2025 03:08:07.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> PABLITO?
+[04Jul2025 03:08:28.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> una pregunta, hay limte de bloques para contruir las casas?
+[04Jul2025 03:08:41.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> 300
+[04Jul2025 03:08:51.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> dany ya se paso del limite
+[04Jul2025 03:08:53.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> carcel
+[04Jul2025 03:09:00.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PoH159> xD
+[04Jul2025 03:09:02.046] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede timed out
+[04Jul2025 03:09:02.046] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Chantikook
+[04Jul2025 03:09:02.046] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Chantikook
+[04Jul2025 03:09:13.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook lost connection: Timed out
+[04Jul2025 03:09:13.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook left the game
+[04Jul2025 03:09:13.241] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Chantikook
+[04Jul2025 03:09:52.336] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chantikook[/127.8.127.102:38065] logged in with entity id 116467 at (849.9884941375805, 63.0, -614.5275137927994)
+[04Jul2025 03:09:52.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook joined the game
+[04Jul2025 03:09:52.368] [Server thread/INFO] [Jade/]: Syncing config to Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede)
+[04Jul2025 03:09:52.664] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Chantikook (18)
+[04Jul2025 03:09:52.664] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Chantikook
+[04Jul2025 03:09:58.983] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[04Jul2025 03:09:59.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[04Jul2025 03:09:59.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) successfully connected to voice chat
+[04Jul2025 03:11:06.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [Hot Stuff]
+[04Jul2025 03:11:24.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Hot Stuff]
+[04Jul2025 03:11:27.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Hot Stuff]
+[04Jul2025 03:11:39.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Kira_R to funado69]
+[04Jul2025 03:14:45.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Decaying Zombie
+[04Jul2025 03:14:45.244] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[04Jul2025 03:15:13.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> PABLITO DE DIA POEDAVOR
+[04Jul2025 03:15:18.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[04Jul2025 03:16:14.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Door Knight
+[04Jul2025 03:16:14.596] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[04Jul2025 03:16:23.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R hit the ground too hard
+[04Jul2025 03:16:23.138] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[04Jul2025 03:16:34.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PoH159> wtf
+[04Jul2025 03:16:41.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> quien me matooo
+[04Jul2025 03:16:49.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> yo solo queria hacer negocioooos
+[04Jul2025 03:16:56.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> hagan tp
+[04Jul2025 03:17:08.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> T
+[04Jul2025 03:17:11.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[04Jul2025 03:19:50.403] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[04Jul2025 03:19:50.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[04Jul2025 03:19:50.403] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[04Jul2025 03:20:19.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Bison
+[04Jul2025 03:20:19.447] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[04Jul2025 03:20:42.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was shot by Skeleton
+[04Jul2025 03:20:42.598] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[04Jul2025 03:24:04.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Cobweb Entanglement]
+[04Jul2025 03:25:45.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Kira_R
+[04Jul2025 03:25:45.491] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[04Jul2025 03:27:15.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[04Jul2025 03:27:39.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Good Demoman]
+[04Jul2025 03:27:50.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Dark Metallurgy]

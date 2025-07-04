@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/fishing_rod_repairing": {
+    "criteria": {
+      "has_fishing_rod": "2025-07-04 03:12:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_horse_armor": "2025-07-04 00:44:45 +0000"
@@ -461,6 +467,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2025-07-04 03:11:06 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/shield_repairing": {
     "criteria": {
       "has_shield": "2025-07-04 01:53:32 +0000"
@@ -572,6 +584,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-04 01:28:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-04 03:11:06 +0000"
     },
     "done": true
   },
@@ -824,6 +842,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-07-04 01:49:22 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-07-04 02:58:42 +0000"
     },
     "done": true
   },
@@ -2132,6 +2156,13 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-07-04 02:58:42 +0000",
+      "in_better_spider_dungeon": "2025-07-04 03:01:12 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-07-04 00:13:46 +0000"
@@ -2212,6 +2243,7 @@
       "minecraft:lukewarm_ocean": "2025-07-04 00:14:53 +0000",
       "minecraft:river": "2025-07-04 00:20:17 +0000",
       "minecraft:dripstone_caves": "2025-07-04 01:26:55 +0000",
+      "minecraft:cold_ocean": "2025-07-04 03:11:35 +0000",
       "minecraft:forest": "2025-07-04 00:16:55 +0000",
       "minecraft:windswept_forest": "2025-07-04 01:38:57 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-04 00:26:09 +0000",
@@ -2329,6 +2361,12 @@
   "dungeonnowloading:recipes/misc/spawner_blade": {
     "criteria": {
       "has_spawner_frame": "2025-07-04 02:17:28 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-07-04 03:01:12 +0000"
     },
     "done": true
   },
