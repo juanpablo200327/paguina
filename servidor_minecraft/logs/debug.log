@@ -11935,3 +11935,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [04Jul2025 21:50:54.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Kira_R]
 [04Jul2025 21:52:06.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jul2025 21:52:06.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 21:52:52.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Phantom
+[04Jul2025 21:52:52.475] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:821, y:100, z:-375, dim:minecraft:overworld]
+[04Jul2025 21:52:52.482] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[04Jul2025 21:54:05.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> que pedo pablito xd
+[04Jul2025 21:54:47.744] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[04Jul2025 21:55:12.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[04Jul2025 21:55:54.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> casi te matan
+[04Jul2025 21:56:03.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> jsjs esque cuido a mi hermanito y juego xd
+[04Jul2025 21:56:11.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> buscaba lana y encontre esto
+[04Jul2025 21:56:50.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> ya vi jajjajja
+[04Jul2025 21:57:06.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 21:57:06.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 21:57:39.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by Skeleton
+[04Jul2025 21:57:39.332] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kira_R was created at position [x:665, y:90, z:52, dim:minecraft:overworld]
+[04Jul2025 21:57:39.342] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[04Jul2025 21:57:40.989] [Server thread/DEBUG] [twilightforest/]: Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) respawned and received items held in storage
+[04Jul2025 21:57:47.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Kira_R to pablito]
+[04Jul2025 21:59:58.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by Skeleton
+[04Jul2025 21:59:58.775] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kira_R was created at position [x:656, y:94, z:54, dim:minecraft:overworld]
+[04Jul2025 21:59:58.801] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[04Jul2025 22:00:00.620] [Server thread/DEBUG] [twilightforest/]: Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) respawned and received items held in storage
+[04Jul2025 22:00:08.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Kira_R to pablito]
+[04Jul2025 22:00:27.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Kira_R to pablito]
+[04Jul2025 22:00:42.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by Skeleton
+[04Jul2025 22:00:42.639] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[04Jul2025 22:00:44.830] [Server thread/DEBUG] [twilightforest/]: Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) respawned and received items held in storage
+[04Jul2025 22:00:45.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Kira_R to pablito]
+[04Jul2025 22:01:17.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[04Jul2025 22:01:51.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to funado69]
+[04Jul2025 22:02:06.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 22:02:06.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
