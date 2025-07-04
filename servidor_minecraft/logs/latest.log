@@ -1422,3 +1422,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [04Jul2025 20:20:51.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> te ignoro
 [04Jul2025 20:20:57.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> cochino
 [04Jul2025 20:20:59.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> bye
+[04Jul2025 20:25:51.547] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:43807] logged in with entity id 23152 at (851.4653925920808, 63.0, -620.8283083642051)
+[04Jul2025 20:25:51.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[04Jul2025 20:25:51.617] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[04Jul2025 20:25:51.747] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[04Jul2025 20:25:51.748] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[04Jul2025 20:25:57.308] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[04Jul2025 20:25:58.311] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[04Jul2025 20:25:58.312] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[04Jul2025 20:26:20.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> que paso pablitoo
+[04Jul2025 20:26:27.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> vamos por ahi
+[04Jul2025 20:29:58.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[04Jul2025 20:31:05.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> pera pablito problemas tecnicos
