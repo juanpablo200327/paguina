@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-07-04 01:47:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-07-04 01:25:45 +0000"
@@ -134,6 +140,12 @@
   "aether:recipes/tools/diamond_hoe_repairing": {
     "criteria": {
       "has_diamond_hoe": "2025-07-04 00:44:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-04 01:49:19 +0000"
     },
     "done": true
   },
@@ -272,6 +284,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-07-04 01:51:20 +0000",
       "minecraft:witch": "2025-07-04 00:53:13 +0000",
       "minecraft:zombie": "2025-07-04 01:15:25 +0000"
     },
@@ -361,6 +374,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-07-04 01:45:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-07-04 01:53:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-07-04 01:30:16 +0000"
@@ -370,6 +395,12 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-07-04 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-04 01:47:37 +0000"
     },
     "done": true
   },
@@ -430,6 +461,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-07-04 00:59:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-07-04 01:45:34 +0000"
     },
     "done": true
   },
@@ -517,6 +554,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-04 01:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-07-04 01:49:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-07-04 01:02:26 +0000"
@@ -526,6 +575,12 @@
   "spawn:recipes/tuna/tuna_sandwich_from_bread": {
     "criteria": {
       "has_item": "2025-07-04 00:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-04 01:45:34 +0000"
     },
     "done": true
   },
@@ -613,6 +668,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-04 01:49:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-04 01:30:16 +0000"
@@ -640,6 +701,18 @@
   "the_bumblezone:root": {
     "criteria": {
       "instant_granted": "2025-07-04 00:13:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-04 01:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-07-04 01:47:37 +0000"
     },
     "done": true
   },
@@ -676,6 +749,12 @@
   "aether:recipes/decorations/skyroot_beehive": {
     "criteria": {
       "has_honeycomb": "2025-07-04 00:59:16 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_helmet_repairing": {
+    "criteria": {
+      "has_chainmail_helmet": "2025-07-04 01:49:30 +0000"
     },
     "done": true
   },
@@ -808,6 +887,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-07-04 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-04 01:47:37 +0000"
     },
     "done": true
   },
@@ -967,6 +1052,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-04 01:49:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_leggings": "2025-07-04 01:00:46 +0000"
@@ -1057,9 +1148,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-04 01:49:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-07-04 01:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-07-04 01:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-04 01:49:22 +0000"
     },
     "done": true
   },
@@ -1108,6 +1217,12 @@
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-07-04 00:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-07-04 01:45:34 +0000"
     },
     "done": true
   },
@@ -1201,6 +1316,12 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-04 01:28:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-07-04 01:49:19 +0000"
     },
     "done": true
   },
@@ -1306,6 +1427,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-07-04 01:47:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-07-04 01:02:26 +0000"
@@ -1372,6 +1499,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-04 01:49:22 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_gloves_repairing": {
     "criteria": {
       "has_diamond_gloves": "2025-07-04 01:05:10 +0000"
@@ -1387,6 +1520,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-07-04 01:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-07-04 01:45:34 +0000"
     },
     "done": true
   },
@@ -1552,6 +1691,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-04 01:49:22 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_boots_repairing": {
     "criteria": {
       "has_diamond_boots": "2025-07-04 01:03:31 +0000"
@@ -1573,6 +1718,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-04 01:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-04 01:47:37 +0000"
     },
     "done": true
   },
@@ -1648,15 +1799,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-04 01:45:34 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2025-07-04 01:02:26 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-07-04 01:45:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-04 00:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-04 01:45:34 +0000"
     },
     "done": true
   },
@@ -1699,6 +1868,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-07-04 00:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-04 01:47:37 +0000"
     },
     "done": true
   },
@@ -1771,6 +1946,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-04 01:47:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-07-04 00:48:53 +0000",
@@ -1815,9 +1996,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-04 01:45:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-07-04 00:49:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-07-04 01:47:37 +0000"
     },
     "done": true
   },

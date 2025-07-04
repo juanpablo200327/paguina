@@ -19288,3 +19288,46 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [04Jul2025 01:45:54.968] [Server thread/DEBUG] [tombstone/]: A new grave of the player Benjamon was created at position [x:1037, y:63, z:-436, dim:minecraft:overworld]
 [04Jul2025 01:45:54.973] [Server thread/INFO] [tombstone/]: The player Benjamon has successfully been saved
 [04Jul2025 01:45:56.369] [Server thread/DEBUG] [twilightforest/]: Player Benjamon (58e2a768-1f06-341f-9788-fc90ad8d79db) respawned and received items held in storage
+[04Jul2025 01:48:00.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benjamon was slain by Kira_R
+[04Jul2025 01:48:00.658] [Server thread/DEBUG] [tombstone/]: A new grave of the player Benjamon was created at position [x:1029, y:63, z:-435, dim:minecraft:overworld]
+[04Jul2025 01:48:00.663] [Server thread/INFO] [tombstone/]: The player Benjamon has successfully been saved
+[04Jul2025 01:48:02.310] [Server thread/DEBUG] [twilightforest/]: Player Benjamon (58e2a768-1f06-341f-9788-fc90ad8d79db) respawned and received items held in storage
+[04Jul2025 01:48:15.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> ultima y carcel
+[04Jul2025 01:48:17.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by Benjamon using [BattleAxe]
+[04Jul2025 01:48:17.158] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kira_R was created at position [x:1013, y:66, z:-452, dim:minecraft:overworld]
+[04Jul2025 01:48:17.161] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[04Jul2025 01:48:20.563] [Server thread/DEBUG] [twilightforest/]: Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) respawned and received items held in storage
+[04Jul2025 01:48:32.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucyyxd> JAJAJJAj pablito te robe papas
+[04Jul2025 01:48:43.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benjamon has made the advancement [Knowledge of Death]
+[04Jul2025 01:48:43.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benjamon has reached the goal [Chain Death]
+[04Jul2025 01:48:43.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benjamon was slain by Kira_R
+[04Jul2025 01:48:43.314] [Server thread/DEBUG] [tombstone/]: A new grave of the player Benjamon was created at position [x:1030, y:63, z:-425, dim:minecraft:overworld]
+[04Jul2025 01:48:43.318] [Server thread/INFO] [tombstone/]: The player Benjamon has successfully been saved
+[04Jul2025 01:48:44.943] [Server thread/DEBUG] [twilightforest/]: Player Benjamon (58e2a768-1f06-341f-9788-fc90ad8d79db) respawned and received items held in storage
+[04Jul2025 01:49:08.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[04Jul2025 01:49:26.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[04Jul2025 01:49:46.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 01:49:46.401] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 01:49:46.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2134ms or 42 ticks behind
+[04Jul2025 01:50:03.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2216ms or 44 ticks behind
+[04Jul2025 01:50:34.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[04Jul2025 01:50:42.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Kira_R
+[04Jul2025 01:50:42.213] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:787, y:71, z:-463, dim:minecraft:overworld]
+[04Jul2025 01:50:42.218] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[04Jul2025 01:50:45.279] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[04Jul2025 01:50:52.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[04Jul2025 01:50:55.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[04Jul2025 01:51:03.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Safe Haven]
+[04Jul2025 01:53:26.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> mmm
+[04Jul2025 01:54:22.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Kira_R
+[04Jul2025 01:54:22.556] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:771, y:71, z:-464, dim:minecraft:overworld]
+[04Jul2025 01:54:22.559] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[04Jul2025 01:54:24.304] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[04Jul2025 01:54:52.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 01:54:52.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 01:55:02.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [Not Today, Thank You]
+[04Jul2025 01:55:32.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Kira_R
+[04Jul2025 01:55:32.353] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:783, y:72, z:-468, dim:minecraft:overworld]
+[04Jul2025 01:55:32.358] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[04Jul2025 01:55:34.205] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[04Jul2025 01:56:22.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
