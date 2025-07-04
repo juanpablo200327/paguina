@@ -2472,93 +2472,51 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 19:05:09 +0000"
+      "deflected_projectile": "2025-07-04 18:14:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 19:05:09 +0000"
+      "has_rose_bush": "2025-07-04 18:18:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 19:05:09 +0000"
+      "has_oxeye_daisy": "2025-07-04 18:24:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 19:05:09 +0000"
+      "has_oxeye_daisy": "2025-07-04 18:24:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 19:05:09 +0000"
+      "has_dandelion": "2025-07-04 18:24:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/decorations/birch_hanging_sign": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 19:05:09 +0000"
+      "has_stripped_logs": "2025-07-04 18:28:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 19:05:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 19:05:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 19:05:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 19:05:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 19:05:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 19:05:09 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:recipes/decorations/wood/canopy_hanging_sign": {
-    "criteria": {
-      "has_item": "2025-07-04 18:38:48 +0000"
+      "has_log": "2025-07-04 18:28:26 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-07-04 18:31:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-07-04 18:14:28 +0000"
     },
     "done": true
   },
@@ -2574,21 +2532,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-07-04 18:18:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-07-04 18:31:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-07-04 18:28:26 +0000"
     },
     "done": true
   },
@@ -2610,33 +2556,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/flower_banner_pattern": {
+  "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
-      "has_oxeye_daisy": "2025-07-04 18:24:26 +0000"
+      "has_planks": "2025-07-04 18:31:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+  "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
-      "has_log": "2025-07-04 18:28:26 +0000"
+      "has_planks": "2025-07-04 18:31:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+  "twilightforest:recipes/decorations/wood/canopy_hanging_sign": {
     "criteria": {
-      "has_dandelion": "2025-07-04 18:24:28 +0000"
+      "has_item": "2025-07-04 18:38:48 +0000"
     },
     "done": true
   },
   "twilightforest:recipes/building_blocks/wood/canopy_stripped_wood": {
     "criteria": {
       "has_item": "2025-07-04 18:38:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-04 18:31:48 +0000"
     },
     "done": true
   },
@@ -2652,15 +2592,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+  "aether:recipes/tools/diamond_shovel_repairing": {
     "criteria": {
-      "has_oxeye_daisy": "2025-07-04 18:24:26 +0000"
+      "has_diamond_shovel": "2025-07-04 19:24:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
+  "aether:recipes/tools/diamond_axe_repairing": {
     "criteria": {
-      "has_planks": "2025-07-04 18:31:48 +0000"
+      "has_diamond_axe": "2025-07-04 19:21:58 +0000"
     },
     "done": true
   },
