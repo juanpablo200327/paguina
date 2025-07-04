@@ -678,6 +678,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-07-04 20:00:56 +0000",
       "cooked_beef": "2025-07-03 04:46:44 +0000",
       "baked_potato": "2025-07-03 03:16:31 +0000",
       "apple": "2025-07-03 03:22:17 +0000",
@@ -2589,6 +2590,24 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-07-04 19:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-07-04 20:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-04 20:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-04 20:00:29 +0000"
     },
     "done": true
   },
