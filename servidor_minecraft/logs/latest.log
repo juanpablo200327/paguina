@@ -259,3 +259,37 @@
 [04Jul2025 01:02:30.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benjamon has made the advancement [Cover Me with Diamonds]
 [04Jul2025 01:03:23.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Benjamon to funado69]
 [04Jul2025 01:03:31.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [Cover Me with Diamonds]
+[04Jul2025 01:09:12.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Stone Age]
+[04Jul2025 01:11:18.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucyyxd> una llama me quiere matar
+[04Jul2025 01:11:26.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucyyxd> :c
+[04Jul2025 01:11:37.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [The More You Know!]
+[04Jul2025 01:12:29.372] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:55665] logged in with entity id 54445 at (787.385471134312, 71.0, -456.1529235597654)
+[04Jul2025 01:12:29.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[04Jul2025 01:12:29.443] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[04Jul2025 01:12:29.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [Isn't It Iron Pick]
+[04Jul2025 01:12:31.375] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[04Jul2025 01:12:31.376] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[04Jul2025 01:12:36.397] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[04Jul2025 01:12:37.402] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[04Jul2025 01:12:37.403] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[04Jul2025 01:14:54.391] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/49025, l='ServerLevel[world]', x=955.57, y=67.00, z=-459.21] died, message: 'Unemployed was slain by Door Knight'
+[04Jul2025 01:16:06.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Kira_R]
+[04Jul2025 01:16:22.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [A Strange Grave Dust]
+[04Jul2025 01:17:33.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Double Trouble]
+[04Jul2025 01:17:45.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was blown up by Creeper
+[04Jul2025 01:17:45.211] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[04Jul2025 01:17:51.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by Zombie Bruiser
+[04Jul2025 01:17:51.705] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[04Jul2025 01:18:12.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Peaceful]
+[04Jul2025 01:18:16.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Hard]
+[04Jul2025 01:18:30.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported lucyyxd to pablito]
+[04Jul2025 01:18:40.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Kira_R to pablito]
+[04Jul2025 01:18:52.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Kira_R to pablito]
+[04Jul2025 01:19:18.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Kira_R to pablito]
+[04Jul2025 01:20:06.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Neighborhood Brawl]
+[04Jul2025 01:20:29.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Kira_R to pablito]
+[04Jul2025 01:21:06.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to PoH159]
+[04Jul2025 01:21:54.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Benjamon]
+[04Jul2025 01:25:38.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> quien me robo?
+[04Jul2025 01:25:57.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> :c
+[04Jul2025 01:26:02.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> fue dany y sus pandilleros
