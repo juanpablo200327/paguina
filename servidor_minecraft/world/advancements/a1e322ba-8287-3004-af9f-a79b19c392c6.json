@@ -1886,5 +1886,23 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "thorn_rose": "2025-07-04 00:15:17 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/misc/thorn_rose_to_red": {
+    "criteria": {
+      "has_item": "2025-07-04 00:15:17 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/overkill": {
+    "criteria": {
+      "overkill": "2025-07-04 00:17:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

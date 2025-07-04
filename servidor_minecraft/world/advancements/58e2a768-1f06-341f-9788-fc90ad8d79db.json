@@ -5,18 +5,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 00:10:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 00:10:40 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-07-04 00:10:22 +0000"
@@ -35,12 +23,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 00:10:40 +0000"
-    },
-    "done": false
-  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-07-04 00:10:22 +0000"
@@ -52,12 +34,6 @@
       "instant_granted": "2025-07-04 00:10:22 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 00:10:40 +0000"
-    },
-    "done": false
   },
   "call_of_drowner:cod": {
     "criteria": {
@@ -77,29 +53,29 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 00:10:40 +0000"
+      "bornin_chaos_0": "2025-07-04 00:10:22 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "faded_conquest_2:faded_2": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 00:10:40 +0000"
+      "faded_2_0": "2025-07-04 00:10:22 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2025-07-04 00:10:22 +0000"
+    },
+    "done": true
   },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-07-04 00:10:23 +0000"
     },
     "done": false
-  },
-  "born_in_chaos_v1:bornin_chaos": {
-    "criteria": {
-      "bornin_chaos_0": "2025-07-04 00:10:22 +0000"
-    },
-    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -113,51 +89,9 @@
     },
     "done": false
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 00:10:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 00:10:40 +0000"
-    },
-    "done": false
-  },
-  "faded_conquest_2:faded_2": {
-    "criteria": {
-      "faded_2_0": "2025-07-04 00:10:22 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 00:10:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 00:10:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 00:10:40 +0000"
-    },
-    "done": false
-  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-07-04 00:10:23 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 00:10:40 +0000"
     },
     "done": false
   },
@@ -167,12 +101,6 @@
     },
     "done": false
   },
-  "the_bumblezone:wiki": {
-    "criteria": {
-      "instant_granted": "2025-07-04 00:10:22 +0000"
-    },
-    "done": true
-  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-07-04 00:10:23 +0000"
@@ -181,9 +109,65 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-07-04 00:17:27 +0000",
+      "minecraft:forest": "2025-07-04 00:16:48 +0000",
       "minecraft:plains": "2025-07-04 00:10:23 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 00:17:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-07-04 00:17:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 00:17:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-07-04 00:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-04 00:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-07-04 00:21:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2025-07-04 00:21:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-07-04 00:21:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-04 00:21:02 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

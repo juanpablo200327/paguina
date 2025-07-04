@@ -2451,6 +2451,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
+    "criteria": {
+      "has_item": "2025-07-04 00:15:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_leggings": {
+    "criteria": {
+      "has_item": "2025-07-04 00:15:08 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_ruined_building": "2025-07-03 23:42:11 +0000"
@@ -2481,6 +2493,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-04 00:15:08 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/blue_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2025-07-03 23:48:21 +0000"
@@ -2499,9 +2517,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/arctic_boots": {
+    "criteria": {
+      "has_item": "2025-07-04 00:15:08 +0000"
+    },
+    "done": true
+  },
   "aether:enter_aether": {
     "criteria": {
       "enter_aether": "2025-07-03 23:42:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_helmet": {
+    "criteria": {
+      "has_item": "2025-07-04 00:15:08 +0000"
     },
     "done": true
   },
