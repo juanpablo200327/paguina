@@ -1466,3 +1466,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [04Jul2025 20:43:47.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
 [04Jul2025 20:43:47.334] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
 [04Jul2025 20:50:45.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[04Jul2025 21:01:40.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[04Jul2025 21:06:36.798] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kira_R lost connection: Disconnected
+[04Jul2025 21:06:36.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R left the game
+[04Jul2025 21:06:36.798] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kira_R
+[04Jul2025 21:07:29.440] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kira_R[/127.241.34.139:59593] logged in with entity id 33572 at (807.5366637189504, 63.0, -618.6999999880791)
+[04Jul2025 21:07:29.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R joined the game
+[04Jul2025 21:07:29.494] [Server thread/INFO] [Jade/]: Syncing config to Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6)
+[04Jul2025 21:07:29.785] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kira_R (18)
+[04Jul2025 21:07:29.786] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kira_R
+[04Jul2025 21:07:34.768] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1e322ba-8287-3004-af9f-a79b19c392c6
+[04Jul2025 21:07:35.793] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1e322ba-8287-3004-af9f-a79b19c392c6
+[04Jul2025 21:07:35.794] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
