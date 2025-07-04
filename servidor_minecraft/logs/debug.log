@@ -20102,3 +20102,38 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [04Jul2025 02:47:02.721] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of pablito to connected: {disabled=false, disconnected=false, uuid=7cad6d23-b90d-32e7-a33e-08234c01e126, name=pablito, group=null}
 [04Jul2025 02:47:02.721] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
 [04Jul2025 02:47:03.033] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of pablito: {disabled=false, disconnected=false, uuid=7cad6d23-b90d-32e7-a33e-08234c01e126, name=pablito, group=null}
+[04Jul2025 02:47:53.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[04Jul2025 02:49:13.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to funado69]
+[04Jul2025 02:50:11.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[04Jul2025 02:51:22.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 02:51:22.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 02:51:43.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[04Jul2025 02:51:51.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was doomed to fall by funado69
+[04Jul2025 02:51:51.086] [Server thread/DEBUG] [tombstone/]: A new grave of the player Chantikook was created at position [x:759, y:68, z:-397, dim:minecraft:overworld]
+[04Jul2025 02:51:51.086] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[04Jul2025 02:51:55.914] [Server thread/DEBUG] [twilightforest/]: Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) respawned and received items held in storage
+[04Jul2025 02:52:07.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> funado?
+[04Jul2025 02:52:16.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to PoH159]
+[04Jul2025 02:52:38.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to Kira_R]
+[04Jul2025 02:53:27.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[04Jul2025 02:53:59.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by Dread Hound
+[04Jul2025 02:53:59.474] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kira_R was created at position [x:797, y:64, z:-533, dim:minecraft:overworld]
+[04Jul2025 02:53:59.487] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[04Jul2025 02:54:01.670] [Server thread/DEBUG] [twilightforest/]: Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) respawned and received items held in storage
+[04Jul2025 02:54:27.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Door Knight
+[04Jul2025 02:54:27.771] [Server thread/DEBUG] [tombstone/]: A new grave of the player Chantikook was created at position [x:826, y:63, z:-621, dim:minecraft:overworld]
+[04Jul2025 02:54:27.781] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[04Jul2025 02:54:29.946] [Server thread/DEBUG] [twilightforest/]: Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) respawned and received items held in storage
+[04Jul2025 02:54:33.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
+[04Jul2025 02:54:33.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PoH159> D:
+[04Jul2025 02:54:36.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has reached the goal [Chain Death]
+[04Jul2025 02:54:36.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by Dread Hound
+[04Jul2025 02:54:36.582] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[04Jul2025 02:54:39.230] [Server thread/DEBUG] [twilightforest/]: Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) respawned and received items held in storage
+[04Jul2025 02:56:22.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 02:56:22.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 02:57:08.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported funado69 to pablito]
+[04Jul2025 02:57:45.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Chantikook
+[04Jul2025 02:57:45.582] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:826, y:63, z:-624, dim:minecraft:overworld]
+[04Jul2025 02:57:45.608] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[04Jul2025 02:57:47.954] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
