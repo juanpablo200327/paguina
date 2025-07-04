@@ -2449,12 +2449,6 @@
     },
     "done": true
   },
-  "nova_structures:adventure/find_tavern": {
-    "criteria": {
-      "nova_structures:tavern_oak": "2025-07-04 00:39:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-07-04 00:07:55 +0000"
@@ -2464,6 +2458,12 @@
   "aether:recipes/combat/golden_dart": {
     "criteria": {
       "has_feather": "2025-07-04 00:07:55 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-07-04 00:39:04 +0000"
     },
     "done": true
   },

@@ -209,3 +209,53 @@
 [04Jul2025 00:53:20.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Benjamon to funado69]
 [04Jul2025 00:53:56.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [Knowledge raises the soul]
 [04Jul2025 00:53:57.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Benjamon to funado69]
+[04Jul2025 00:55:41.165] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucyyxd[/127.191.244.134:48967] logged in with entity id 46128 at (804.3024415379085, 63.0, -650.4461323782767)
+[04Jul2025 00:55:41.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd joined the game
+[04Jul2025 00:55:41.243] [Server thread/INFO] [Jade/]: Syncing config to lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce)
+[04Jul2025 00:55:42.007] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lucyyxd (18)
+[04Jul2025 00:55:42.008] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[04Jul2025 00:55:44.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
+[04Jul2025 00:55:47.470] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[04Jul2025 00:55:48.468] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[04Jul2025 00:55:48.469] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) successfully connected to voice chat
+[04Jul2025 00:56:06.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [Stone Age]
+[04Jul2025 00:57:32.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Benjamon to funado69]
+[04Jul2025 00:57:57.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [Hostile Paradise]
+[04Jul2025 00:58:18.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> de dia porfavor D:
+[04Jul2025 00:58:23.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[04Jul2025 00:58:25.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> si crjo
+[04Jul2025 00:58:37.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was slain by Kobold
+[04Jul2025 00:58:37.837] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[04Jul2025 00:58:44.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benjamon was slain by Kobold
+[04Jul2025 00:58:44.044] [Server thread/INFO] [tombstone/]: The player Benjamon has successfully been saved
+[04Jul2025 00:58:50.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Benjamon to funado69]
+[04Jul2025 00:58:53.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
+[04Jul2025 00:59:07.727] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook lost connection: Disconnected
+[04Jul2025 00:59:07.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook left the game
+[04Jul2025 00:59:07.727] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Chantikook
+[04Jul2025 00:59:15.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benjamon has made the advancement [Hostile Paradise]
+[04Jul2025 00:59:17.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [Dark Metallurgy]
+[04Jul2025 00:59:42.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Benjamon) moved too quickly! 5.651782987570186E-4,-320.27907378239934,0.0016955348966121164
+[04Jul2025 00:59:43.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Benjamon) moved too quickly! 0.0011901782986569742,-320.52907378239934,0.003445534896627578
+[04Jul2025 00:59:43.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Benjamon) moved too quickly! 0.001758928314984587,-320.77907378239934,0.005038034942515424
+[04Jul2025 00:59:43.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Benjamon) moved too quickly! 0.0021339283150609845,-321.02907378239934,0.0062880349425427084
+[04Jul2025 00:59:49.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 was kicked for floating too long!
+[04Jul2025 00:59:49.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 lost connection: Flying is not enabled on this server
+[04Jul2025 00:59:49.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 left the game
+[04Jul2025 00:59:49.330] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client funado69
+[04Jul2025 01:00:05.340] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: funado69[/127.165.220.176:33763] logged in with entity id 49086 at (1202.4508990633738, 175.86775982278198, -485.815965105376)
+[04Jul2025 01:00:05.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 joined the game
+[04Jul2025 01:00:05.420] [Server thread/INFO] [Jade/]: Syncing config to funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec)
+[04Jul2025 01:00:05.583] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of funado69 (18)
+[04Jul2025 01:00:05.583] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[04Jul2025 01:00:11.507] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[04Jul2025 01:00:12.509] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[04Jul2025 01:00:12.509] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) successfully connected to voice chat
+[04Jul2025 01:00:14.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 fell from a high place
+[04Jul2025 01:00:14.141] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[04Jul2025 01:00:46.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [Suit Up]
+[04Jul2025 01:01:46.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Benjamon to funado69]
+[04Jul2025 01:02:26.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [Acquire Hardware]
+[04Jul2025 01:02:30.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benjamon has made the advancement [Cover Me with Diamonds]
+[04Jul2025 01:03:23.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Benjamon to funado69]
+[04Jul2025 01:03:31.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [Cover Me with Diamonds]
