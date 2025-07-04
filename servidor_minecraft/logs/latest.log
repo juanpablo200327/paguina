@@ -184,3 +184,15 @@
 [04Jul2025 00:34:33.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
 [04Jul2025 00:34:59.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
 [04Jul2025 00:35:01.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[04Jul2025 00:36:09.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benjamon has made the advancement [Safe Haven]
+[04Jul2025 00:36:55.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Kira_R
+[04Jul2025 00:36:55.501] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[04Jul2025 00:37:48.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Kira_R
+[04Jul2025 00:37:48.048] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[04Jul2025 00:38:13.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[04Jul2025 00:39:04.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [Safe Haven]
+[04Jul2025 00:39:18.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benjamon has made the advancement [Acquire Hardware]
+[04Jul2025 00:44:06.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benjamon has made the advancement [Dungeon Now Loading]
+[04Jul2025 00:44:42.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [Getting an Upgrade]
+[04Jul2025 00:45:13.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
+[04Jul2025 00:45:27.541] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=741, y=64, z=-482} BlockPos{x=741, y=62, z=-483}

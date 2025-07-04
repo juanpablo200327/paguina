@@ -113,9 +113,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/shaper_armor_trim_smithing_template": {
+    "criteria": {
+      "has_shaper_armor_trim_smithing_template": "2025-07-04 00:44:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-07-04 00:34:34 +0000"
+    },
+    "done": true
+  },
+  "spawn:recipes/tuna/tuna_sandwich_from_bread": {
+    "criteria": {
+      "has_item": "2025-07-04 00:34:59 +0000"
     },
     "done": true
   },
@@ -365,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/shaper_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-04 00:44:39 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:story/root": {
     "criteria": {
       "obtain_crafting_table": "2025-07-04 00:25:30 +0000"
@@ -481,6 +499,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2025-07-04 00:35:06 +0000",
       "rotten_flesh": "2025-07-04 00:24:34 +0000"
     },
     "done": false

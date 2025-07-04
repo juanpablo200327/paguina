@@ -126,7 +126,8 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
-      "entered_ruined_building": "2025-06-30 18:59:22 +0000"
+      "entered_ruined_building": "2025-06-30 18:59:22 +0000",
+      "entered_witch_tower": "2025-07-04 00:42:49 +0000"
     },
     "done": false
   },
@@ -2448,6 +2449,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-07-04 00:39:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-07-04 00:07:55 +0000"
@@ -2457,6 +2464,12 @@
   "aether:recipes/combat/golden_dart": {
     "criteria": {
       "has_feather": "2025-07-04 00:07:55 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-07-04 00:39:04 +0000"
     },
     "done": true
   },
