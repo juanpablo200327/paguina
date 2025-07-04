@@ -19756,3 +19756,59 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [04Jul2025 02:26:22.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Jul2025 02:26:42.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to pablito]
 [04Jul2025 02:26:46.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to pablito]
+[04Jul2025 02:27:26.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was blown up by PoH159
+[04Jul2025 02:27:26.334] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kira_R was created at position [x:1273, y:85, z:-498, dim:minecraft:overworld]
+[04Jul2025 02:27:26.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was blown up by PoH159
+[04Jul2025 02:27:26.338] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:1276, y:85, z:-498, dim:minecraft:overworld]
+[04Jul2025 02:27:26.350] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[04Jul2025 02:27:26.350] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[04Jul2025 02:27:29.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [Funeral Theft]
+[04Jul2025 02:27:29.978] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[04Jul2025 02:27:30.806] [Server thread/DEBUG] [twilightforest/]: Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) respawned and received items held in storage
+[04Jul2025 02:27:39.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Kira_R to PoH159]
+[04Jul2025 02:27:48.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported funado69 to PoH159]
+[04Jul2025 02:29:08.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was slain by Kira_R
+[04Jul2025 02:29:08.684] [Server thread/DEBUG] [tombstone/]: A new grave of the player PoH159 was created at position [x:1276, y:85, z:-500, dim:minecraft:overworld]
+[04Jul2025 02:29:08.692] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[04Jul2025 02:29:10.837] [Server thread/DEBUG] [twilightforest/]: Player PoH159 (7b6320b1-8f4a-3f39-9fed-25511a7b9515) respawned and received items held in storage
+[04Jul2025 02:29:46.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported PoH159 to Kira_R]
+[04Jul2025 02:29:54.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported funado69 to PoH159]
+[04Jul2025 02:30:12.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R burned to death
+[04Jul2025 02:30:12.339] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kira_R was created at position [x:1273, y:85, z:-499, dim:minecraft:overworld]
+[04Jul2025 02:30:12.340] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[04Jul2025 02:30:16.225] [Server thread/DEBUG] [twilightforest/]: Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) respawned and received items held in storage
+[04Jul2025 02:30:31.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> hazme tp pablitooo
+[04Jul2025 02:30:32.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Kira_R to PoH159]
+[04Jul2025 02:30:42.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[04Jul2025 02:30:48.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported funado69 to PoH159]
+[04Jul2025 02:30:49.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to PoH159]
+[04Jul2025 02:30:51.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Kira_R to PoH159]
+[04Jul2025 02:31:04.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> quiero un abogado
+[04Jul2025 02:31:17.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[04Jul2025 02:31:22.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 02:31:22.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 02:31:28.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
+[04Jul2025 02:31:28.522] [Server thread/DEBUG] [tombstone/]: A new grave of the player Chantikook was created at position [x:825, y:63, z:-643, dim:minecraft:overworld]
+[04Jul2025 02:31:28.543] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[04Jul2025 02:31:33.709] [Server thread/DEBUG] [twilightforest/]: Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) respawned and received items held in storage
+[04Jul2025 02:31:37.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to Chantikook]
+[04Jul2025 02:32:26.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
+[04Jul2025 02:32:32.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was doomed to fall by PoH159
+[04Jul2025 02:32:32.747] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:782, y:66, z:-432, dim:minecraft:overworld]
+[04Jul2025 02:32:32.749] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[04Jul2025 02:32:33.998] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[04Jul2025 02:32:56.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported funado69 to PoH159]
+[04Jul2025 02:32:57.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[04Jul2025 02:33:14.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Kira_R]
+[04Jul2025 02:33:19.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[04Jul2025 02:34:07.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> pablito es dios
+[04Jul2025 02:34:13.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> dany es judas
+[04Jul2025 02:35:16.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[04Jul2025 02:35:23.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[04Jul2025 02:35:50.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> iba por las cosas pero pablito me encarcelo
+[04Jul2025 02:35:55.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> sin derecho a un abogado
+[04Jul2025 02:36:22.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 02:36:22.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 02:36:34.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Gave 1 [Diamond Shovel] to pablito]
+[04Jul2025 02:36:46.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> pablit?¡
+[04Jul2025 02:36:56.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the weather to clear]

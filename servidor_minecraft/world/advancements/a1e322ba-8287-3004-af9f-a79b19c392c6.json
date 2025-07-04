@@ -792,6 +792,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-03 05:14:05 +0000",
       "minecraft:spider": "2025-07-03 03:28:36 +0000",
+      "minecraft:endermite": "2025-07-04 02:26:29 +0000",
       "minecraft:zombie": "2025-07-03 04:02:45 +0000"
     },
     "done": false
@@ -1942,6 +1943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-04 02:31:53 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_chestplate_repairing": {
     "criteria": {
       "has_diamond_chestplate": "2025-07-04 02:11:16 +0000"
@@ -1957,6 +1964,18 @@
   "aether:recipes/combat/diamond_leggings_repairing": {
     "criteria": {
       "has_diamond_leggings": "2025-07-04 02:11:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-04 02:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-04 02:31:53 +0000"
     },
     "done": true
   },
