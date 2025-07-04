@@ -1378,3 +1378,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [04Jul2025 19:22:43.194] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
 [04Jul2025 19:22:56.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
 [04Jul2025 19:24:07.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[04Jul2025 19:35:14.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[04Jul2025 19:38:31.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was killed by Witch using magic
+[04Jul2025 19:38:31.360] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[04Jul2025 19:40:29.867] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:40097] logged in with entity id 8570 at (858.7183758131482, 63.0, -655.0672952370794)
+[04Jul2025 19:40:29.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[04Jul2025 19:40:29.957] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[04Jul2025 19:40:30.068] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[04Jul2025 19:40:30.069] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
