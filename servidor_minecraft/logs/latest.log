@@ -1273,3 +1273,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [04Jul2025 17:45:24.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diffyculty hard<--[HERE]
 [04Jul2025 17:50:19.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
 [04Jul2025 18:00:02.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[04Jul2025 18:09:53.766] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kira_R[/127.241.34.139:48837] logged in with entity id 6591 at (809.5183947760852, 63.0, -647.666559730663)
+[04Jul2025 18:09:53.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R joined the game
+[04Jul2025 18:09:53.825] [Server thread/INFO] [Jade/]: Syncing config to Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6)
+[04Jul2025 18:09:55.111] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kira_R (18)
+[04Jul2025 18:09:55.112] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kira_R
+[04Jul2025 18:09:59.267] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1e322ba-8287-3004-af9f-a79b19c392c6
+[04Jul2025 18:10:00.269] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1e322ba-8287-3004-af9f-a79b19c392c6
+[04Jul2025 18:10:00.269] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
+[04Jul2025 18:11:42.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[04Jul2025 18:13:15.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[04Jul2025 18:13:20.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[04Jul2025 18:13:23.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
