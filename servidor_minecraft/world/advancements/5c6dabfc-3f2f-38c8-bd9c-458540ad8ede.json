@@ -2747,12 +2747,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-04 03:36:21 +0000"
-    },
-    "done": false
-  },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2025-07-04 03:27:50 +0000"

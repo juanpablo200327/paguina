@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-07-04 03:41:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-04 01:28:37 +0000"
@@ -32,6 +38,12 @@
   "takesapillage:root": {
     "criteria": {
       "always": "2025-07-04 00:13:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-07-04 03:41:32 +0000"
     },
     "done": true
   },
@@ -92,6 +104,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-07-04 01:25:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-04 03:41:37 +0000"
     },
     "done": true
   },
@@ -215,9 +233,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-04 03:41:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-04 02:27:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-07-04 03:41:32 +0000"
     },
     "done": true
   },
@@ -278,6 +308,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-07-04 00:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-04 03:41:34 +0000"
     },
     "done": true
   },
@@ -377,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-04 03:41:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-04 02:27:29 +0000"
@@ -389,9 +431,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-04 03:41:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-07-04 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-04 03:41:34 +0000"
     },
     "done": true
   },
@@ -404,6 +458,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-07-04 03:31:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-04 03:41:34 +0000"
     },
     "done": true
   },
@@ -719,6 +779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-04 03:41:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-07-04 00:56:06 +0000"
@@ -728,6 +794,12 @@
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-07-04 00:13:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-07-04 03:41:32 +0000"
     },
     "done": true
   },
@@ -794,6 +866,12 @@
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-07-04 00:24:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-04 03:41:34 +0000"
     },
     "done": true
   },
@@ -911,6 +989,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-04 03:41:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-07-04 03:41:35 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_beehive": {
     "criteria": {
       "has_honeycomb": "2025-07-04 00:59:16 +0000"
@@ -959,9 +1049,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-04 03:41:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-07-04 00:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-04 03:41:34 +0000"
     },
     "done": true
   },
@@ -1157,6 +1259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-04 03:41:34 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
       "bumbling_beepartments": "2025-07-04 00:13:46 +0000"
@@ -1229,6 +1337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-04 03:41:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-07-04 00:27:34 +0000"
@@ -1238,6 +1352,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-07-04 01:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-04 03:41:34 +0000"
     },
     "done": true
   },
@@ -1481,9 +1601,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wayfinder_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wayfinder_armor_trim_smithing_template": "2025-07-04 03:40:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-07-04 00:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-04 03:41:34 +0000"
     },
     "done": true
   },
@@ -1496,6 +1628,12 @@
   "aether:recipes/building_blocks/blue_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2025-07-04 01:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-07-04 03:41:32 +0000"
     },
     "done": true
   },
@@ -1592,6 +1730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-04 03:41:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2025-07-04 00:59:16 +0000"
@@ -1631,6 +1775,12 @@
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2025-07-04 00:14:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-04 03:41:37 +0000"
     },
     "done": true
   },
@@ -1739,6 +1889,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-07-04 01:55:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-04 03:41:34 +0000"
     },
     "done": true
   },
@@ -1868,6 +2024,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wayfinder_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-04 03:40:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-07-04 00:59:15 +0000"
@@ -1964,6 +2126,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-04 03:41:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-04 01:28:37 +0000"
@@ -2039,6 +2207,12 @@
   "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
     "criteria": {
       "loot_simple_dungeon": "2025-07-04 02:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-04 03:41:34 +0000"
     },
     "done": true
   },
@@ -2141,6 +2315,12 @@
   "aether:enter_aether": {
     "criteria": {
       "enter_aether": "2025-07-04 00:57:57 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-07-04 03:43:06 +0000"
     },
     "done": true
   },
@@ -2247,6 +2427,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-07-04 03:41:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-04 00:59:17 +0000"
@@ -2300,6 +2486,7 @@
       "minecraft:cold_ocean": "2025-07-04 03:11:35 +0000",
       "minecraft:forest": "2025-07-04 00:16:55 +0000",
       "minecraft:windswept_forest": "2025-07-04 01:38:57 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-04 03:45:16 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-04 00:26:09 +0000",
       "minecraft:plains": "2025-07-04 00:13:46 +0000"
     },
@@ -2357,6 +2544,12 @@
       "rotten_flesh": "2025-07-04 00:24:34 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-04 03:41:34 +0000"
+    },
+    "done": true
   },
   "aether:recipes/combat/wooden_sword_repairing": {
     "criteria": {
@@ -2448,9 +2641,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-04 03:41:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-07-04 00:25:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-07-04 03:41:52 +0000"
     },
     "done": true
   },

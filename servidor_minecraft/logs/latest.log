@@ -733,3 +733,56 @@
 [04Jul2025 03:37:17.037] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kira_R
 [04Jul2025 03:37:19.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
 [04Jul2025 03:37:22.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[04Jul2025 03:38:21.926] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@676594c[id=<null>,name=Kira_R,properties={},legacy=false] (/127.241.34.139:35651) lost connection: Disconnected
+[04Jul2025 03:39:09.489] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@bf77684[id=<null>,name=Kira_R,properties={},legacy=false] (/127.241.34.139:50157) lost connection: Disconnected
+[04Jul2025 03:39:44.944] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kira_R[/127.241.34.139:38173] logged in with entity id 128307 at (790.4027260779525, 70.0, -478.4850031158995)
+[04Jul2025 03:39:44.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R joined the game
+[04Jul2025 03:39:45.009] [Server thread/INFO] [Jade/]: Syncing config to Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6)
+[04Jul2025 03:39:45.737] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kira_R (18)
+[04Jul2025 03:39:45.738] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kira_R
+[04Jul2025 03:39:53.093] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1e322ba-8287-3004-af9f-a79b19c392c6
+[04Jul2025 03:39:55.098] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1e322ba-8287-3004-af9f-a79b19c392c6
+[04Jul2025 03:39:55.098] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
+[04Jul2025 03:40:02.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Bison
+[04Jul2025 03:40:02.701] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[04Jul2025 03:41:53.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[04Jul2025 03:42:50.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] una mas y te quito el op eh
+[04Jul2025 03:43:08.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> estoy moviendo tu maamada de carcel
+[04Jul2025 03:43:14.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> era en el lobby
+[04Jul2025 03:43:18.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> gil
+[04Jul2025 03:43:20.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> :0
+[04Jul2025 03:43:27.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[04Jul2025 03:43:27.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> no respeta la ley
+[04Jul2025 03:43:41.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ahi ta bien
+[04Jul2025 03:43:50.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> no baboso
+[04Jul2025 03:43:53.260] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:52229] logged in with entity id 130674 at (1213.404670077631, 65.0, -521.4663515293398)
+[04Jul2025 03:43:53.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[04Jul2025 03:43:53.292] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[04Jul2025 03:43:53.486] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[04Jul2025 03:43:53.487] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[04Jul2025 03:43:53.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> era en el lobbt
+[04Jul2025 03:43:55.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> banealo
+[04Jul2025 03:43:58.320] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[04Jul2025 03:43:59.317] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[04Jul2025 03:43:59.317] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[04Jul2025 03:44:13.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to pablito]
+[04Jul2025 03:44:15.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[04Jul2025 03:44:34.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2162ms or 43 ticks behind
+[04Jul2025 03:44:39.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[04Jul2025 03:44:42.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> no respeta
+[04Jul2025 03:44:56.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> Sii se pasa
+[04Jul2025 03:45:03.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> confio
+[04Jul2025 03:45:16.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> ban
+[04Jul2025 03:45:17.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> escondida
+[04Jul2025 03:45:19.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> jajjajjaj
+[04Jul2025 03:45:20.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> mods pls
+[04Jul2025 03:45:26.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[04Jul2025 03:45:50.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> despues la mudo yo
+[04Jul2025 03:46:06.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04Jul2025 03:46:34.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> no gustar y te lo dije desde el principio pa
+[04Jul2025 03:46:52.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04Jul2025 03:47:26.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Sweet Dreams]
+[04Jul2025 03:47:34.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[04Jul2025 03:47:55.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> un faro
+[04Jul2025 03:48:08.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[04Jul2025 03:48:14.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [Bring Home the Beacon]
