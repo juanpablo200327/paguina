@@ -583,13 +583,16 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "transformation_sapling": "2025-07-04 18:16:13 +0000",
       "mangrove_sapling": "2025-07-03 03:27:27 +0000",
       "time_leaves": "2025-06-30 21:45:24 +0000",
       "time_sapling": "2025-07-04 18:04:25 +0000",
       "dark_log": "2025-07-03 04:19:16 +0000",
       "twilight_oak_sapling": "2025-07-04 18:04:31 +0000",
+      "sorting_sapling": "2025-07-04 18:16:07 +0000",
       "hollow_oak_sapling": "2025-07-04 18:04:21 +0000",
       "rainbow_oak_sapling": "2025-07-04 18:04:23 +0000",
+      "mining_sapling": "2025-07-04 18:16:09 +0000",
       "twilight_oak_leaves": "2025-06-30 21:45:21 +0000",
       "dark_leaves": "2025-06-30 21:45:23 +0000",
       "thorn_rose": "2025-07-03 23:13:55 +0000"
@@ -2671,6 +2674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-07-04 18:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-04 18:02:54 +0000"
@@ -2686,6 +2695,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-04 18:02:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-07-04 18:11:01 +0000"
     },
     "done": true
   },
@@ -2734,6 +2749,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-07-04 18:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-07-04 18:19:51 +0000"
     },
     "done": true
   },

@@ -2465,5 +2465,17 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-04 18:14:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-07-04 18:18:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
