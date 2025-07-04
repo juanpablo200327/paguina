@@ -1493,3 +1493,29 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [04Jul2025 21:39:20.877] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1e322ba-8287-3004-af9f-a79b19c392c6
 [04Jul2025 21:39:21.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1e322ba-8287-3004-af9f-a79b19c392c6
 [04Jul2025 21:39:21.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
+[04Jul2025 21:43:16.760] [Worker-Main-121/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Jul2025 21:43:16.764] [Worker-Main-121/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Jul2025 21:43:16.766] [Worker-Main-121/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Jul2025 21:43:16.781] [Worker-Main-121/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Jul2025 21:43:16.783] [Worker-Main-121/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Jul2025 21:43:16.786] [Worker-Main-121/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Jul2025 21:43:16.791] [Worker-Main-121/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Jul2025 21:43:16.791] [Worker-Main-121/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Jul2025 21:43:16.791] [Worker-Main-121/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Jul2025 21:46:37.431] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1f9cc1bc[id=<null>,name=pablito,properties={},legacy=false] (/127.54.255.13:54401): Took too long to log in
+[04Jul2025 21:46:37.434] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1f9cc1bc[id=<null>,name=pablito,properties={},legacy=false] (/127.54.255.13:54401) lost connection: Took too long to log in
+[04Jul2025 21:46:37.473] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Jul2025 21:47:30.592] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3356d713[id=<null>,name=pablito,properties={},legacy=false] (/127.54.255.13:50085) lost connection: Disconnected
+[04Jul2025 21:48:10.533] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@314cb640[id=<null>,name=pablito,properties={},legacy=false] (/127.54.255.13:51527): Took too long to log in
+[04Jul2025 21:48:10.533] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@314cb640[id=<null>,name=pablito,properties={},legacy=false] (/127.54.255.13:51527) lost connection: Took too long to log in
+[04Jul2025 21:48:10.600] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Jul2025 21:49:40.133] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7bd18982[id=<null>,name=pablito,properties={},legacy=false] (/127.54.255.13:58833) lost connection: Disconnected
+[04Jul2025 21:50:01.348] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:49895] logged in with entity id 43070 at (813.9325221671628, 63.0, -623.5113086770333)
+[04Jul2025 21:50:01.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[04Jul2025 21:50:01.393] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[04Jul2025 21:50:01.618] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[04Jul2025 21:50:01.618] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[04Jul2025 21:50:06.869] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[04Jul2025 21:50:07.868] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[04Jul2025 21:50:07.869] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[04Jul2025 21:50:54.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Kira_R]

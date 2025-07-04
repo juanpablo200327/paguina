@@ -112,6 +112,7 @@
       "minecraft:taiga": "2025-07-03 02:26:20 +0000",
       "minecraft:birch_forest": "2025-07-03 02:57:38 +0000",
       "minecraft:beach": "2025-07-03 03:34:49 +0000",
+      "minecraft:dark_forest": "2025-07-04 21:44:29 +0000",
       "minecraft:river": "2025-07-03 02:56:50 +0000",
       "minecraft:dripstone_caves": "2025-07-04 02:18:18 +0000",
       "minecraft:cold_ocean": "2025-07-03 05:35:32 +0000",
@@ -2719,77 +2720,95 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 21:37:07 +0000"
+      "has_leather": "2025-07-04 21:43:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 21:37:07 +0000"
+      "has_leather": "2025-07-04 21:43:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "aether:recipes/tools/aether_saddle": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 21:37:07 +0000"
+      "has_leather": "2025-07-04 21:43:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 21:37:07 +0000"
+      "has_leather": "2025-07-04 21:43:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 21:37:07 +0000"
+      "has_leather": "2025-07-04 21:43:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 21:37:07 +0000"
+      "has_beef": "2025-07-04 21:43:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/misc/leather": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 21:37:07 +0000"
+      "has_rabbit_hide": "2025-07-04 21:44:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/decorations/item_frame": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 21:37:07 +0000"
+      "has_leather": "2025-07-04 21:43:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/combat/leather_boots": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 21:37:07 +0000"
+      "has_leather": "2025-07-04 21:43:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "aether:recipes/combat/leather_gloves": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 21:37:07 +0000"
+      "has_leather": "2025-07-04 21:43:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/food/cooked_beef": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 21:37:07 +0000"
+      "has_beef": "2025-07-04 21:43:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 21:37:07 +0000"
+      "has_leather": "2025-07-04 21:43:42 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-07-04 21:47:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-07-04 21:43:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-07-04 21:43:42 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
