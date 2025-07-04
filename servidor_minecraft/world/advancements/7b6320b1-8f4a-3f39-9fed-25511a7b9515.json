@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/spawner_chestplate": {
+    "criteria": {
+      "has_spawner_frame": "2025-07-04 02:17:28 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_loom": {
     "criteria": {
       "has_string": "2025-07-04 00:49:50 +0000"
@@ -299,6 +305,8 @@
       "minecraft:skeleton": "2025-07-04 02:07:11 +0000",
       "minecraft:spider": "2025-07-04 01:51:20 +0000",
       "minecraft:witch": "2025-07-04 00:53:13 +0000",
+      "minecraft:silverfish": "2025-07-04 02:22:30 +0000",
+      "minecraft:stray": "2025-07-04 02:21:14 +0000",
       "minecraft:zombie": "2025-07-04 01:15:25 +0000"
     },
     "done": false
@@ -843,6 +851,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/spawner_helmet": {
+    "criteria": {
+      "has_spawner_frame": "2025-07-04 02:17:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-04 01:28:37 +0000"
@@ -972,6 +986,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-04 01:30:16 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_boots": {
+    "criteria": {
+      "has_spawner_frame": "2025-07-04 02:17:28 +0000"
     },
     "done": true
   },
@@ -2129,6 +2149,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-07-04 01:45:34 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/spawner_blade": {
+    "criteria": {
+      "has_spawner_frame": "2025-07-04 02:17:28 +0000"
     },
     "done": true
   },
