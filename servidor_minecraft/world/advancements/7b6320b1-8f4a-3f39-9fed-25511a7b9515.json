@@ -296,6 +296,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-07-04 02:07:11 +0000",
       "minecraft:spider": "2025-07-04 01:51:20 +0000",
       "minecraft:witch": "2025-07-04 00:53:13 +0000",
       "minecraft:zombie": "2025-07-04 01:15:25 +0000"
@@ -377,6 +378,12 @@
   "minecraft:recipes/misc/raw_gold": {
     "criteria": {
       "has_raw_gold_block": "2025-07-04 00:59:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-07-04 02:11:26 +0000"
     },
     "done": true
   },
@@ -770,6 +777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-04 02:11:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-07-04 00:56:06 +0000"
@@ -944,6 +957,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 02:07:32 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
       "bornin_chaos_0": "2025-07-04 00:13:45 +0000"
@@ -959,6 +978,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-04 00:59:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-07-04 02:13:43 +0000"
     },
     "done": true
   },
@@ -1715,6 +1740,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/stone_shovel_repairing": {
+    "criteria": {
+      "has_stone_shovel": "2025-07-04 02:16:13 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/ragnarok": {
     "criteria": {
       "log_spam_fixer": "2025-07-04 00:13:46 +0000"
@@ -1742,6 +1773,12 @@
   "aether:recipes/combat/skyroot_iron_vanilla_shield": {
     "criteria": {
       "has_iron_ingot": "2025-07-04 01:02:26 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
+    "criteria": {
+      "loot_simple_dungeon": "2025-07-04 02:08:36 +0000"
     },
     "done": true
   },
@@ -2038,8 +2075,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-04 02:06:52 +0000",
       "cooked_mutton": "2025-07-04 02:04:51 +0000",
       "sweet_berries": "2025-07-04 00:48:53 +0000",
+      "cooked_beef": "2025-07-04 02:11:46 +0000",
       "bread": "2025-07-04 00:35:06 +0000",
       "rotten_flesh": "2025-07-04 00:24:34 +0000"
     },
@@ -2075,6 +2114,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2025-07-04 02:16:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-07-04 00:56:06 +0000"
@@ -2084,6 +2129,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-07-04 01:45:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 02:10:09 +0000"
     },
     "done": true
   },

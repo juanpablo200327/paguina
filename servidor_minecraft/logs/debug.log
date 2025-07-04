@@ -19650,3 +19650,54 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [04Jul2025 02:04:51.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Cobweb Entanglement]
 [04Jul2025 02:06:22.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jul2025 02:06:22.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 02:07:32.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has reached the goal [Strong or Careful]
+[04Jul2025 02:07:32.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from holy damage
+[04Jul2025 02:07:32.251] [Server thread/DEBUG] [tombstone/]: A new grave of the player PoH159 was created at position [x:1100, y:34, z:-235, dim:minecraft:overworld]
+[04Jul2025 02:07:32.252] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[04Jul2025 02:07:35.806] [Server thread/DEBUG] [twilightforest/]: Player PoH159 (7b6320b1-8f4a-3f39-9fed-25511a7b9515) respawned and received items held in storage
+[04Jul2025 02:07:39.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benjamon was slain by Kira_R
+[04Jul2025 02:07:39.047] [Server thread/DEBUG] [tombstone/]: A new grave of the player Benjamon was created at position [x:787, y:71, z:-463, dim:minecraft:overworld]
+[04Jul2025 02:07:39.051] [Server thread/INFO] [tombstone/]: The player Benjamon has successfully been saved
+[04Jul2025 02:07:40.494] [Server thread/DEBUG] [twilightforest/]: Player Benjamon (58e2a768-1f06-341f-9788-fc90ad8d79db) respawned and received items held in storage
+[04Jul2025 02:07:48.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Benjamon to funado69]
+[04Jul2025 02:07:57.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Kira_R
+[04Jul2025 02:07:57.500] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:791, y:70, z:-457, dim:minecraft:overworld]
+[04Jul2025 02:07:57.503] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[04Jul2025 02:08:04.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benjamon was slain by Kira_R
+[04Jul2025 02:08:04.149] [Server thread/DEBUG] [tombstone/]: A new grave of the player Benjamon was created at position [x:785, y:71, z:-469, dim:minecraft:overworld]
+[04Jul2025 02:08:04.153] [Server thread/INFO] [tombstone/]: The player Benjamon has successfully been saved
+[04Jul2025 02:08:05.883] [Server thread/DEBUG] [twilightforest/]: Player Benjamon (58e2a768-1f06-341f-9788-fc90ad8d79db) respawned and received items held in storage
+[04Jul2025 02:08:06.073] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[04Jul2025 02:08:24.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> lucy ven hagamos la casa
+[04Jul2025 02:08:33.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Kira_R
+[04Jul2025 02:08:33.097] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:789, y:70, z:-442, dim:minecraft:overworld]
+[04Jul2025 02:08:33.103] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[04Jul2025 02:08:35.669] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[04Jul2025 02:08:36.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [Simple Dungeon Room]
+[04Jul2025 02:08:37.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Benjamon to funado69]
+[04Jul2025 02:09:36.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> me lo robo
+[04Jul2025 02:09:58.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported lucyyxd to Chantikook]
+[04Jul2025 02:10:09.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [Ashes 'n Bones]
+[04Jul2025 02:10:36.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> kira ven a la casa
+[04Jul2025 02:11:16.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Cover Me with Diamonds]
+[04Jul2025 02:11:22.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 02:11:22.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 02:11:43.598] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Disconnected
+[04Jul2025 02:11:43.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
+[04Jul2025 02:11:43.598] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of lucyyxd
+[04Jul2025 02:11:43.598] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd
+[04Jul2025 02:11:43.761] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player a40c50c1-88ca-3a3e-9120-b3faba79f2ce does not have a secret
+[04Jul2025 02:14:01.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> esa carcel es para quien te robo los diamantes pablito
+[04Jul2025 02:14:05.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> porcia
+[04Jul2025 02:14:11.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> si
+[04Jul2025 02:14:27.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> hlabo del cornudo ese con casa de carton
+[04Jul2025 02:14:31.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> kira ayudale a chanti en la casa
+[04Jul2025 02:14:36.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> yendo
+[04Jul2025 02:14:57.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the weather to clear]
+[04Jul2025 02:16:22.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 02:16:22.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 02:16:22.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benjamon lost connection: Disconnected
+[04Jul2025 02:16:22.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benjamon left the game
+[04Jul2025 02:16:22.735] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Benjamon
+[04Jul2025 02:16:22.735] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Benjamon
+[04Jul2025 02:16:35.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Bring Home the Beacon]
