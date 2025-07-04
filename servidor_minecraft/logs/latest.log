@@ -1267,3 +1267,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [04Jul2025 17:36:05.919] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) successfully connected to voice chat
 [04Jul2025 17:39:38.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
 [04Jul2025 17:40:29.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[04Jul2025 17:44:53.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[04Jul2025 17:44:53.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ifficulty hd<--[HERE]
+[04Jul2025 17:45:24.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Jul2025 17:45:24.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diffyculty hard<--[HERE]
+[04Jul2025 17:50:19.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[04Jul2025 18:00:02.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
