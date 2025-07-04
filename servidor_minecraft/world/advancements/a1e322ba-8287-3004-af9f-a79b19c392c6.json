@@ -1892,6 +1892,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-04 00:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-07-04 00:28:09 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/thorn_rose_to_red": {
     "criteria": {
       "has_item": "2025-07-04 00:15:17 +0000"
