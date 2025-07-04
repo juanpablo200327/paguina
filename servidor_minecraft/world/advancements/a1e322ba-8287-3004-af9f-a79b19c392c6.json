@@ -1891,6 +1891,11 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "transformation_sapling": "2025-07-04 18:26:07 +0000",
+      "sorting_sapling": "2025-07-04 18:26:28 +0000",
+      "hollow_oak_sapling": "2025-07-04 18:26:08 +0000",
+      "rainbow_oak_sapling": "2025-07-04 18:26:07 +0000",
+      "mining_sapling": "2025-07-04 18:26:07 +0000",
       "thorn_rose": "2025-07-04 00:15:17 +0000"
     },
     "done": false
@@ -2474,6 +2479,36 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-07-04 18:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-04 18:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-04 18:24:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-04 18:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-04 18:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-04 18:24:26 +0000"
     },
     "done": true
   },
