@@ -1478,3 +1478,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [04Jul2025 21:07:34.768] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1e322ba-8287-3004-af9f-a79b19c392c6
 [04Jul2025 21:07:35.793] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1e322ba-8287-3004-af9f-a79b19c392c6
 [04Jul2025 21:07:35.794] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
+[04Jul2025 21:15:57.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was shot by Skeleton
+[04Jul2025 21:15:57.538] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[04Jul2025 21:20:06.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[04Jul2025 21:21:38.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
