@@ -1937,9 +1937,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-04 02:44:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-04 02:44:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-04 02:44:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-07-04 02:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-04 02:44:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-04 02:44:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-04 02:44:19 +0000"
     },
     "done": true
   },
@@ -1955,6 +1991,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-04 02:44:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-04 02:44:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-04 02:44:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-04 02:44:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-04 02:44:19 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2025-07-04 02:18:57 +0000"
@@ -1967,9 +2033,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-04 02:44:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-04 02:44:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-07-04 02:44:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-07-04 02:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-07-04 02:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-04 02:44:19 +0000"
     },
     "done": true
   },
@@ -1982,6 +2078,24 @@
   "aether:recipes/combat/diamond_boots_repairing": {
     "criteria": {
       "has_diamond_boots": "2025-07-04 02:11:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-04 02:44:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-04 02:44:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-04 02:44:19 +0000"
     },
     "done": true
   },

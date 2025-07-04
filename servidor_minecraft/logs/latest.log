@@ -596,3 +596,32 @@
 [04Jul2025 02:36:34.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Gave 1 [Diamond Shovel] to pablito]
 [04Jul2025 02:36:46.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> pablit?¡
 [04Jul2025 02:36:56.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the weather to clear]
+[04Jul2025 02:38:24.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Kira_R to pablito]
+[04Jul2025 02:40:47.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> kira
+[04Jul2025 02:41:22.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[04Jul2025 02:42:37.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> eso es precion eh
+[04Jul2025 02:42:41.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> por difamacion
+[04Jul2025 02:42:51.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> estoy escuchando
+[04Jul2025 02:43:07.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> benja debe precion
+[04Jul2025 02:43:12.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> JAJAJAJ
+[04Jul2025 02:43:18.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> BENJA ES UN TERRORISTA
+[04Jul2025 02:43:24.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> HSAHHAHHHA
+[04Jul2025 02:44:57.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> 20 stak es un stak de hierro
+[04Jul2025 02:45:48.634] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=867, y=66, z=-638} BlockPos{x=868, y=64, z=-636}
+[04Jul2025 02:45:48.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=867, y=66, z=-638} BlockPos{x=868, y=64, z=-636}
+[04Jul2025 02:45:48.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=867, y=66, z=-638} BlockPos{x=868, y=64, z=-636}
+[04Jul2025 02:45:58.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> danny eso es precion
+[04Jul2025 02:46:05.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PoH159 moved too quickly! -0.4169726634700055,1.0013359791121417,-10.190566244309707
+[04Jul2025 02:46:13.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to funado69]
+[04Jul2025 02:46:16.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to funado69]
+[04Jul2025 02:46:39.330] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Timed out
+[04Jul2025 02:46:39.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[04Jul2025 02:46:39.330] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[04Jul2025 02:46:55.741] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:36681] logged in with entity id 107130 at (785.4579072228963, 92.0, -417.1051727479944)
+[04Jul2025 02:46:55.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[04Jul2025 02:46:55.797] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[04Jul2025 02:46:55.949] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[04Jul2025 02:46:55.949] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[04Jul2025 02:47:01.718] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[04Jul2025 02:47:02.720] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[04Jul2025 02:47:02.721] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
