@@ -1462,3 +1462,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [04Jul2025 20:37:19.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> no le hagas nanai
 [04Jul2025 20:40:03.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Made funado69 a server operator]
 [04Jul2025 20:41:00.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[04Jul2025 20:43:47.333] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[04Jul2025 20:43:47.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[04Jul2025 20:43:47.334] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[04Jul2025 20:50:45.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
