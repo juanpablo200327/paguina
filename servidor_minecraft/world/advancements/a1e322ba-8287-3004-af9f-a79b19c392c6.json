@@ -782,7 +782,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2025-07-03 03:27:44 +0000"
+      "in_better_zombie_dungeon": "2025-07-03 03:27:44 +0000",
+      "in_better_spider_dungeon": "2025-07-04 02:04:51 +0000"
     },
     "done": false
   },
@@ -1892,6 +1893,18 @@
     },
     "done": false
   },
+  "twilightforest:recipes/misc/thorn_rose_to_red": {
+    "criteria": {
+      "has_item": "2025-07-04 00:15:17 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/overkill": {
+    "criteria": {
+      "overkill": "2025-07-04 00:17:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-07-04 00:28:09 +0000"
@@ -1904,15 +1917,15 @@
     },
     "done": true
   },
-  "nova_structures:adventure/find_tavern": {
+  "aether:recipes/tools/stone_shovel_repairing": {
     "criteria": {
-      "nova_structures:tavern_oak": "2025-07-04 01:37:51 +0000"
+      "has_stone_shovel": "2025-07-04 00:52:25 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/misc/thorn_rose_to_red": {
+  "nova_structures:adventure/find_tavern": {
     "criteria": {
-      "has_item": "2025-07-04 00:15:17 +0000"
+      "nova_structures:tavern_oak": "2025-07-04 01:37:51 +0000"
     },
     "done": true
   },
@@ -1922,15 +1935,9 @@
     },
     "done": true
   },
-  "aether:recipes/tools/stone_shovel_repairing": {
+  "betterdungeons:spider_dungeon": {
     "criteria": {
-      "has_stone_shovel": "2025-07-04 00:52:25 +0000"
-    },
-    "done": true
-  },
-  "netherexp:nether/overkill": {
-    "criteria": {
-      "overkill": "2025-07-04 00:17:24 +0000"
+      "in_better_spider_dungeon": "2025-07-04 02:04:51 +0000"
     },
     "done": true
   },
