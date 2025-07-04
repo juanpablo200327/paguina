@@ -1482,3 +1482,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [04Jul2025 21:15:57.538] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
 [04Jul2025 21:20:06.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
 [04Jul2025 21:21:38.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[04Jul2025 21:37:33.832] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kira_R lost connection: Disconnected
+[04Jul2025 21:37:33.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R left the game
+[04Jul2025 21:37:33.833] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kira_R
+[04Jul2025 21:39:16.577] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kira_R[/127.241.34.139:46943] logged in with entity id 40145 at (783.5, 70.0, -475.5)
+[04Jul2025 21:39:16.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R joined the game
+[04Jul2025 21:39:16.628] [Server thread/INFO] [Jade/]: Syncing config to Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6)
+[04Jul2025 21:39:16.881] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kira_R (18)
+[04Jul2025 21:39:16.882] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kira_R
+[04Jul2025 21:39:20.877] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1e322ba-8287-3004-af9f-a79b19c392c6
+[04Jul2025 21:39:21.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1e322ba-8287-3004-af9f-a79b19c392c6
+[04Jul2025 21:39:21.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
