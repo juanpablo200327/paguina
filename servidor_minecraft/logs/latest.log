@@ -2127,3 +2127,17 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [05Jul2025 17:44:04.886] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [05Jul2025 17:44:04.923] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'natural-scenarios.gl.at.ply.gg:4490'
 [05Jul2025 17:44:04.924] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 4490
+[05Jul2025 18:09:17.086] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: funado69[/127.68.202.52:42763] logged in with entity id 1257 at (142.5, -54.0, -427.5)
+[05Jul2025 18:09:17.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 joined the game
+[05Jul2025 18:09:17.384] [Server thread/INFO] [Jade/]: Syncing config to funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec)
+[05Jul2025 18:09:19.012] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of funado69 (18)
+[05Jul2025 18:09:19.015] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[05Jul2025 18:09:27.996] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[05Jul2025 18:09:28.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[05Jul2025 18:09:28.986] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) successfully connected to voice chat
+[05Jul2025 18:10:32.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[05Jul2025 18:10:43.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[05Jul2025 18:10:50.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[05Jul2025 18:11:03.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[05Jul2025 18:11:13.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[05Jul2025 18:12:11.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
