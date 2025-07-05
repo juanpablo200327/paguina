@@ -2182,3 +2182,10 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [05Jul2025 19:29:25.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
 [05Jul2025 19:29:41.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
 [05Jul2025 19:32:20.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[05Jul2025 19:44:25.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[05Jul2025 19:53:33.352] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:46841] logged in with entity id 17515 at (793.2999004944163, 93.0, -391.22464416389045)
+[05Jul2025 19:53:33.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[05Jul2025 19:53:33.432] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[05Jul2025 19:53:34.851] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[05Jul2025 19:53:34.852] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[05Jul2025 19:53:50.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
