@@ -2337,3 +2337,69 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [05Jul2025 20:21:52.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has reached the goal [The Book of many souls]
 [05Jul2025 20:22:20.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
 [05Jul2025 20:22:49.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[05Jul2025 20:24:33.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported pablito to funado69]
+[05Jul2025 20:25:51.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported funado69 to pablito]
+[05Jul2025 20:26:48.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Peaceful]
+[05Jul2025 20:26:53.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Hard]
+[05Jul2025 20:27:44.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported funado69 to pablito]
+[05Jul2025 20:27:57.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to funado69]
+[05Jul2025 20:28:34.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported pablito to funado69]
+[05Jul2025 20:29:27.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported pablito to funado69]
+[05Jul2025 20:30:10.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[05Jul2025 20:30:14.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[05Jul2025 20:30:18.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Spectator Mode]
+[05Jul2025 20:30:23.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported pablito to funado69]
+[05Jul2025 20:30:28.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported pablito to funado69]
+[05Jul2025 20:30:28.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[05Jul2025 20:31:05.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set funado69's game mode to Survival Mode]
+[05Jul2025 20:31:12.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[05Jul2025 20:31:16.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[05Jul2025 20:31:57.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[05Jul2025 20:32:50.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Valkyrie
+[05Jul2025 20:32:50.289] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[05Jul2025 20:32:57.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[05Jul2025 20:33:00.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to pablito]
+[05Jul2025 20:33:01.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[05Jul2025 20:33:42.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported funado69 to pablito]
+[05Jul2025 20:34:10.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Ice Bucket Challenge]
+[05Jul2025 20:35:47.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3713ms or 74 ticks behind
+[05Jul2025 20:35:47.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito moved too quickly! 5001.49473022706,-86.0,-2634.185999593349
+[05Jul2025 20:35:53.499] [Worker-Main-176/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[05Jul2025 20:35:53.500] [Worker-Main-176/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[05Jul2025 20:35:53.500] [Worker-Main-176/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[05Jul2025 20:35:53.501] [Worker-Main-176/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[05Jul2025 20:35:53.502] [Worker-Main-176/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[05Jul2025 20:35:53.503] [Worker-Main-176/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[05Jul2025 20:35:53.503] [Worker-Main-176/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[05Jul2025 20:36:47.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 lost connection: Disconnected
+[05Jul2025 20:36:47.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 left the game
+[05Jul2025 20:36:47.636] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client funado69
+[05Jul2025 20:37:44.587] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[05Jul2025 20:37:44.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[05Jul2025 20:37:44.587] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[05Jul2025 20:39:31.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Jul2025 20:39:31.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Jul2025 20:39:31.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Jul2025 20:39:31.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Jul2025 20:39:32.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Jul2025 20:39:32.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[05Jul2025 20:39:32.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Jul2025 20:39:32.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_abyss
+[05Jul2025 20:39:32.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[05Jul2025 20:39:32.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Jul2025 20:39:32.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mofus_better_end_:broken_constellation
+[05Jul2025 20:39:32.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_mirror_realm
+[05Jul2025 20:39:32.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[05Jul2025 20:39:32.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Jul2025 20:39:32.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[05Jul2025 20:39:32.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Jul2025 20:39:32.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[05Jul2025 20:39:32.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[05Jul2025 20:39:32.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Jul2025 20:39:32.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
+[05Jul2025 20:39:32.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_mirror_realm): All chunks are saved
+[05Jul2025 20:39:32.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[05Jul2025 20:39:32.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Jul2025 20:39:32.642] [Server thread/INFO] [Framework/]: Unloading server configs...
+[05Jul2025 20:39:32.643] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[05Jul2025 20:39:32.650] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

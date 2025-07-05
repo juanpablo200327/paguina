@@ -10105,3 +10105,214 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [05Jul2025 20:22:49.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
 [05Jul2025 20:24:07.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jul2025 20:24:07.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 20:24:33.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported pablito to funado69]
+[05Jul2025 20:25:51.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported funado69 to pablito]
+[05Jul2025 20:26:48.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Peaceful]
+[05Jul2025 20:26:53.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Hard]
+[05Jul2025 20:27:44.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported funado69 to pablito]
+[05Jul2025 20:27:57.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to funado69]
+[05Jul2025 20:28:34.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported pablito to funado69]
+[05Jul2025 20:29:07.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 20:29:07.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 20:29:27.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported pablito to funado69]
+[05Jul2025 20:30:10.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[05Jul2025 20:30:14.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[05Jul2025 20:30:18.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Spectator Mode]
+[05Jul2025 20:30:23.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported pablito to funado69]
+[05Jul2025 20:30:28.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported pablito to funado69]
+[05Jul2025 20:30:28.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[05Jul2025 20:31:05.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set funado69's game mode to Survival Mode]
+[05Jul2025 20:31:12.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[05Jul2025 20:31:16.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[05Jul2025 20:31:57.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[05Jul2025 20:32:50.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Valkyrie
+[05Jul2025 20:32:50.282] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:662, y:133, z:-527, dim:aether:the_aether]
+[05Jul2025 20:32:50.289] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[05Jul2025 20:32:52.303] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[05Jul2025 20:32:57.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[05Jul2025 20:33:00.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to pablito]
+[05Jul2025 20:33:01.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[05Jul2025 20:33:42.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported funado69 to pablito]
+[05Jul2025 20:34:07.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 20:34:07.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 20:34:10.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Ice Bucket Challenge]
+[05Jul2025 20:35:43.430] [Server thread/DEBUG] [twilightforest/]: Did not find existing portal, making a new one.
+[05Jul2025 20:35:43.431] [Server thread/DEBUG] [twilightforest/]: Portal destination looks unsafe, rerouting!
+[05Jul2025 20:35:43.432] [Server thread/DEBUG] [twilightforest/]: Safely rerouted!
+[05Jul2025 20:35:45.478] [Server thread/DEBUG] [twilightforest/]: Found ideal portal spot for pablito at BlockPos{x=5727, y=5, z=-3003}
+[05Jul2025 20:35:45.804] [Server thread/DEBUG] [twilightforest/]: Caching Dest Portal Blocks to BlockPos{x=728, y=92, z=-369}
+[05Jul2025 20:35:45.822] [Server thread/DEBUG] [twilightforest/]: Caching Src Portal Blocks to BlockPos{x=5727, y=5, z=-3002}
+[05Jul2025 20:35:45.822] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=727, y=92, z=-369}
+[05Jul2025 20:35:45.822] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=728, y=92, z=-370}
+[05Jul2025 20:35:45.822] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=728, y=92, z=-369}
+[05Jul2025 20:35:45.822] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=727, y=92, z=-370}
+[05Jul2025 20:35:47.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3713ms or 74 ticks behind
+[05Jul2025 20:35:47.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito moved too quickly! 5001.49473022706,-86.0,-2634.185999593349
+[05Jul2025 20:35:50.619] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=728, y=92, z=-369}
+[05Jul2025 20:35:50.951] [Worker-Main-164/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (5588 | 25 | -3116).
+[05Jul2025 20:35:50.953] [Worker-Main-164/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[05Jul2025 20:35:50.955] [Worker-Main-164/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 3(0) Rooms
+[05Jul2025 20:35:50.955] [Worker-Main-164/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[05Jul2025 20:35:50.955] [Worker-Main-164/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 5(0) Rooms
+[05Jul2025 20:35:50.955] [Worker-Main-164/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[05Jul2025 20:35:50.955] [Worker-Main-164/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 10(1) Nodes and 6(0) Rooms
+[05Jul2025 20:35:50.955] [Worker-Main-164/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[05Jul2025 20:35:50.956] [Worker-Main-164/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 9(0) Nodes and 5(0) Rooms
+[05Jul2025 20:35:50.956] [Worker-Main-164/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[05Jul2025 20:35:50.956] [Worker-Main-164/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 10(0) Nodes and 6(0) Rooms
+[05Jul2025 20:35:53.499] [Worker-Main-176/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[05Jul2025 20:35:53.500] [Worker-Main-176/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[05Jul2025 20:35:53.500] [Worker-Main-176/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[05Jul2025 20:35:53.501] [Worker-Main-176/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[05Jul2025 20:35:53.502] [Worker-Main-176/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[05Jul2025 20:35:53.503] [Worker-Main-176/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[05Jul2025 20:35:53.503] [Worker-Main-176/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[05Jul2025 20:35:54.358] [Worker-Main-159/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (5727 | 16 | -3006)
+[05Jul2025 20:35:54.364] [Worker-Main-159/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (5727 | 16 | -3006)
+[05Jul2025 20:35:54.364] [Worker-Main-159/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (5732 | 16 | -3008)
+[05Jul2025 20:35:54.369] [Worker-Main-159/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (5732 | 16 | -3008)
+[05Jul2025 20:35:54.369] [Worker-Main-159/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_90 at (5738 | 16 | -2998)
+[05Jul2025 20:35:54.370] [Worker-Main-159/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_90 at (5738 | 16 | -2998)
+[05Jul2025 20:35:54.370] [Worker-Main-159/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (5738 | 16 | -2994)
+[05Jul2025 20:35:54.370] [Worker-Main-159/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (5738 | 16 | -2994)
+[05Jul2025 20:35:54.370] [Worker-Main-159/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (5733 | 16 | -2998)
+[05Jul2025 20:35:54.370] [Worker-Main-159/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (5733 | 16 | -2998)
+[05Jul2025 20:35:54.370] [Worker-Main-159/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/crops with rotation COUNTERCLOCKWISE_90 at (5733 | 16 | -2994)
+[05Jul2025 20:35:54.371] [Worker-Main-159/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/crops with rotation COUNTERCLOCKWISE_90 at (5733 | 16 | -2994)
+[05Jul2025 20:35:54.372] [Worker-Main-159/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (5734 | 16 | -2999)
+[05Jul2025 20:35:54.372] [Worker-Main-159/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (5734 | 16 | -2999)
+[05Jul2025 20:35:54.372] [Worker-Main-159/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (5720 | 7 | -3020)
+[05Jul2025 20:35:54.373] [Worker-Main-159/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (5720 | 7 | -3020)
+[05Jul2025 20:35:54.813] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (5733 | 16 | -3026)
+[05Jul2025 20:35:54.814] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (5733 | 16 | -3026)
+[05Jul2025 20:35:54.814] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (5738 | 16 | -3016)
+[05Jul2025 20:35:54.814] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (5738 | 16 | -3016)
+[05Jul2025 20:35:54.814] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/empty_room_3 with rotation CLOCKWISE_90 at (5738 | 16 | -3013)
+[05Jul2025 20:35:54.815] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/empty_room_3 with rotation CLOCKWISE_90 at (5738 | 16 | -3013)
+[05Jul2025 20:35:54.815] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation COUNTERCLOCKWISE_90 at (5731 | 16 | -3016)
+[05Jul2025 20:35:54.816] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation COUNTERCLOCKWISE_90 at (5731 | 16 | -3016)
+[05Jul2025 20:35:54.816] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (5733 | 16 | -3012)
+[05Jul2025 20:35:54.816] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (5733 | 16 | -3012)
+[05Jul2025 20:35:54.816] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (5734 | 16 | -3017)
+[05Jul2025 20:35:54.817] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (5734 | 16 | -3017)
+[05Jul2025 20:35:54.817] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (5720 | 7 | -3020)
+[05Jul2025 20:35:54.819] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (5720 | 7 | -3020)
+[05Jul2025 20:35:54.827] [Worker-Main-182/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_90 at (5705 | 25 | -3035)
+[05Jul2025 20:35:54.828] [Worker-Main-182/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_90 at (5705 | 25 | -3035)
+[05Jul2025 20:35:54.828] [Worker-Main-182/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (5705 | 16 | -3026)
+[05Jul2025 20:35:54.828] [Worker-Main-182/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (5705 | 16 | -3026)
+[05Jul2025 20:35:54.828] [Worker-Main-182/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (5710 | 16 | -3012)
+[05Jul2025 20:35:54.829] [Worker-Main-182/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (5710 | 16 | -3012)
+[05Jul2025 20:35:54.829] [Worker-Main-182/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (5711 | 7 | -3023)
+[05Jul2025 20:35:54.829] [Worker-Main-182/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (5711 | 7 | -3023)
+[05Jul2025 20:35:54.830] [Worker-Main-182/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (5706 | 7 | -3026)
+[05Jul2025 20:35:54.830] [Worker-Main-182/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (5706 | 7 | -3026)
+[05Jul2025 20:35:54.830] [Worker-Main-182/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (5705 | 7 | -3017)
+[05Jul2025 20:35:54.830] [Worker-Main-182/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (5705 | 7 | -3017)
+[05Jul2025 20:35:54.830] [Worker-Main-182/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (5719 | 7 | -3015)
+[05Jul2025 20:35:54.830] [Worker-Main-182/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (5719 | 7 | -3015)
+[05Jul2025 20:35:54.830] [Worker-Main-182/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (5714 | 7 | -3016)
+[05Jul2025 20:35:54.831] [Worker-Main-182/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (5714 | 7 | -3016)
+[05Jul2025 20:35:54.831] [Worker-Main-182/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (5720 | 7 | -3020)
+[05Jul2025 20:35:54.832] [Worker-Main-182/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (5720 | 7 | -3020)
+[05Jul2025 20:35:55.073] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (5727 | 16 | -3006)
+[05Jul2025 20:35:55.073] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (5727 | 16 | -3006)
+[05Jul2025 20:35:55.073] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (5710 | 16 | -3012)
+[05Jul2025 20:35:55.075] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (5710 | 16 | -3012)
+[05Jul2025 20:35:55.075] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/light_switch with rotation CLOCKWISE_90 at (5711 | 7 | -3005)
+[05Jul2025 20:35:55.075] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/light_switch with rotation CLOCKWISE_90 at (5711 | 7 | -3005)
+[05Jul2025 20:35:55.076] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_90 at (5706 | 7 | -3008)
+[05Jul2025 20:35:55.076] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_90 at (5706 | 7 | -3008)
+[05Jul2025 20:35:55.076] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (5713 | 7 | -2993)
+[05Jul2025 20:35:55.076] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (5713 | 7 | -2993)
+[05Jul2025 20:35:55.076] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (5706 | 7 | -2999)
+[05Jul2025 20:35:55.076] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (5706 | 7 | -2999)
+[05Jul2025 20:35:55.076] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (5701 | 7 | -2994)
+[05Jul2025 20:35:55.076] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (5701 | 7 | -2994)
+[05Jul2025 20:35:55.076] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (5720 | 7 | -3020)
+[05Jul2025 20:35:55.077] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (5720 | 7 | -3020)
+[05Jul2025 20:35:55.077] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation NONE at (5701 | -11 | -2994)
+[05Jul2025 20:35:55.077] [Worker-Main-178/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation NONE at (5701 | -11 | -2994)
+[05Jul2025 20:35:55.593] [Worker-Main-177/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation NONE at (5728 | 16 | -2980)
+[05Jul2025 20:35:55.593] [Worker-Main-177/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation NONE at (5728 | 16 | -2980)
+[05Jul2025 20:35:55.593] [Worker-Main-177/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (5723 | 16 | -2979)
+[05Jul2025 20:35:55.594] [Worker-Main-177/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (5723 | 16 | -2979)
+[05Jul2025 20:35:55.594] [Worker-Main-177/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (5738 | 16 | -2994)
+[05Jul2025 20:35:55.594] [Worker-Main-177/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (5738 | 16 | -2994)
+[05Jul2025 20:35:55.594] [Worker-Main-177/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/crops with rotation COUNTERCLOCKWISE_90 at (5733 | 16 | -2994)
+[05Jul2025 20:35:55.594] [Worker-Main-177/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/crops with rotation COUNTERCLOCKWISE_90 at (5733 | 16 | -2994)
+[05Jul2025 20:35:55.594] [Worker-Main-177/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (5734 | 16 | -2999)
+[05Jul2025 20:35:55.594] [Worker-Main-177/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (5734 | 16 | -2999)
+[05Jul2025 20:35:55.594] [Worker-Main-177/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest_room with rotation CLOCKWISE_90 at (5738 | 16 | -2990)
+[05Jul2025 20:35:55.594] [Worker-Main-177/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest_room with rotation CLOCKWISE_90 at (5738 | 16 | -2990)
+[05Jul2025 20:35:55.594] [Worker-Main-177/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (5738 | 16 | -2985)
+[05Jul2025 20:35:55.594] [Worker-Main-177/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (5738 | 16 | -2985)
+[05Jul2025 20:35:55.594] [Worker-Main-177/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation COUNTERCLOCKWISE_90 at (5733 | 16 | -2989)
+[05Jul2025 20:35:55.595] [Worker-Main-177/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation COUNTERCLOCKWISE_90 at (5733 | 16 | -2989)
+[05Jul2025 20:35:55.595] [Worker-Main-177/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (5733 | 16 | -2985)
+[05Jul2025 20:35:55.595] [Worker-Main-177/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (5733 | 16 | -2985)
+[05Jul2025 20:35:55.595] [Worker-Main-177/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (5734 | 16 | -2990)
+[05Jul2025 20:35:55.595] [Worker-Main-177/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (5734 | 16 | -2990)
+[05Jul2025 20:35:55.595] [Worker-Main-177/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (5732 | 16 | -2981)
+[05Jul2025 20:35:55.597] [Worker-Main-177/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (5732 | 16 | -2981)
+[05Jul2025 20:35:55.602] [Worker-Main-179/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation NONE at (5716 | 16 | -2979)
+[05Jul2025 20:35:55.603] [Worker-Main-179/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation NONE at (5716 | 16 | -2979)
+[05Jul2025 20:35:55.603] [Worker-Main-179/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_180 at (5718 | 16 | -2979)
+[05Jul2025 20:35:55.603] [Worker-Main-179/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_180 at (5718 | 16 | -2979)
+[05Jul2025 20:35:55.603] [Worker-Main-179/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_180 at (5703 | 16 | -2983)
+[05Jul2025 20:35:55.603] [Worker-Main-179/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_180 at (5703 | 16 | -2983)
+[05Jul2025 20:35:55.603] [Worker-Main-179/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/crops with rotation NONE at (5724 | 16 | -2980)
+[05Jul2025 20:35:55.603] [Worker-Main-179/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/crops with rotation NONE at (5724 | 16 | -2980)
+[05Jul2025 20:35:55.604] [Worker-Main-179/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (5723 | 16 | -2979)
+[05Jul2025 20:35:55.604] [Worker-Main-179/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (5723 | 16 | -2979)
+[05Jul2025 20:35:55.604] [Worker-Main-179/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (5713 | 7 | -2993)
+[05Jul2025 20:35:55.604] [Worker-Main-179/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (5713 | 7 | -2993)
+[05Jul2025 20:35:55.604] [Worker-Main-179/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (5713 | 7 | -2989)
+[05Jul2025 20:35:55.604] [Worker-Main-179/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (5713 | 7 | -2989)
+[05Jul2025 20:35:55.605] [Worker-Main-179/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (5706 | 7 | -2982)
+[05Jul2025 20:35:55.605] [Worker-Main-179/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (5706 | 7 | -2982)
+[05Jul2025 20:35:55.606] [Worker-Main-179/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (5701 | 7 | -2994)
+[05Jul2025 20:35:55.606] [Worker-Main-179/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (5701 | 7 | -2994)
+[05Jul2025 20:35:55.606] [Worker-Main-179/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation NONE at (5701 | -11 | -2994)
+[05Jul2025 20:35:55.607] [Worker-Main-179/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation NONE at (5701 | -11 | -2994)
+[05Jul2025 20:36:47.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 lost connection: Disconnected
+[05Jul2025 20:36:47.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 left the game
+[05Jul2025 20:36:47.636] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of funado69
+[05Jul2025 20:36:47.636] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client funado69
+[05Jul2025 20:37:20.685] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of pablito: {disabled=true, disconnected=false, uuid=7cad6d23-b90d-32e7-a33e-08234c01e126, name=pablito, group=null}
+[05Jul2025 20:37:21.587] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of pablito: {disabled=false, disconnected=false, uuid=7cad6d23-b90d-32e7-a33e-08234c01e126, name=pablito, group=null}
+[05Jul2025 20:37:44.587] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[05Jul2025 20:37:44.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[05Jul2025 20:37:44.587] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of pablito
+[05Jul2025 20:37:44.587] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[05Jul2025 20:39:11.496] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 20:39:11.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 20:39:31.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Jul2025 20:39:31.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Jul2025 20:39:31.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Jul2025 20:39:31.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Jul2025 20:39:32.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Jul2025 20:39:32.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[05Jul2025 20:39:32.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Jul2025 20:39:32.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_abyss
+[05Jul2025 20:39:32.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[05Jul2025 20:39:32.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Jul2025 20:39:32.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mofus_better_end_:broken_constellation
+[05Jul2025 20:39:32.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_mirror_realm
+[05Jul2025 20:39:32.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[05Jul2025 20:39:32.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 20:39:32.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 20:39:32.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Jul2025 20:39:32.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[05Jul2025 20:39:32.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Jul2025 20:39:32.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[05Jul2025 20:39:32.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[05Jul2025 20:39:32.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Jul2025 20:39:32.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
+[05Jul2025 20:39:32.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_mirror_realm): All chunks are saved
+[05Jul2025 20:39:32.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[05Jul2025 20:39:32.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Jul2025 20:39:32.642] [Server thread/INFO] [Framework/]: Unloading server configs...
+[05Jul2025 20:39:32.643] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[05Jul2025 20:39:32.645] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[05Jul2025 20:39:32.650] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
