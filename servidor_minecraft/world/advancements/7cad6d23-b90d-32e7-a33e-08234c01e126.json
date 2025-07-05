@@ -6684,6 +6684,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_hedge": {
+    "criteria": {
+      "has_spruce_leaves": "2025-07-05 23:45:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-07-05 23:50:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_park_bench": {
     "criteria": {
       "has_log": "2025-07-05 23:39:27 +0000"
@@ -6699,6 +6711,12 @@
   "cfm:recipes/decorations/stripped_spruce_coffee_table": {
     "criteria": {
       "has_planks": "2025-07-05 23:39:27 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/frame": {
+    "criteria": {
+      "has_campfire": "2025-07-05 23:50:06 +0000"
     },
     "done": true
   },
@@ -6744,6 +6762,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-07-05 23:50:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-07-05 23:47:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_desk": {
     "criteria": {
       "has_planks": "2025-07-05 23:39:27 +0000"
@@ -6765,6 +6795,18 @@
   "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-07-05 23:39:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_hedge": {
+    "criteria": {
+      "has_leaves": "2025-07-05 23:45:19 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/nethers_stove": {
+    "criteria": {
+      "has_campfire": "2025-07-05 23:50:06 +0000"
     },
     "done": true
   },

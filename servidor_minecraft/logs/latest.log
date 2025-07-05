@@ -2145,3 +2145,5 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [05Jul2025 23:27:15.394] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
 [05Jul2025 23:27:15.399] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
 [05Jul2025 23:39:02.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[05Jul2025 23:48:51.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[05Jul2025 23:50:13.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Bonfire Lit]
