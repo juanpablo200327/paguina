@@ -5514,6 +5514,12 @@
     },
     "done": true
   },
+  "mofus_better_end_:void_core_advancement": {
+    "criteria": {
+      "void_core_advancement_0": "2025-07-05 20:21:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-05 18:35:06 +0000"
@@ -6210,6 +6216,12 @@
     },
     "done": true
   },
+  "mofus_better_end_:broken_constellations_advancement": {
+    "criteria": {
+      "broken_constellations_advancement_0": "2025-07-05 20:15:03 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/wooly_bed": {
     "criteria": {
       "has_oak_planks": "2025-07-05 18:52:41 +0000"
@@ -6261,6 +6273,12 @@
   "the_bumblezone:armor/bumble_bee_chestplate_max_flight": {
     "criteria": {
       "bumble_bee_chestplate_max_flight": "2025-07-05 18:34:27 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:void_book_advancement": {
+    "criteria": {
+      "void_book_advancement_0": "2025-07-05 20:21:52 +0000"
     },
     "done": true
   },
@@ -6339,6 +6357,12 @@
   "rusticdelight:recipes/food/cherry_blossom_cookie": {
     "criteria": {
       "has_cherry_sapling": "2025-07-05 18:38:44 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:asteroid_path_advancement": {
+    "criteria": {
+      "asteroid_path_advancement_0": "2025-07-05 20:15:04 +0000"
     },
     "done": true
   },
