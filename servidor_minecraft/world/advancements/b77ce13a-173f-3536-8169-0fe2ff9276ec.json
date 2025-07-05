@@ -5454,6 +5454,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/castleblock/bold_castle_brick_stairs": {
+    "criteria": {
+      "has_item": "2025-07-05 19:52:49 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_acacia_kitchen_sink_dark": {
     "criteria": {
       "has_top": "2025-07-05 18:51:43 +0000"
@@ -6351,6 +6357,18 @@
   "meadow:recipes/wooden_flower_pot": {
     "criteria": {
       "has_oak_planks": "2025-07-05 18:52:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/encased_castle_brick_stairs": {
+    "criteria": {
+      "has_item": "2025-07-05 19:52:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/mossy_castle_brick_stairs": {
+    "criteria": {
+      "has_item": "2025-07-05 19:52:37 +0000"
     },
     "done": true
   },

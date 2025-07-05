@@ -2189,3 +2189,27 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [05Jul2025 19:53:34.851] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
 [05Jul2025 19:53:34.852] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
 [05Jul2025 19:53:50.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[05Jul2025 19:54:02.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[05Jul2025 19:54:20.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> no se te escucha na
+[05Jul2025 19:54:43.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[05Jul2025 19:55:18.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> no se te escucha na
+[05Jul2025 19:55:27.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> no se te escucha na
+[05Jul2025 19:55:27.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> eres tu
+[05Jul2025 19:55:42.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> yo estoy bien
+[05Jul2025 19:55:47.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> quitate el op
+[05Jul2025 19:55:49.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> gay
+[05Jul2025 19:56:30.486] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[05Jul2025 19:56:30.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[05Jul2025 19:56:30.486] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[05Jul2025 19:59:13.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[05Jul2025 19:59:26.601] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:55533] logged in with entity id 18246 at (829.9434399716723, 100.0, -388.30603401559637)
+[05Jul2025 19:59:26.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[05Jul2025 19:59:26.675] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[05Jul2025 19:59:27.651] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[05Jul2025 19:59:27.652] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[05Jul2025 19:59:28.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[05Jul2025 19:59:35.800] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[05Jul2025 19:59:36.797] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[05Jul2025 19:59:36.798] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[05Jul2025 19:59:51.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> me muteo por la musica ajjajjaj
+[05Jul2025 20:00:04.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
