@@ -2172,3 +2172,13 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [05Jul2025 19:22:52.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
 [05Jul2025 19:22:52.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
 [05Jul2025 19:22:52.041] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[05Jul2025 19:28:37.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[05Jul2025 19:28:40.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[05Jul2025 19:28:54.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[05Jul2025 19:28:56.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[05Jul2025 19:29:06.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[05Jul2025 19:29:08.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[05Jul2025 19:29:23.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[05Jul2025 19:29:25.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[05Jul2025 19:29:41.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[05Jul2025 19:32:20.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]

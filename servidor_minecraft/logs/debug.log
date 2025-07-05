@@ -8736,3 +8736,21 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [05Jul2025 19:22:52.076] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 7cad6d23-b90d-32e7-a33e-08234c01e126 does not have a secret
 [05Jul2025 19:22:52.094] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 7cad6d23-b90d-32e7-a33e-08234c01e126 does not have a secret
 [05Jul2025 19:22:52.121] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 7cad6d23-b90d-32e7-a33e-08234c01e126 does not have a secret
+[05Jul2025 19:24:04.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 19:24:04.954] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 19:28:37.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[05Jul2025 19:28:40.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[05Jul2025 19:28:54.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[05Jul2025 19:28:56.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[05Jul2025 19:29:04.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 19:29:04.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 19:29:06.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[05Jul2025 19:29:08.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[05Jul2025 19:29:23.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[05Jul2025 19:29:25.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[05Jul2025 19:29:41.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[05Jul2025 19:32:20.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[05Jul2025 19:34:04.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 19:34:04.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 19:39:04.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 19:39:04.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

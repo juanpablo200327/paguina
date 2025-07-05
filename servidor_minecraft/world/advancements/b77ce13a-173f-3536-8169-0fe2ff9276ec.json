@@ -599,6 +599,7 @@
       "hollow_oak_sapling": "2025-07-04 18:04:21 +0000",
       "rainbow_oak_sapling": "2025-07-04 18:04:23 +0000",
       "mining_sapling": "2025-07-04 18:16:09 +0000",
+      "giant_log": "2025-07-05 19:26:27 +0000",
       "twilight_oak_leaves": "2025-06-30 21:45:21 +0000",
       "dark_leaves": "2025-06-30 21:45:23 +0000",
       "thorn_rose": "2025-07-03 23:13:55 +0000"
@@ -5009,6 +5010,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/diving_board": {
+    "criteria": {
+      "has_wheat": "2025-07-05 19:36:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/magenta_kitchen_sink": {
     "criteria": {
       "has_concrete": "2025-07-05 18:44:31 +0000"
@@ -5687,6 +5694,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-07-05 19:36:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/green_sofa": {
     "criteria": {
       "has_planks": "2025-07-05 18:52:41 +0000"
@@ -5735,6 +5748,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2025-07-05 19:33:57 +0000"
+    },
+    "done": true
+  },
   "endergetic:recipes/transportation/poise_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-05 18:35:12 +0000"
@@ -5756,6 +5775,12 @@
   "cfm:recipes/decorations/cyan_kitchen_sink": {
     "criteria": {
       "has_concrete": "2025-07-05 18:44:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-07-05 19:36:45 +0000"
     },
     "done": true
   },
@@ -5810,6 +5835,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_stool": {
     "criteria": {
       "has_planks": "2025-07-05 18:52:41 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/basket": {
+    "criteria": {
+      "has_wheat": "2025-07-05 19:36:45 +0000"
     },
     "done": true
   },
@@ -5873,9 +5904,21 @@
     },
     "done": true
   },
+  "meadow:recipes/cheese_tart": {
+    "criteria": {
+      "has_wheat": "2025-07-05 19:36:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/magenta_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-07-05 18:44:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-07-05 19:36:45 +0000"
     },
     "done": true
   },
@@ -5888,6 +5931,12 @@
   "cfm:recipes/decorations/oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-07-05 18:52:41 +0000"
+    },
+    "done": true
+  },
+  "some_assembly_required:recipes/food/crafting_shapeless/burger_bun": {
+    "criteria": {
+      "has_wheat": "2025-07-05 19:36:45 +0000"
     },
     "done": true
   },
@@ -6029,6 +6078,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-07-05 19:36:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_cooler": {
     "criteria": {
       "has_planks": "2025-07-05 18:52:41 +0000"
@@ -6098,6 +6153,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_sofa": {
     "criteria": {
       "has_planks": "2025-07-05 18:52:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-07-05 19:36:45 +0000"
     },
     "done": true
   },
@@ -6275,6 +6336,12 @@
     },
     "done": true
   },
+  "twilightforest:giants": {
+    "criteria": {
+      "giant": "2025-07-05 19:31:58 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_lamp": {
     "criteria": {
       "has_planks": "2025-07-05 18:52:41 +0000"
@@ -6314,6 +6381,18 @@
   "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
     "criteria": {
       "has_planks": "2025-07-05 18:52:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/giant_log_to_oak_planks": {
+    "criteria": {
+      "has_item": "2025-07-05 19:26:27 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/straw_hat": {
+    "criteria": {
+      "has_wheat": "2025-07-05 19:36:45 +0000"
     },
     "done": true
   },
@@ -6443,6 +6522,12 @@
     },
     "done": true
   },
+  "meadow:recipes/cheesecake": {
+    "criteria": {
+      "has_wheat": "2025-07-05 19:36:45 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/oak_wine_rack_big": {
     "criteria": {
       "has_oak_planks": "2025-07-05 18:52:41 +0000"
@@ -6563,6 +6648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-07-05 19:33:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-05 18:35:06 +0000"
@@ -6593,6 +6684,12 @@
     },
     "done": true
   },
+  "brewery:recipes/rope": {
+    "criteria": {
+      "has_wheat": "2025-07-05 19:36:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
       "has_planks": "2025-07-05 18:52:41 +0000"
@@ -6602,6 +6699,12 @@
   "cfm:recipes/decorations/oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-05 18:35:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-07-05 19:33:57 +0000"
     },
     "done": true
   },
@@ -6641,15 +6744,33 @@
     },
     "done": true
   },
+  "brewery:recipes/pretzel": {
+    "criteria": {
+      "has_wheat": "2025-07-05 19:36:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_cooler": {
     "criteria": {
       "has_planks": "2025-07-05 18:52:41 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-07-05 19:33:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cyan_lamp": {
     "criteria": {
       "has_planks": "2025-07-05 18:52:41 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/gingerbread": {
+    "criteria": {
+      "has_wheat": "2025-07-05 19:36:45 +0000"
     },
     "done": true
   },
