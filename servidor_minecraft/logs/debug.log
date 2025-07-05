@@ -10131,3 +10131,65 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [05Jul2025 04:25:20.810] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
 [05Jul2025 04:25:22.244] [Server thread/DEBUG] [twilightforest/]: Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) respawned and received items held in storage
 [05Jul2025 04:25:28.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[05Jul2025 04:25:47.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was blown up by Creeper
+[05Jul2025 04:25:47.711] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[05Jul2025 04:25:47.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was blown up by PoH159
+[05Jul2025 04:25:47.965] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:160, y:-29, z:-464, dim:minecraft:overworld]
+[05Jul2025 04:25:47.981] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[05Jul2025 04:25:49.213] [Server thread/DEBUG] [twilightforest/]: Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) respawned and received items held in storage
+[05Jul2025 04:25:53.106] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[05Jul2025 04:25:59.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PoH159> pido perdon
+[05Jul2025 04:26:00.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[05Jul2025 04:26:19.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was blown up by PoH159
+[05Jul2025 04:26:19.902] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:161, y:-29, z:-460, dim:minecraft:overworld]
+[05Jul2025 04:26:19.924] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[05Jul2025 04:26:22.530] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[05Jul2025 04:27:04.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [Forbidden Fruit]
+[05Jul2025 04:27:19.602] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=843, y=67, z=-643}
+[05Jul2025 04:27:27.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 04:27:27.773] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 04:27:29.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> DANI NO HUYAS
+[05Jul2025 04:28:24.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
+[05Jul2025 04:29:17.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[05Jul2025 04:29:48.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[05Jul2025 04:30:01.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[05Jul2025 04:30:03.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 blew up
+[05Jul2025 04:30:03.353] [Server thread/DEBUG] [tombstone/]: A new grave of the player PoH159 was created at position [x:172, y:-29, z:-488, dim:minecraft:overworld]
+[05Jul2025 04:30:03.358] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[05Jul2025 04:30:08.443] [Server thread/DEBUG] [twilightforest/]: Player PoH159 (7b6320b1-8f4a-3f39-9fed-25511a7b9515) respawned and received items held in storage
+[05Jul2025 04:30:09.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [Fruits of the Field]
+[05Jul2025 04:30:09.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
+[05Jul2025 04:31:00.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [The Most Useful Key]
+[05Jul2025 04:31:06.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [The Most Useful Key]
+[05Jul2025 04:31:13.307] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[05Jul2025 04:31:22.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has reached the goal [A Fast Comeback]
+[05Jul2025 04:31:34.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to Kira_R]
+[05Jul2025 04:32:28.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 04:32:28.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 04:33:49.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[05Jul2025 04:34:11.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[05Jul2025 04:34:18.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[05Jul2025 04:34:48.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05Jul2025 04:34:59.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was slain by Spawner Carrier
+[05Jul2025 04:34:59.312] [Server thread/DEBUG] [tombstone/]: A new grave of the player PoH159 was created at position [x:115, y:-29, z:-431, dim:minecraft:overworld]
+[05Jul2025 04:34:59.346] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[05Jul2025 04:35:00.559] [Server thread/DEBUG] [twilightforest/]: Player PoH159 (7b6320b1-8f4a-3f39-9fed-25511a7b9515) respawned and received items held in storage
+[05Jul2025 04:35:07.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
+[05Jul2025 04:35:12.527] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player a1e322ba-8287-3004-af9f-a79b19c392c6 timed out
+[05Jul2025 04:35:12.527] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Kira_R
+[05Jul2025 04:35:12.527] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Kira_R
+[05Jul2025 04:35:12.527] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Kira_R
+[05Jul2025 04:35:12.527] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Kira_R
+[05Jul2025 04:35:12.528] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Kira_R
+[05Jul2025 04:35:12.529] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of a1e322ba-8287-3004-af9f-a79b19c392c6 to disconnected: {disabled=false, disconnected=true, uuid=a1e322ba-8287-3004-af9f-a79b19c392c6, name=Kira_R, group=null}
+[05Jul2025 04:35:14.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kira_R moved too quickly! 8.810108249375958,0.0,5.052099514810834
+[05Jul2025 04:35:14.688] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Kira_R: {disabled=false, disconnected=true, uuid=a1e322ba-8287-3004-af9f-a79b19c392c6, name=Kira_R, group=null}
+[05Jul2025 04:35:14.984] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1e322ba-8287-3004-af9f-a79b19c392c6
+[05Jul2025 04:35:15.984] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1e322ba-8287-3004-af9f-a79b19c392c6
+[05Jul2025 04:35:15.985] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Kira_R to connected: {disabled=false, disconnected=false, uuid=a1e322ba-8287-3004-af9f-a79b19c392c6, name=Kira_R, group=null}
+[05Jul2025 04:35:15.985] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
+[05Jul2025 04:35:16.207] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Kira_R: {disabled=false, disconnected=false, uuid=a1e322ba-8287-3004-af9f-a79b19c392c6, name=Kira_R, group=null}
+[05Jul2025 04:35:17.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Spawner Carrier
+[05Jul2025 04:35:17.817] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:110, y:-29, z:-431, dim:minecraft:overworld]
+[05Jul2025 04:35:17.858] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[05Jul2025 04:35:19.577] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
