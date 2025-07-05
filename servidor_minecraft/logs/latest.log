@@ -2268,3 +2268,66 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [05Jul2025 04:35:15.985] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
 [05Jul2025 04:35:17.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Spawner Carrier
 [05Jul2025 04:35:17.858] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[05Jul2025 04:36:11.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[05Jul2025 04:36:58.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[05Jul2025 04:37:16.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Disconnected
+[05Jul2025 04:37:16.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
+[05Jul2025 04:37:16.299] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd
+[05Jul2025 04:37:16.376] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Jul2025 04:37:44.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[05Jul2025 04:37:46.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [Diamonds!]
+[05Jul2025 04:37:56.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucyyxd[/127.191.244.134:49665] logged in with entity id 13116 at (767.071430295549, 66.0, -584.3018507879294)
+[05Jul2025 04:37:56.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd joined the game
+[05Jul2025 04:37:56.707] [Server thread/INFO] [Jade/]: Syncing config to lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce)
+[05Jul2025 04:37:57.017] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lucyyxd (18)
+[05Jul2025 04:37:57.017] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[05Jul2025 04:38:05.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[05Jul2025 04:38:07.071] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[05Jul2025 04:38:08.077] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[05Jul2025 04:38:08.077] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) successfully connected to voice chat
+[05Jul2025 04:38:22.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05Jul2025 04:38:41.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[05Jul2025 04:39:07.354] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[05Jul2025 04:39:29.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was shot by Skeleton
+[05Jul2025 04:39:29.763] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[05Jul2025 04:39:33.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05Jul2025 04:39:37.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[05Jul2025 04:39:44.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was shot by Skeleton
+[05Jul2025 04:39:44.847] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[05Jul2025 04:39:56.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[05Jul2025 04:39:56.857] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Timed out
+[05Jul2025 04:39:56.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
+[05Jul2025 04:39:56.858] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd
+[05Jul2025 04:40:01.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
+[05Jul2025 04:40:19.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[05Jul2025 04:40:50.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[05Jul2025 04:40:57.456] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucyyxd[/127.191.244.134:35393] logged in with entity id 14710 at (845.6437178477559, 63.0, -634.8397796172026)
+[05Jul2025 04:40:57.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd joined the game
+[05Jul2025 04:40:57.528] [Server thread/INFO] [Jade/]: Syncing config to lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce)
+[05Jul2025 04:40:58.356] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lucyyxd (18)
+[05Jul2025 04:40:58.357] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[05Jul2025 04:41:01.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [Cover Me with Diamonds]
+[05Jul2025 04:41:07.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
+[05Jul2025 04:41:13.778] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[05Jul2025 04:41:14.790] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[05Jul2025 04:41:14.791] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) successfully connected to voice chat
+[05Jul2025 04:41:27.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[05Jul2025 04:41:41.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[05Jul2025 04:41:44.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2294ms or 45 ticks behind
+[05Jul2025 04:42:05.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05Jul2025 04:42:24.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05Jul2025 04:42:41.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[05Jul2025 04:43:06.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[05Jul2025 04:43:19.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> ya estoy me hacen tp cuando puedan
+[05Jul2025 04:43:29.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[05Jul2025 04:43:29.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Labyrinth]
+[05Jul2025 04:43:29.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[05Jul2025 04:44:32.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was slain by Zombie
+[05Jul2025 04:44:32.999] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[05Jul2025 04:44:46.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[05Jul2025 04:45:08.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[05Jul2025 04:45:27.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[05Jul2025 04:45:37.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook fell from a high place
+[05Jul2025 04:45:37.678] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[05Jul2025 04:45:43.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PoH159> tp :V
+[05Jul2025 04:45:51.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
