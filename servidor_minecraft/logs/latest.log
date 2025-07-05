@@ -2152,3 +2152,23 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [05Jul2025 18:34:11.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [Fruits of the Field]
 [05Jul2025 18:46:45.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
 [05Jul2025 18:58:42.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[05Jul2025 19:12:09.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[05Jul2025 19:21:01.765] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:58295] logged in with entity id 12075 at (790.8724959919255, 108.74688241717067, -397.8317375962647)
+[05Jul2025 19:21:01.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[05Jul2025 19:21:01.849] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[05Jul2025 19:21:05.038] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[05Jul2025 19:21:05.039] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[05Jul2025 19:21:16.579] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[05Jul2025 19:21:17.583] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[05Jul2025 19:21:17.585] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[05Jul2025 19:21:36.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to funado69]
+[05Jul2025 19:22:17.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[05Jul2025 19:22:24.596] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7cad6d23-b90d-32e7-a33e-08234c01e126 timed out
+[05Jul2025 19:22:24.596] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player pablito
+[05Jul2025 19:22:24.597] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[05Jul2025 19:22:24.761] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[05Jul2025 19:22:25.750] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[05Jul2025 19:22:25.751] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[05Jul2025 19:22:52.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[05Jul2025 19:22:52.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[05Jul2025 19:22:52.041] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
