@@ -2146,3 +2146,6 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [05Jul2025 18:14:57.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [Ambush]
 [05Jul2025 18:14:59.495] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Gunnarr'/1442, l='ServerLevel[world]', x=62.67, y=63.00, z=-354.30] died: Gunnarr was slain by funado69
 [05Jul2025 18:15:42.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[05Jul2025 18:28:30.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[05Jul2025 18:28:30.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diffyculti hrd<--[HERE]
+[05Jul2025 18:28:39.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Hard
