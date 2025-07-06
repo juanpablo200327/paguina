@@ -6768,6 +6768,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-06 00:00:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_picket_gate": {
     "criteria": {
       "has_gate": "2025-07-05 23:52:49 +0000"
@@ -6789,6 +6795,12 @@
   "cfm:recipes/decorations/oak_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-07-05 23:52:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-07-06 00:04:27 +0000"
     },
     "done": true
   },
