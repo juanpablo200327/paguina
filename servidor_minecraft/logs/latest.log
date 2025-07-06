@@ -3,3 +3,20 @@
 [06Jul2025 00:08:24.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
 [06Jul2025 00:08:34.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
 [06Jul2025 00:10:07.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[06Jul2025 00:27:07.226] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7cad6d23-b90d-32e7-a33e-08234c01e126 timed out
+[06Jul2025 00:27:07.226] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player pablito
+[06Jul2025 00:27:07.227] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[06Jul2025 00:27:22.911] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Timed out
+[06Jul2025 00:27:22.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[06Jul2025 00:27:22.914] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[06Jul2025 00:27:22.997] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Jul2025 00:27:31.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:53703] logged in with entity id 9492 at (1241.7648831056024, 65.48213090172169, -514.5564111171586)
+[06Jul2025 00:27:31.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[06Jul2025 00:27:31.838] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[06Jul2025 00:27:33.037] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[06Jul2025 00:27:33.037] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[06Jul2025 00:27:44.714] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[06Jul2025 00:27:45.761] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[06Jul2025 00:27:45.761] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[06Jul2025 00:30:29.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Gave 1 [Diamond Shovel] to pablito]
+[06Jul2025 00:30:36.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
