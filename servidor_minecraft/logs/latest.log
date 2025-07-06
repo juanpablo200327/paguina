@@ -23,3 +23,8 @@
 [06Jul2025 00:44:44.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
 [06Jul2025 00:45:00.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
 [06Jul2025 00:56:51.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[06Jul2025 01:08:16.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[06Jul2025 01:08:22.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the weather to clear]
+[06Jul2025 01:09:17.613] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[06Jul2025 01:09:17.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[06Jul2025 01:09:17.614] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
